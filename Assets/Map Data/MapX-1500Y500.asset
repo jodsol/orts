@@ -1,0 +1,2211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89e02d74dc8a9249bf564f5becb7cee, type: 3}
+  m_Name: MapX-1500Y500
+  m_EditorClassIdentifier: 
+  mapObjects:
+  - objectName: CE_Bbridge
+    objectPosition: {x: -1635.8594, y: 11.484375, z: 8.8828125}
+    objectRotation: {x: 1.750368e-17, y: -0.8354394, z: -1.750368e-17, w: 0.5495826}
+  - objectName: CE_dblbarn01
+    objectPosition: {x: -1070.4766, y: 77.33594, z: 355.16406}
+    objectRotation: {x: -0, y: -0.011382753, z: -0, w: 0.9999352}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1146.4531, y: 40.6875, z: 186.26562}
+    objectRotation: {x: -0, y: 0.6669689, z: -0, w: 0.74508566}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1200.3203, y: 37.84375, z: 187.3125}
+    objectRotation: {x: -0, y: -0.17776658, z: -0, w: 0.9840727}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1183.8203, y: 39.726562, z: 153.71875}
+    objectRotation: {x: 2.0140056e-17, y: -0.85217273, z: -2.0140056e-17, w: 0.52326065}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1220.7188, y: 5.078125, z: 428.26562}
+    objectRotation: {x: -0, y: 0.70222044, z: -0, w: 0.7119596}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1248.0156, y: 2.6640625, z: 360.10156}
+    objectRotation: {x: -6.6173986e-17, y: 0.99644387, z: 6.6173986e-17, w: 0.08425934}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1251.9844, y: 28.21875, z: 515.8828}
+    objectRotation: {x: -0, y: 0.16700138, z: -0, w: 0.98595667}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1265.8828, y: 7.609375, z: 447.71875}
+    objectRotation: {x: -0, y: 0.06562502, z: -0, w: 0.9978444}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1272.6484, y: 32.710938, z: 55.953125}
+    objectRotation: {x: -7.7666324e-17, y: 0.946921, z: 7.7666324e-17, w: 0.32146633}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1293.7969, y: 2.0625, z: 364.5625}
+    objectRotation: {x: 2.0131363e-17, y: -0.85211873, z: -2.0131363e-17, w: 0.5233486}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1287.4531, y: 36.226562, z: 100.875}
+    objectRotation: {x: -0, y: 0.5083454, z: -0, w: 0.86115324}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1323.5938, y: 34.734375, z: 49.34375}
+    objectRotation: {x: -2.4610544e-17, y: 0.8789094, z: 2.4610544e-17, w: -0.47698873}
+  - objectName: CE_roadsign1
+    objectPosition: {x: -1685.4453, y: 34.898438, z: 121.875}
+    objectRotation: {x: -0, y: 0.05120991, z: -0, w: 0.9986879}
+  - objectName: CEmulwire02
+    objectPosition: {x: -1868.7188, y: 38.921875, z: 181.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: CEmulwire03
+    objectPosition: {x: -1638.7344, y: 37.820312, z: 67.671875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: CEtruth_barn02
+    objectPosition: {x: -1072.9531, y: 72.734375, z: 289.1797}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: CEwirestown08
+    objectPosition: {x: -1146.1406, y: 49.328125, z: 369.1328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_roads07
+    objectPosition: {x: -1100.2891, y: 25.773438, z: 223.89062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_roads18
+    objectPosition: {x: -1245.2031, y: 22.421875, z: 430.53906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_roads54
+    objectPosition: {x: -1273.8594, y: 34.5, z: 95.96094}
+    objectRotation: {x: -7.815675e-17, y: 0.94266987, z: 7.815675e-17, w: 0.3337268}
+  - objectName: cunte_roads58B
+    objectPosition: {x: -1879.125, y: 11.7109375, z: 57.203125}
+    objectRotation: {x: -0, y: 0.15456861, z: -0, w: 0.9879821}
+  - objectName: cunte_roads62
+    objectPosition: {x: -1874.1016, y: 36.71875, z: 81.71875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_roads63
+    objectPosition: {x: -1782.4609, y: 39.570312, z: 276.79688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_roads69
+    objectPosition: {x: -1676.5859, y: 37.226562, z: 275.5078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_roads89
+    objectPosition: {x: -1551.6406, y: 21.109375, z: 322.71094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_roots01
+    objectPosition: {x: -1025.4141, y: 42.445312, z: 85.71875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntebigbarn
+    objectPosition: {x: -1554.0547, y: 26.8125, z: 0.3125}
+    objectRotation: {x: 7.1708345e-18, y: -0.7632325, z: -7.1708345e-18, w: 0.6461239}
+  - objectName: cuntEground04
+    objectPosition: {x: -1952.3047, y: 5.2265625, z: 86.609375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground04A
+    objectPosition: {x: -1952.3047, y: 5.2265625, z: 86.609375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground05
+    objectPosition: {x: -1943.1016, y: 27.726562, z: 327.26562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground05A
+    objectPosition: {x: -1943.1016, y: 27.726562, z: 327.26562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground07
+    objectPosition: {x: -1935.1797, y: 51.140625, z: 526.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground07A
+    objectPosition: {x: -1935.1797, y: 51.140625, z: 526.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground09
+    objectPosition: {x: -1729.3906, y: 28.109375, z: 12.1171875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground09A
+    objectPosition: {x: -1729.3906, y: 28.109375, z: 12.1171875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground10
+    objectPosition: {x: -1701.2188, y: 39.039062, z: 247.49219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground10A
+    objectPosition: {x: -1701.2188, y: 39.039062, z: 247.49219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground17
+    objectPosition: {x: -1496.1562, y: 12.484375, z: 12.6640625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground17A
+    objectPosition: {x: -1496.1562, y: 12.484375, z: 12.6640625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground18
+    objectPosition: {x: -1162.9531, y: 23.726562, z: 108.21875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground18A
+    objectPosition: {x: -1162.9531, y: 23.726562, z: 108.21875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground19
+    objectPosition: {x: -1452.4609, y: 22.453125, z: 254.48438}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground19A
+    objectPosition: {x: -1452.4609, y: 22.453125, z: 254.48438}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground26
+    objectPosition: {x: -1272.2109, y: 17.414062, z: 206.80469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground26A
+    objectPosition: {x: -1272.2109, y: 17.414062, z: 206.80469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground27
+    objectPosition: {x: -1941.5938, y: 75.89844, z: 686.10156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground39
+    objectPosition: {x: -1138.6641, y: 38.210938, z: 311.89062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground39A
+    objectPosition: {x: -1138.6641, y: 38.210938, z: 311.89062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntehil03
+    objectPosition: {x: -1148.6953, y: 57.3125, z: 528.16406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntehil03A
+    objectPosition: {x: -1148.6953, y: 57.3125, z: 528.16406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntetunnel1
+    objectPosition: {x: -1766.3516, y: 41.765625, z: 340.78906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntetunnel1A
+    objectPosition: {x: -1742.8047, y: 40.429688, z: 337.89062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1012.28906, y: 73.84375, z: 282.53906}
+    objectRotation: {x: -0, y: -0.2273116, z: -0, w: 0.9738221}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1023.4219, y: 73.84375, z: 279.90625}
+    objectRotation: {x: -0, y: -0.0005242378, z: -0, w: 0.9999999}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1047.3125, y: 73.84375, z: 280.33594}
+    objectRotation: {x: -0, y: 0.038742352, z: -0, w: 0.9992493}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1059.2266, y: 73.84375, z: 281.26562}
+    objectRotation: {x: -0, y: 0.038742352, z: -0, w: 0.9992493}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1082.9922, y: 73.84375, z: 283.6797}
+    objectRotation: {x: -0, y: 0.09092086, z: -0, w: 0.99585813}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1369.9922, y: 7.015625, z: 217.61719}
+    objectRotation: {x: -0.048338965, y: 0.99873656, z: -0.0028646037, w: 0.013433278}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1357.6016, y: 8.328125, z: 217.03906}
+    objectRotation: {x: -0.048420846, y: 0.99721605, z: 0.0005352971, w: -0.056704253}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1395.7734, y: 5.9296875, z: 218.29688}
+    objectRotation: {x: 0.00707466, y: 0.99962723, z: -0.0024085103, w: -0.026259853}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1419.3047, y: 6.96875, z: 218.875}
+    objectRotation: {x: 0.03606362, y: 0.9993209, z: -0.0024756137, w: -0.007143414}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1431.2812, y: 7.90625, z: 219.09375}
+    objectRotation: {x: 0.03606362, y: 0.9993209, z: -0.0024756137, w: -0.007143414}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1466.8828, y: 10.5078125, z: 217.17188}
+    objectRotation: {x: 0.016502105, y: 0.99817246, z: -0.001264148, w: 0.05811881}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1527.9219, y: 13.359375, z: 184.90625}
+    objectRotation: {x: 0.026466874, y: 0.91417205, z: 0.008203378, w: 0.40437827}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1512.2266, y: 12.2734375, z: 198.78906}
+    objectRotation: {x: 0.027397161, y: 0.9644371, z: 0.0041456083, w: 0.26285598}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1501.9766, y: 11.8125, z: 204.51562}
+    objectRotation: {x: 0.016530085, y: 0.9700962, z: 0.0008209262, w: 0.24215612}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1491.4062, y: 11.3359375, z: 209.65625}
+    objectRotation: {x: 0.016497768, y: 0.97696424, z: 0.0013195666, w: 0.21276051}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1535.8516, y: 14.2109375, z: 176.40625}
+    objectRotation: {x: 0.05079483, y: 0.9157902, z: 0.018592436, w: 0.3979981}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1552.375, y: 16.695312, z: 156.79688}
+    objectRotation: {x: 0.033954382, y: 0.90093935, z: 0.012745568, w: 0.432427}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1560.8672, y: 19.742188, z: 106.24219}
+    objectRotation: {x: 0.02365847, y: 0.74771416, z: 0.022443986, w: 0.66321945}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1560.4062, y: 18.835938, z: 118.03125}
+    objectRotation: {x: 0.03352116, y: 0.70209825, z: 0.029379698, w: 0.71068364}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1559.6016, y: 17.679688, z: 134.09375}
+    objectRotation: {x: 0.010176893, y: 0.77775246, z: 0.004099576, w: 0.62847495}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1564.8984, y: 20.765625, z: 52.359375}
+    objectRotation: {x: 0.00139688, y: 0.7093081, z: 0.002929451, w: 0.70489115}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1564.2109, y: 20.703125, z: 64.46875}
+    objectRotation: {x: 0.0015358122, y: 0.74231064, z: 0.0028590478, w: 0.67004806}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1563.3359, y: 20.632812, z: 76.27344}
+    objectRotation: {x: 0.0014730749, y: 0.72751683, z: 0.0028918695, w: 0.6860822}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1562.3203, y: 20.375, z: 88.1875}
+    objectRotation: {x: 0.0015607015, y: 0.7481295, z: 0.0028455397, w: 0.66354483}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1564.3438, y: 20.945312, z: 40.59375}
+    objectRotation: {x: 0.0012547135, y: 0.674672, z: 0.0029930864, w: 0.73811054}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1566.9219, y: 20.789062, z: 29.460938}
+    objectRotation: {x: 0.001975411, y: 0.8403632, z: 0.0025749998, w: 0.542014}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1009.47656, y: 54.328125, z: 440.1797}
+    objectRotation: {x: 0.102804534, y: -0.7290968, z: -0.09447423, w: 0.6700177}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1003.78906, y: 53.25, z: 445.6953}
+    objectRotation: {x: -0.037829876, y: 0.999282, z: -0.00007897786, w: 0.002086307}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1007.6953, y: 63.445312, z: 416.64062}
+    objectRotation: {x: 0.1150152, y: -0.69918483, z: -0.11453594, w: 0.6962712}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1008.4375, y: 58.851562, z: 428.40625}
+    objectRotation: {x: 0.15178375, y: -0.72049475, z: -0.13948475, w: 0.66211253}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1042.8203, y: 62.65625, z: 410.41406}
+    objectRotation: {x: 0.124201365, y: 0.6967108, z: 0.1239949, w: 0.6955525}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1041.9297, y: 58.15625, z: 422.1328}
+    objectRotation: {x: 0.1393351, y: 0.7247901, z: 0.12737969, w: 0.6626005}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1040.8281, y: 53.742188, z: 434.0625}
+    objectRotation: {x: 0.110098325, y: 0.72980356, z: 0.100651465, w: 0.66718394}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1007.7969, y: 71.84375, z: 385.0078}
+    objectRotation: {x: 0.06827198, y: -0.7052849, z: -0.067987464, w: 0.70234597}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1042.9219, y: 70.35156, z: 386.45312}
+    objectRotation: {x: 0.08788298, y: 0.7022168, z: 0.08773694, w: 0.7010495}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1042.9688, y: 72.890625, z: 374.47656}
+    objectRotation: {x: 0.05679063, y: 0.7054125, z: 0.05669619, w: 0.7042397}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1007.6719, y: 73.84375, z: 361.625}
+    objectRotation: {x: 1.8079879e-19, y: -0.70858157, z: -1.8079879e-19, w: 0.70562893}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1007.625, y: 73.84375, z: 349.89844}
+    objectRotation: {x: 1.8079879e-19, y: -0.70858157, z: -1.8079879e-19, w: 0.70562893}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1007.52344, y: 73.84375, z: 326.4453}
+    objectRotation: {x: 1.8079879e-19, y: -0.70858157, z: -1.8079879e-19, w: 0.70562893}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1007.47656, y: 73.84375, z: 314.71875}
+    objectRotation: {x: 1.8079879e-19, y: -0.70858157, z: -1.8079879e-19, w: 0.70562893}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1007.4297, y: 73.84375, z: 302.9922}
+    objectRotation: {x: 1.8079879e-19, y: -0.70858157, z: -1.8079879e-19, w: 0.70562893}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1007.3828, y: 73.84375, z: 291.2578}
+    objectRotation: {x: 1.8079879e-19, y: -0.70858157, z: -1.8079879e-19, w: 0.70562893}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1083.6641, y: 73.84375, z: 368.53125}
+    objectRotation: {x: -6.118138e-17, y: 0.99999964, z: 6.118138e-17, w: -0.0008319178}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1071.9375, y: 73.84375, z: 368.51562}
+    objectRotation: {x: -6.118138e-17, y: 0.99999964, z: 6.118138e-17, w: -0.0008319178}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1060.2109, y: 73.84375, z: 368.4922}
+    objectRotation: {x: -6.118138e-17, y: 0.99999964, z: 6.118138e-17, w: -0.0008319178}
+  - objectName: cxreffencesld
+    objectPosition: {x: -1107.1172, y: 73.84375, z: 368.5703}
+    objectRotation: {x: -6.118138e-17, y: 0.99999964, z: 6.118138e-17, w: -0.0008319178}
+  - objectName: cxrf_watertwr
+    objectPosition: {x: -1099.1172, y: 77.61719, z: 358.47656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: des_westrn9_
+    objectPosition: {x: -1110.2422, y: 73.03906, z: 298.9453}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: des_westrn11_
+    objectPosition: {x: -1106.6406, y: 73.74219, z: 319.875}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1092.7109, y: 73.57031, z: 327.0625}
+    objectRotation: {x: -8.6592125e-17, y: 0.71342003, z: 8.6592125e-17, w: 0.70073664}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1095.3984, y: 73.50781, z: 329.8203}
+    objectRotation: {x: -6.068072e-17, y: 0.9999598, z: 6.068072e-17, w: -0.008968548}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1092.7969, y: 73.57031, z: 321.48438}
+    objectRotation: {x: -8.6592125e-17, y: 0.71342003, z: 8.6592125e-17, w: 0.70073664}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1092.9062, y: 73.57031, z: 315.96875}
+    objectRotation: {x: -8.6592125e-17, y: 0.71342003, z: 8.6592125e-17, w: 0.70073664}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1093.1953, y: 73.57031, z: 299.29688}
+    objectRotation: {x: -8.6592125e-17, y: 0.71342003, z: 8.6592125e-17, w: 0.70073664}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1093.3047, y: 73.57031, z: 293.78125}
+    objectRotation: {x: -8.6592125e-17, y: 0.71342003, z: 8.6592125e-17, w: 0.70073664}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1096.1562, y: 73.57031, z: 291.26562}
+    objectRotation: {x: -0, y: 0.008968386, z: -0, w: 0.9999598}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1106.4922, y: 73.50781, z: 330.02344}
+    objectRotation: {x: -6.068072e-17, y: 0.9999598, z: 6.068072e-17, w: -0.008968548}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1100.9141, y: 73.50781, z: 329.9297}
+    objectRotation: {x: -6.068072e-17, y: 0.9999598, z: 6.068072e-17, w: -0.008968548}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1101.6719, y: 73.57031, z: 291.375}
+    objectRotation: {x: -0, y: 0.008968386, z: -0, w: 0.9999598}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1107.2656, y: 73.57031, z: 291.46094}
+    objectRotation: {x: -0, y: 0.008968386, z: -0, w: 0.9999598}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1117.5781, y: 73.50781, z: 330.21094}
+    objectRotation: {x: -6.068072e-17, y: 0.9999598, z: 6.068072e-17, w: -0.008968548}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1112, y: 73.50781, z: 330.125}
+    objectRotation: {x: -6.068072e-17, y: 0.9999598, z: 6.068072e-17, w: -0.008968548}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1112.7812, y: 73.57031, z: 291.5703}
+    objectRotation: {x: -0, y: 0.008968386, z: -0, w: 0.9999598}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1118.375, y: 73.57031, z: 291.66406}
+    objectRotation: {x: -0, y: 0.008968386, z: -0, w: 0.9999598}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1120.4297, y: 73.57031, z: 327.76562}
+    objectRotation: {x: -0, y: -0.7007368, z: -0, w: 0.71341985}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1121.0234, y: 73.57031, z: 294.52344}
+    objectRotation: {x: -0, y: -0.7007368, z: -0, w: 0.71341985}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1120.625, y: 73.57031, z: 316.73438}
+    objectRotation: {x: -0, y: -0.7007368, z: -0, w: 0.71341985}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1120.9297, y: 73.57031, z: 300.1172}
+    objectRotation: {x: -0, y: -0.7007368, z: -0, w: 0.71341985}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1120.8203, y: 73.57031, z: 305.6328}
+    objectRotation: {x: -0, y: -0.7007368, z: -0, w: 0.71341985}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1120.7344, y: 73.57031, z: 311.21875}
+    objectRotation: {x: -0, y: -0.7007368, z: -0, w: 0.71341985}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1120.5391, y: 73.57031, z: 322.25}
+    objectRotation: {x: -0, y: -0.7007368, z: -0, w: 0.71341985}
+  - objectName: DYN_RAMP
+    objectPosition: {x: -1019.3203, y: 73.203125, z: 282.78906}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: DYN_RAMP
+    objectPosition: {x: -1434.1094, y: 30.367188, z: 185.97656}
+    objectRotation: {x: 0.049393557, y: 0.99374187, z: 0.0049737557, w: -0.100063205}
+  - objectName: gen_roofbit3
+    objectPosition: {x: -1651.4766, y: 39.4375, z: 326.85938}
+    objectRotation: {x: -0, y: -0.639439, z: -0, w: 0.7688418}
+  - objectName: gen_roofbit3
+    objectPosition: {x: -1832.4141, y: 57.242188, z: 343.70312}
+    objectRotation: {x: -0, y: 0.544639, z: -0, w: 0.8386706}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1091.6094, y: 71.03906, z: 250.00781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1150.3516, y: 58.414062, z: 343.10938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1207.6875, y: 13.65625, z: 465.20312}
+    objectRotation: {x: 7.923642e-18, y: -0.76884186, z: -7.923642e-18, w: 0.639439}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1284.2891, y: 3.8984375, z: 340.32812}
+    objectRotation: {x: -4.2970177e-17, y: 0.96478736, z: 4.2970177e-17, w: -0.2630311}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1492.5781, y: 30.46875, z: 373.0078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1771.0312, y: 75.00781, z: 327.45312}
+    objectRotation: {x: -0, y: -0.35836798, z: -0, w: 0.9335804}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1775.3359, y: 72.44531, z: 175.45312}
+    objectRotation: {x: -4.7479803e-17, y: 0.9790455, z: 4.7479803e-17, w: -0.2036415}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1814.5547, y: 50.789062, z: 281.46875}
+    objectRotation: {x: -2.890622e-17, y: 0.9025854, z: 2.890622e-17, w: -0.43051094}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1942.4688, y: 109.11719, z: 702.4219}
+    objectRotation: {x: -0, y: -0.426839, z: -0, w: 0.9043277}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1049.5391, y: 50.085938, z: 482.78906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: 'pogenVEG_bush09 '
+    objectPosition: {x: -1553, y: 20.914062, z: 5.6875}
+    objectRotation: {x: -4.6527808e-17, y: 0.97629607, z: 4.6527808e-17, w: -0.21643929}
+  - objectName: popinetree05
+    objectPosition: {x: -1096.625, y: 72.9375, z: 294.41406}
+    objectRotation: {x: -2.7808247e-17, y: 0.8967271, z: 2.7808247e-17, w: -0.44258395}
+  - objectName: popinetree05
+    objectPosition: {x: -1116.4453, y: 72.9375, z: 326.7578}
+    objectRotation: {x: -0, y: -0.4883339, z: -0, w: 0.8726569}
+  - objectName: posm_fir_scabt
+    objectPosition: {x: -1075.1641, y: 74.828125, z: 391.5078}
+    objectRotation: {x: -0, y: -0.1413375, z: -0, w: 0.98996145}
+  - objectName: posm_fir_tall
+    objectPosition: {x: -1091.9297, y: 75.21875, z: 41.34375}
+    objectRotation: {x: -0, y: -0.70256704, z: -0, w: 0.7116176}
+  - objectName: posm_fir_tall
+    objectPosition: {x: -1144.4062, y: 68.484375, z: 59.476562}
+    objectRotation: {x: -0, y: -0.5982703, z: -0, w: 0.8012944}
+  - objectName: posm_fir_tall
+    objectPosition: {x: -1860.0156, y: 41.304688, z: 155.21875}
+    objectRotation: {x: -7.564176e-17, y: 0.9618912, z: 7.564176e-17, w: 0.2734326}
+  - objectName: posm_fir_tall
+    objectPosition: {x: -1880.7109, y: 40.328125, z: 273.14844}
+    objectRotation: {x: 1.8917763e-17, y: -0.84450233, z: -1.8917763e-17, w: 0.53555185}
+  - objectName: posm_fir_tall
+    objectPosition: {x: -1053.2891, y: 74.42969, z: 378.67188}
+    objectRotation: {x: -5.9273036e-17, y: 0.99950373, z: 5.9273036e-17, w: -0.03150152}
+  - objectName: posm_fir_tall
+    objectPosition: {x: -1092.4688, y: 74.890625, z: 383.6172}
+    objectRotation: {x: -8.568745e-17, y: 0.80182993, z: 8.568745e-17, w: 0.5975523}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1010.1406, y: 78.125, z: 66.546875}
+    objectRotation: {x: -4.411035e-17, y: 0.9686819, z: 4.411035e-17, w: -0.2483052}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1025.0625, y: 91.109375, z: 24.148438}
+    objectRotation: {x: -3.6342544e-17, y: 0.93858016, z: 3.6342544e-17, w: -0.3450614}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1125.9766, y: 67.77344, z: 11.40625}
+    objectRotation: {x: -0, y: -0.09837531, z: -0, w: 0.9951494}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1166.4766, y: 43.046875, z: 150.99219}
+    objectRotation: {x: -8.538182e-17, y: 0.8151719, z: 8.538182e-17, w: 0.5792191}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1198.4922, y: 39.632812, z: 66.953125}
+    objectRotation: {x: -3.0885786e-17, y: 0.9128031, z: 3.0885786e-17, w: -0.4084}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1848.1797, y: 46.515625, z: 355.9922}
+    objectRotation: {x: 2.007453e-17, y: -0.8517654, z: -2.007453e-17, w: 0.5239234}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1845.2969, y: 44.234375, z: 280.0547}
+    objectRotation: {x: -6.032209e-17, y: 0.99989116, z: 6.032209e-17, w: -0.014756697}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1925.0547, y: 117.16406, z: 751.7969}
+    objectRotation: {x: -0, y: 0.47775927, z: -0, w: 0.8784908}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1095.3828, y: 73.17969, z: 327.47656}
+    objectRotation: {x: -0, y: 0.052335866, z: -0, w: 0.9986295}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1106.5469, y: 73.17969, z: 328.16406}
+    objectRotation: {x: -0, y: -0.4265688, z: -0, w: 0.9044551}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: -1162.6562, y: 57.984375, z: 40.117188}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: -1267.625, y: 38.851562, z: 134.84375}
+    objectRotation: {x: 2.8803103e-18, y: -0.73023504, z: -2.8803103e-18, w: 0.683196}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: -1326.9844, y: 16.078125, z: 183.30469}
+    objectRotation: {x: 2.8803103e-18, y: -0.73023504, z: -2.8803103e-18, w: 0.683196}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: -1461.9766, y: 24.375, z: 173.30469}
+    objectRotation: {x: -0, y: -0.56735665, z: -0, w: 0.8234722}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: -1509.6016, y: 15.5546875, z: 167.0625}
+    objectRotation: {x: -8.3300046e-17, y: 0.87341326, z: 8.3300046e-17, w: 0.48697978}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: -1036.9453, y: 114.28906, z: 608.2344}
+    objectRotation: {x: -0, y: -0.13234343, z: -0, w: 0.99120396}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1304.4375, y: 24.835938, z: 164.47656}
+    objectRotation: {x: 1.6597508e-17, y: -0.829526, z: -1.6597508e-17, w: 0.5584681}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1380.2656, y: 8.9765625, z: 189.9375}
+    objectRotation: {x: -5.786195e-17, y: 0.9985622, z: 5.786195e-17, w: -0.05360484}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1430.5078, y: 22.328125, z: 150.44531}
+    objectRotation: {x: 1.4398393e-18, y: -0.7187662, z: -1.4398393e-18, w: 0.6952518}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1529.9219, y: 6.6328125, z: 290.33594}
+    objectRotation: {x: 1.4398393e-18, y: -0.7187662, z: -1.4398393e-18, w: 0.6952518}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1986.5, y: 68.328125, z: 442.78906}
+    objectRotation: {x: -0, y: 0.32324797, z: -0, w: 0.9463143}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1546.375, y: 13.765625, z: 258.10156}
+    objectRotation: {x: -0, y: -0.25296578, z: -0, w: 0.96747524}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1562.6719, y: 10.234375, z: 334.29688}
+    objectRotation: {x: -0, y: -0.5505258, z: -0, w: 0.8348182}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1623.0938, y: 38.992188, z: 268.41406}
+    objectRotation: {x: -0, y: 0.08060762, z: -0, w: 0.99674594}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1687.2031, y: 34.546875, z: 83.640625}
+    objectRotation: {x: -4.01549e-17, y: 0.9543786, z: 4.01549e-17, w: -0.29859927}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1106.7344, y: 103.71875, z: 597.6406}
+    objectRotation: {x: -0, y: -0.07401597, z: -0, w: 0.99725705}
+  - objectName: sm_airstrm_med_
+    objectPosition: {x: -1107.5938, y: 72.796875, z: 358.51562}
+    objectRotation: {x: -0, y: -0.23936015, z: -0, w: 0.9709309}
+  - objectName: sm_airstrm_med_
+    objectPosition: {x: -1114.2969, y: 72.796875, z: 353.8203}
+    objectRotation: {x: -0, y: -0.40195987, z: -0, w: 0.9156573}
+  - objectName: sw_tempbarn01
+    objectPosition: {x: -1019.3828, y: 72.984375, z: 300.2422}
+    objectRotation: {x: -0, y: 0.70696396, z: -0, w: 0.7072496}
+  - objectName: sw_tempbarn01
+    objectPosition: {x: -1045.5625, y: 72.984375, z: 300.60156}
+    objectRotation: {x: -0, y: 0.70696396, z: -0, w: 0.7072496}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1164.0156, y: 21.234375, z: 416.6328}
+    objectRotation: {x: 0.031764008, y: -0.084111705, z: 0.050421823, w: 0.9946728}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1214.8516, y: 5.9765625, z: 411.2578}
+    objectRotation: {x: -0.02454522, y: -0.08278315, z: 0.0020395378, w: 0.9962632}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1249.8281, y: 1.8828125, z: 406.28906}
+    objectRotation: {x: 0.00037958095, y: -0.013084136, z: 0.029002428, w: 0.99949366}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1010.65625, y: 50.570312, z: 453.8125}
+    objectRotation: {x: 0.013881186, y: -0.24999496, z: 0.05367485, w: 0.96665865}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1042.1328, y: 63.015625, z: 408.6328}
+    objectRotation: {x: 0.10578252, y: -0.0043388805, z: -0.0004615726, w: 0.99437976}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1042.8125, y: 73.10156, z: 368.1953}
+    objectRotation: {x: -0.00000008429291, y: -0.004363363, z: -3.6779763e-10, w: 0.9999905}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1053.8906, y: 49.726562, z: 437.4453}
+    objectRotation: {x: -0.00000008336779, y: -0.14780946, z: -0.000000012459402, w: 0.9890159}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1094.4141, y: 72.89844, z: 367.96875}
+    objectRotation: {x: -0.00000008429291, y: -0.004363363, z: -3.6779763e-10, w: 0.9999905}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1108.7891, y: 40.289062, z: 424.83594}
+    objectRotation: {x: -0.00000008336779, y: -0.14780946, z: -0.000000012459402, w: 0.9890159}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1101.2891, y: 72.89844, z: 329.53125}
+    objectRotation: {x: -0.03771358, y: -0.004360259, z: 0.00016455886, w: 0.9992791}
+  - objectName: trunk
+    objectPosition: {x: -1360.1016, y: 25.25, z: 111.19531}
+    objectRotation: {x: -0, y: -0.3951768, z: -0, w: 0.9186051}
+  - objectName: trunk
+    objectPosition: {x: -1478.9766, y: 18.367188, z: 115.375}
+    objectRotation: {x: -3.4220588e-17, y: 0.92898417, z: 3.4220588e-17, w: -0.37011957}
+  - objectName: trunk
+    objectPosition: {x: -1630.3516, y: 42, z: 235.08594}
+    objectRotation: {x: -0, y: -0.3951768, z: -0, w: 0.9186051}
+  - objectName: trunk
+    objectPosition: {x: -1097.4688, y: 73.66406, z: 314.21094}
+    objectRotation: {x: -0, y: 0.19509028, z: -0, w: 0.9807853}
+  - objectName: trunk05
+    objectPosition: {x: -1030.9688, y: 22.851562, z: 166.02344}
+    objectRotation: {x: -6.9680954e-17, y: 0.9888125, z: 6.9680954e-17, w: 0.14916389}
+  - objectName: trunk05
+    objectPosition: {x: -1045.8438, y: 75.421875, z: 270.9453}
+    objectRotation: {x: -3.73874e-17, y: 0.9430979, z: 3.73874e-17, w: -0.33251536}
+  - objectName: trunk05
+    objectPosition: {x: -1058.7891, y: 80.57031, z: 12.4375}
+    objectRotation: {x: -0, y: 0.13828102, z: -0, w: 0.99039304}
+  - objectName: trunk05
+    objectPosition: {x: -1130.1719, y: 70.703125, z: 278.6172}
+    objectRotation: {x: -3.73874e-17, y: 0.9430979, z: 3.73874e-17, w: -0.33251536}
+  - objectName: trunk05
+    objectPosition: {x: -1124.7734, y: 53.554688, z: 493.4922}
+    objectRotation: {x: -3.73874e-17, y: 0.9430979, z: 3.73874e-17, w: -0.33251536}
+  - objectName: trunk05
+    objectPosition: {x: -1137.7031, y: 68.953125, z: 313.91406}
+    objectRotation: {x: 1.5719982e-17, y: -0.82372147, z: -1.5719982e-17, w: 0.56699467}
+  - objectName: trunk05
+    objectPosition: {x: -1135.1953, y: 73.203125, z: 54.820312}
+    objectRotation: {x: -3.73874e-17, y: 0.9430979, z: 3.73874e-17, w: -0.33251536}
+  - objectName: trunk05
+    objectPosition: {x: -1409.5781, y: 24.078125, z: 379.46094}
+    objectRotation: {x: 1.552584e-17, y: -0.822427, z: -1.552584e-17, w: 0.5688707}
+  - objectName: trunk05
+    objectPosition: {x: -1775.8672, y: 72.36719, z: 277.07812}
+    objectRotation: {x: -4.427572e-17, y: 0.96923083, z: 4.427572e-17, w: -0.2461535}
+  - objectName: trunk05
+    objectPosition: {x: -1818.7188, y: 76.67969, z: 570.78125}
+    objectRotation: {x: -0, y: -0.5224985, z: -0, w: 0.8526402}
+  - objectName: trunk05
+    objectPosition: {x: -1807.3594, y: 71.32031, z: 352.375}
+    objectRotation: {x: -0, y: -0.66261995, z: -0, w: 0.7489558}
+  - objectName: trunk05
+    objectPosition: {x: -1776.6172, y: 68.64844, z: 126.703125}
+    objectRotation: {x: -8.429036e-17, y: 0.85035247, z: 8.429036e-17, w: 0.5262135}
+  - objectName: DYN_F_R_WOOD_1
+    objectPosition: {x: -1981.1094, y: 31.023438, z: 998.9375}
+    objectRotation: {x: 0.004803387, y: -0.1511077, z: 0.03590808, w: 0.9878533}
+  - objectName: DYN_F_R_WOOD_1
+    objectPosition: {x: -1985.5547, y: 30.78125, z: 997.5547}
+    objectRotation: {x: 0.004803387, y: -0.1511077, z: 0.03590808, w: 0.9878533}
+  - objectName: DYN_F_R_WOOD_1
+    objectPosition: {x: -1990, y: 30.523438, z: 996.16406}
+    objectRotation: {x: 0.004803387, y: -0.1511077, z: 0.03590808, w: 0.9878533}
+  - objectName: DYN_F_R_WOOD_1
+    objectPosition: {x: -1994.4453, y: 30.289062, z: 994.85156}
+    objectRotation: {x: 0.0051408773, y: -0.14181063, z: 0.035861325, w: 0.9892307}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1955.9766, y: 31.070312, z: 999.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_palm01
+    objectPosition: {x: -1980.1094, y: 29.289062, z: 995.9219}
+    objectRotation: {x: -0, y: 0.34611705, z: -0, w: 0.93819135}
+  - objectName: bevman3_LAW2
+    objectPosition: {x: -1497.8594, y: 99.88281, z: 674.8281}
+    objectRotation: {x: -0.000000087421675, y: -0.0050190156, z: -4.3877632e-10, w: 0.9999874}
+  - objectName: bevmangar_LAW2
+    objectPosition: {x: -1013.9844, y: 122.71875, z: 669.15625}
+    objectRotation: {x: -7.5661086e-17, y: 0.9617657, z: 7.5661086e-17, w: 0.2738736}
+  - objectName: bevmangar_LAW2
+    objectPosition: {x: -1079.9688, y: 115.015625, z: 638.2422}
+    objectRotation: {x: 1.7948473e-18, y: -0.72161096, z: -1.7948473e-18, w: 0.6922989}
+  - objectName: bevmangar_LAW2
+    objectPosition: {x: -1525.5, y: 96.078125, z: 691.6953}
+    objectRotation: {x: -8.659547e-17, y: 0.7084027, z: 8.659547e-17, w: 0.7058086}
+  - objectName: BillBd2
+    objectPosition: {x: -1629.1641, y: 71.859375, z: 840.39844}
+    objectRotation: {x: -8.137326e-17, y: 0.9063079, z: 8.137326e-17, w: 0.42261818}
+  - objectName: BillBd2
+    objectPosition: {x: -1715.7109, y: 68.39844, z: 780.3281}
+    objectRotation: {x: -0, y: -0.66803235, z: -0, w: 0.7441322}
+  - objectName: BillBd2
+    objectPosition: {x: -1673.5781, y: 63.898438, z: 712.375}
+    objectRotation: {x: -0, y: 0.6087614, z: -0, w: 0.7933533}
+  - objectName: BillBd3
+    objectPosition: {x: -1581.1172, y: 58.5, z: 887.10156}
+    objectRotation: {x: -2.6948677e-17, y: 0.89204735, z: 2.6948677e-17, w: -0.451942}
+  - objectName: BinNt13_LA
+    objectPosition: {x: -1020.2422, y: 101.30469, z: 794.8828}
+    objectRotation: {x: -6.384491e-17, y: 0.9990483, z: 6.384491e-17, w: 0.04361826}
+  - objectName: BinNt14_LA
+    objectPosition: {x: -1019.1406, y: 101.30469, z: 794.97656}
+    objectRotation: {x: -6.384491e-17, y: 0.9990483, z: 6.384491e-17, w: 0.04361826}
+  - objectName: CE_hairpinR
+    objectPosition: {x: -1010.78125, y: 100.890625, z: 780.02344}
+    objectRotation: {x: 8.299853e-18, y: -0.7716248, z: -8.299853e-18, w: 0.63607794}
+  - objectName: CE_radarmast3
+    objectPosition: {x: -1045.1172, y: 151.13281, z: 716.2969}
+    objectRotation: {x: -0, y: 0.3846627, z: -0, w: 0.92305726}
+  - objectName: CE_radarmast3
+    objectPosition: {x: -1459.1797, y: 124.390625, z: 783.2656}
+    objectRotation: {x: -0, y: 0.38472787, z: -0, w: 0.92303}
+  - objectName: CE_safedoor01
+    objectPosition: {x: -1353.4766, y: 109.82031, z: 626.625}
+    objectRotation: {x: -0, y: 0.5859677, z: -0, w: 0.8103344}
+  - objectName: CE_safeground
+    objectPosition: {x: -1337.4219, y: 105.765625, z: 643.2656}
+    objectRotation: {x: -0, y: -0.1642632, z: -0, w: 0.9864166}
+  - objectName: CEhillhse14
+    objectPosition: {x: -1443.0625, y: 91.14844, z: 620.1172}
+    objectRotation: {x: -6.0964594e-17, y: 0.9999905, z: 6.0964594e-17, w: -0.004363241}
+  - objectName: CEhillhse14_alpha
+    objectPosition: {x: -1443.0547, y: 91.14844, z: 620.125}
+    objectRotation: {x: -6.0964594e-17, y: 0.9999905, z: 6.0964594e-17, w: -0.004363241}
+  - objectName: CEhollyhil01
+    objectPosition: {x: -1317.8594, y: 52.21875, z: 474.10156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: CEhollyhil03
+    objectPosition: {x: -1284.3047, y: 81.375, z: 677.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: CEhollyhil8a01
+    objectPosition: {x: -1033.7734, y: 120.66406, z: 666.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: CEmullholdr05
+    objectPosition: {x: -1411.9062, y: 67.58594, z: 562.96875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: CEroad_hill20
+    objectPosition: {x: -1063.5859, y: 112.21094, z: 626.9844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: CJ_Dump1_LOW
+    objectPosition: {x: -1072.1406, y: 106.44531, z: 778.3828}
+    objectRotation: {x: -6.38449e-17, y: 0.9990483, z: 6.38449e-17, w: 0.043618143}
+  - objectName: CJ_Dump1_LOW
+    objectPosition: {x: -1072.1406, y: 106.44531, z: 778.3828}
+    objectRotation: {x: -6.38449e-17, y: 0.9990483, z: 6.38449e-17, w: 0.043618143}
+  - objectName: CJ_Dump1_LOW
+    objectPosition: {x: -1071.0547, y: 106.28906, z: 778.47656}
+    objectRotation: {x: -6.384491e-17, y: 0.9990483, z: 6.384491e-17, w: 0.04361826}
+  - objectName: cunte_Flyover2
+    objectPosition: {x: -1650.0234, y: 42.351562, z: 559.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_hollyhil01
+    objectPosition: {x: -1496.9141, y: 48.679688, z: 790.91406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_hollyhil9
+    objectPosition: {x: -1041.3203, y: 90.02344, z: 707.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_roads05
+    objectPosition: {x: -1700.8906, y: 38.359375, z: 556.53906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunte_skatetrak
+    objectPosition: {x: -1341.0234, y: 58.132812, z: 839.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntebridge01
+    objectPosition: {x: -1210.7031, y: 78.71094, z: 625.6172}
+    objectRotation: {x: -0, y: -0.09106933, z: -0, w: 0.99584454}
+  - objectName: cuntEground16
+    objectPosition: {x: -1701.625, y: 59.695312, z: 489.1953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground20
+    objectPosition: {x: -1530.9219, y: 62.984375, z: 532.6406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground25
+    objectPosition: {x: -1826.0859, y: 75.32031, z: 882.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntEground28
+    objectPosition: {x: -1805.0234, y: 69.796875, z: 699.9844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntelandF4
+    objectPosition: {x: -1077.6094, y: 114.28906, z: 651.6094}
+    objectRotation: {x: -3.9893677e-17, y: 0.9533573, z: 3.9893677e-17, w: -0.30184412}
+  - objectName: cxrf_frway1sig
+    objectPosition: {x: -1725.6094, y: 42.375, z: 665.33594}
+    objectRotation: {x: -8.644381e-17, y: 0.74771667, z: 8.644381e-17, w: 0.6640179}
+  - objectName: cxrf_frway1sig
+    objectPosition: {x: -1559.7969, y: 33.101562, z: 451.6172}
+    objectRotation: {x: -4.5814692e-17, y: 0.974143, z: 4.5814692e-17, w: -0.22593231}
+  - objectName: drg_nu_ext
+    objectPosition: {x: -1254.3984, y: 85.96094, z: 803.1719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: drg_nu_ext05
+    objectPosition: {x: -1272.5938, y: 86.359375, z: 803.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1006.2578, y: 100.15625, z: 800.8047}
+    objectRotation: {x: 0.047539905, y: 0.97610575, z: 0.0064698495, w: 0.21193334}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1011.2656, y: 100.65625, z: 798.4219}
+    objectRotation: {x: 0.047539905, y: 0.97610575, z: 0.0064698495, w: 0.21193334}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1016.28125, y: 101.14844, z: 796.03125}
+    objectRotation: {x: 0.047539905, y: 0.97610575, z: 0.0064698495, w: 0.21193334}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1035.4062, y: 103.17969, z: 789.25}
+    objectRotation: {x: 0.047174733, y: 0.9851498, z: 0.008743267, w: 0.16485748}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1040.6094, y: 103.74219, z: 787.4297}
+    objectRotation: {x: 0.047174733, y: 0.9851498, z: 0.008743267, w: 0.16485748}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1051.0625, y: 104.88281, z: 783.71094}
+    objectRotation: {x: 0.047249254, y: 0.9836737, z: 0.008331298, w: 0.17344777}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1045.8672, y: 104.3125, z: 785.6094}
+    objectRotation: {x: 0.047249254, y: 0.9836737, z: 0.008331298, w: 0.17344777}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1056.3672, y: 105.375, z: 781.78125}
+    objectRotation: {x: 0.034369297, y: 0.98420787, z: 0.0060602427, w: 0.17354222}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1069.8281, y: 106.59375, z: 779.16406}
+    objectRotation: {x: 0.034779623, y: 0.99595845, z: 0.0028900183, w: 0.08275746}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1064.2656, y: 106.171875, z: 780.10156}
+    objectRotation: {x: 0.034779623, y: 0.99595845, z: 0.0028900183, w: 0.08275746}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1458.6797, y: 54.414062, z: 911.0156}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1455.9844, y: 54.34375, z: 908.28125}
+    objectRotation: {x: -0, y: -0.70073664, z: -0, w: 0.71342003}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1456.0938, y: 54.273438, z: 902.7656}
+    objectRotation: {x: -0, y: -0.70073664, z: -0, w: 0.71342003}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1438.8516, y: 50.0625, z: 895.7344}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: -1433.3516, y: 50.179688, z: 895.7344}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: Gen_doorEXT15
+    objectPosition: {x: -1297.0156, y: 83.125, z: 797.59375}
+    objectRotation: {x: -0, y: -0.0000001509958, z: -0, w: 1}
+  - objectName: Gen_doorEXT15
+    objectPosition: {x: -1300.0312, y: 83.125, z: 797.5625}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.00000004371139}
+  - objectName: Gen_doorEXT15
+    objectPosition: {x: -1260.0625, y: 91.015625, z: 786.89844}
+    objectRotation: {x: -0, y: -0.70710665, z: -0, w: 0.7071069}
+  - objectName: Gen_doorEXT15
+    objectPosition: {x: -1260.0312, y: 91.015625, z: 783.8828}
+    objectRotation: {x: -0, y: 0.7071067, z: -0, w: 0.7071068}
+  - objectName: Gen_doorEXT15
+    objectPosition: {x: -1333.6953, y: 108.11719, z: 633.3828}
+    objectRotation: {x: -7.0278714e-17, y: 0.9869965, z: 7.0278714e-17, w: 0.16074209}
+  - objectName: Gen_doorEXT15
+    objectPosition: {x: -1330.8438, y: 108.11719, z: 634.3906}
+    objectRotation: {x: -0, y: -0.16504757, z: -0, w: 0.9862856}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1413.3438, y: 46.921875, z: 918.1406}
+    objectRotation: {x: -0, y: -0.65493023, z: -0, w: 0.7556893}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1435.3672, y: 48.117188, z: 922.5}
+    objectRotation: {x: -5.614091e-17, y: 0.996799, z: 5.614091e-17, w: -0.07994844}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1435.7969, y: 48.117188, z: 919.84375}
+    objectRotation: {x: -5.614091e-17, y: 0.996799, z: 5.614091e-17, w: -0.07994844}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1464.6172, y: 59.351562, z: 908.65625}
+    objectRotation: {x: -8.6594355e-17, y: 0.7108965, z: 8.6594355e-17, w: 0.70329666}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1287.5469, y: 95.75781, z: 770.6953}
+    objectRotation: {x: -0, y: 0.0014947648, z: -0, w: 0.9999989}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1287.5547, y: 95.75781, z: 768.5}
+    objectRotation: {x: -0, y: 0.0014947648, z: -0, w: 0.9999989}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1324.6953, y: 113.8125, z: 642.9453}
+    objectRotation: {x: -0, y: 0.5690133, z: -0, w: 0.8223283}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1327.5625, y: 113.8125, z: 641.8672}
+    objectRotation: {x: -0, y: 0.5690133, z: -0, w: 0.8223283}
+  - objectName: gen_roofbit1
+    objectPosition: {x: -1536.8828, y: 60.882812, z: 891.375}
+    objectRotation: {x: -0, y: -0.38935477, z: -0, w: 0.92108786}
+  - objectName: gen_roofbit2
+    objectPosition: {x: -1003.5781, y: 99.83594, z: 830.0469}
+    objectRotation: {x: 2.014826e-17, y: -0.8522237, z: -2.014826e-17, w: 0.5231777}
+  - objectName: gen_roofbit2
+    objectPosition: {x: -1030.0547, y: 106.57031, z: 816.10156}
+    objectRotation: {x: -0, y: -0.17420648, z: -0, w: 0.98470914}
+  - objectName: gen_roofbit2
+    objectPosition: {x: -1016.7344, y: 116.9375, z: 765.2031}
+    objectRotation: {x: -0, y: 0.0014947648, z: -0, w: 0.9999989}
+  - objectName: gen_roofbit2
+    objectPosition: {x: -1403.5312, y: 47.125, z: 914.10156}
+    objectRotation: {x: -0, y: 0.07124754, z: -0, w: 0.9974587}
+  - objectName: gen_roofbit2
+    objectPosition: {x: -1474.8828, y: 59.554688, z: 911.3672}
+    objectRotation: {x: -6.0902403e-17, y: 0.9999856, z: 6.0902403e-17, w: -0.0053738854}
+  - objectName: gen_roofbit2
+    objectPosition: {x: -1348.0547, y: 113.99219, z: 644.2969}
+    objectRotation: {x: -0, y: -0.17912076, z: -0, w: 0.9838271}
+  - objectName: gen_roofbit2
+    objectPosition: {x: -1500.8984, y: 65.39844, z: 900.03125}
+    objectRotation: {x: -0, y: -0.13419914, z: -0, w: 0.9909544}
+  - objectName: gen_roofbit4
+    objectPosition: {x: -1444.5781, y: 47.984375, z: 920.8906}
+    objectRotation: {x: -0, y: 0.07994918, z: -0, w: 0.99679893}
+  - objectName: gen_roofbit4
+    objectPosition: {x: -1502.1484, y: 65.03125, z: 907.84375}
+    objectRotation: {x: -0, y: -0.13419914, z: -0, w: 0.9909544}
+  - objectName: gen_roofbit4
+    objectPosition: {x: -1339.1094, y: 113.66406, z: 637.1094}
+    objectRotation: {x: -0, y: 0.5690133, z: -0, w: 0.8223283}
+  - objectName: gen_roofbit4
+    objectPosition: {x: -1530.8594, y: 60.75, z: 895.2031}
+    objectRotation: {x: -8.0241456e-17, y: 0.921088, z: 8.0241456e-17, w: 0.3893545}
+  - objectName: gen_roofbit5
+    objectPosition: {x: -1042.9531, y: 105.984375, z: 815.2344}
+    objectRotation: {x: -0, y: -0.15184869, z: -0, w: 0.9884038}
+  - objectName: gen_roofbit5
+    objectPosition: {x: -1023.2422, y: 116.3125, z: 767.4844}
+    objectRotation: {x: -0, y: 0.0014947648, z: -0, w: 0.9999989}
+  - objectName: gen_roofbit5
+    objectPosition: {x: -1408.6406, y: 46.476562, z: 917.1797}
+    objectRotation: {x: -0, y: 0.07124754, z: -0, w: 0.9974587}
+  - objectName: gen_roofbit5
+    objectPosition: {x: -1469.4062, y: 58.90625, z: 908.9844}
+    objectRotation: {x: -6.0902403e-17, y: 0.9999856, z: 6.0902403e-17, w: -0.0053738854}
+  - objectName: gen_roofbit5
+    objectPosition: {x: -1262.6562, y: 95.35156, z: 777.1406}
+    objectRotation: {x: -0, y: 0.0014947648, z: -0, w: 0.9999989}
+  - objectName: gen_roofbit5
+    objectPosition: {x: -1354.2109, y: 113.40625, z: 661.2656}
+    objectRotation: {x: -0, y: 0.5690133, z: -0, w: 0.8223283}
+  - objectName: gen_roofbit5
+    objectPosition: {x: -1350.1719, y: 113.40625, z: 650.5547}
+    objectRotation: {x: -0, y: 0.5690133, z: -0, w: 0.8223283}
+  - objectName: hillhouse01_LA
+    objectPosition: {x: -1046.0234, y: 121.328125, z: 647.85156}
+    objectRotation: {x: -6.633606e-17, y: 0.9961948, z: 6.633606e-17, w: 0.087155215}
+  - objectName: hillhouse05_LA
+    objectPosition: {x: -1020.28125, y: 108.921875, z: 767.9922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hillhouse08_LA
+    objectPosition: {x: -1037.9531, y: 92.36719, z: 818.03906}
+    objectRotation: {x: -7.0934966e-17, y: 0.9848078, z: 7.0934966e-17, w: 0.1736481}
+  - objectName: hillhouse08_LA
+    objectPosition: {x: -1469.8281, y: 45.351562, z: 911.8281}
+    objectRotation: {x: -6.1040046e-17, y: 0.9999951, z: 6.1040046e-17, w: -0.003135513}
+  - objectName: hillhouse09_LA
+    objectPosition: {x: -1426.5234, y: 45.5, z: 897.375}
+    objectRotation: {x: -0, y: -0.0011213273, z: -0, w: 0.9999994}
+  - objectName: hillhouse10_LA
+    objectPosition: {x: -1501.5938, y: 56.695312, z: 905.53906}
+    objectRotation: {x: -0, y: -0.1305261, z: -0, w: 0.9914449}
+  - objectName: hillhouse13_LA
+    objectPosition: {x: -1118.1719, y: 101.375, z: 740.5781}
+    objectRotation: {x: 3.0583782e-20, y: -0.70735645, z: -3.0583782e-20, w: 0.706857}
+  - objectName: hillhouse13_LA
+    objectPosition: {x: -1546, y: 65.578125, z: 849.8828}
+    objectRotation: {x: 3.0583782e-20, y: -0.70735645, z: -3.0583782e-20, w: 0.706857}
+  - objectName: hollyhil04a
+    objectPosition: {x: -1349.2969, y: 68.88281, z: 809.1406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hollyhil05
+    objectPosition: {x: -1250.8047, y: 63.375, z: 833.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hollyhil10
+    objectPosition: {x: -1437.5547, y: 86.8125, z: 669.28906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1434.2891, y: 56.25, z: 863.125}
+    objectRotation: {x: -0, y: -0.60876155, z: -0, w: 0.79335326}
+  - objectName: lamppost3_L0
+    objectPosition: {x: -1031.75, y: 121.14844, z: 613.5547}
+    objectRotation: {x: 1.3117399e-17, y: -0.8060588, z: -1.3117399e-17, w: 0.59183544}
+  - objectName: lamppost3_L0
+    objectPosition: {x: -1118.3984, y: 109.24219, z: 628.6172}
+    objectRotation: {x: -8.42039e-17, y: 0.8526158, z: 8.42039e-17, w: 0.52253836}
+  - objectName: lawnhousegreyRS
+    objectPosition: {x: -1439.5859, y: 41.796875, z: 924.5}
+    objectRotation: {x: -0, y: -0.65275973, z: -0, w: 0.757565}
+  - objectName: lawnhouseredA
+    objectPosition: {x: -1410.1562, y: 40.570312, z: 918.1875}
+    objectRotation: {x: -8.635748e-17, y: 0.7575653, z: 8.635748e-17, w: 0.6527594}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1293.7656, y: 3.4765625, z: 409.76562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1421.0938, y: 33.273438, z: 407.27344}
+    objectRotation: {x: -0, y: -0.6755902, z: -0, w: 0.7372773}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: -1802.4766, y: 77.16406, z: 462.89062}
+    objectRotation: {x: 5.663655e-18, y: -0.75184005, z: -5.663655e-18, w: 0.65934557}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1162.4453, y: 54.6875, z: 831.5156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1147.7422, y: 59.65625, z: 791.60156}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1167.2578, y: 63.53125, z: 753.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1167.5859, y: 65.88281, z: 691.41406}
+    objectRotation: {x: -4.9669205e-17, y: 0.9848078, z: 4.9669205e-17, w: -0.1736481}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1193.7422, y: 65.11719, z: 673.46875}
+    objectRotation: {x: -0, y: 0.13052621, z: -0, w: 0.9914449}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1446.6328, y: 56.53125, z: 878.4375}
+    objectRotation: {x: -8.585476e-17, y: 0.79335356, z: 8.585476e-17, w: 0.60876113}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1378.5938, y: 43.625, z: 869.6953}
+    objectRotation: {x: -4.3297783e-17, y: 0.96592575, z: 4.3297783e-17, w: -0.2588193}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1424.4219, y: 52.335938, z: 848.21094}
+    objectRotation: {x: -0, y: -0.7071067, z: -0, w: 0.7071068}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1504.0312, y: 64.21094, z: 876.75}
+    objectRotation: {x: -0, y: 0.42261833, z: -0, w: 0.90630776}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1470.8203, y: 58.8125, z: 861.9453}
+    objectRotation: {x: -0, y: -0.6755903, z: -0, w: 0.73727727}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1498.5156, y: 66.921875, z: 852.53906}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: mulhouse03_cunte
+    objectPosition: {x: -1535.3125, y: 77.8125, z: 784.60156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: nwlaw2husjm4_Law2
+    objectPosition: {x: -1094.9609, y: 116.21094, z: 654.5}
+    objectRotation: {x: -0, y: 0.00194086, z: -0, w: 0.99999815}
+  - objectName: opmans01_cunte
+    objectPosition: {x: -1100.7578, y: 103.46875, z: 825.1719}
+    objectRotation: {x: -0, y: -0.0685586, z: -0, w: 0.9976471}
+  - objectName: 'pogenVEG_bush09 '
+    objectPosition: {x: -1227.2734, y: 84.17969, z: 823.85156}
+    objectRotation: {x: -0, y: 0.51205844, z: -0, w: 0.8589506}
+  - objectName: 'pogenVEG_bush09 '
+    objectPosition: {x: -1231.5156, y: 86.05469, z: 815.1328}
+    objectRotation: {x: -0, y: 0.5283659, z: -0, w: 0.8490168}
+  - objectName: 'pogenVEG_bush09 '
+    objectPosition: {x: -1236.9609, y: 84.03906, z: 821.46094}
+    objectRotation: {x: -6.133529e-17, y: 0.9999986, z: 6.133529e-17, w: 0.0016825948}
+  - objectName: 'pogenVEG_bush09 '
+    objectPosition: {x: -1687.9688, y: 34.164062, z: 516.5625}
+    objectRotation: {x: -0.15818697, y: 0.96339554, z: -0.035069242, w: -0.2135793}
+  - objectName: 'pogenVEG_bush09 '
+    objectPosition: {x: -1721.4375, y: 33.820312, z: 490.76562}
+    objectRotation: {x: 0.12825681, y: 0.96783483, z: 0.028433813, w: -0.21456347}
+  - objectName: 'pogenVEG_bush09 '
+    objectPosition: {x: -1682.1094, y: 34.328125, z: 487.4297}
+    objectRotation: {x: -0.15818697, y: 0.96339554, z: -0.035069242, w: -0.2135793}
+  - objectName: 'pogenVEG_bush09 '
+    objectPosition: {x: -1678.4453, y: 35.84375, z: 483.67188}
+    objectRotation: {x: -0.15818697, y: 0.96339554, z: -0.035069242, w: -0.2135793}
+  - objectName: popinetree05
+    objectPosition: {x: -1062.6875, y: 84.92969, z: 818.64844}
+    objectRotation: {x: -0, y: -0.20204294, z: -0, w: 0.9793767}
+  - objectName: popinetree05
+    objectPosition: {x: -1080.1641, y: 112.09375, z: 687.28906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1012.09375, y: 120.1875, z: 685.0703}
+    objectRotation: {x: -0, y: -0.48833385, z: -0, w: 0.8726569}
+  - objectName: popinetree05
+    objectPosition: {x: -1488.5859, y: 40.898438, z: 919.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1549.9688, y: 42.3125, z: 908.71094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1271.2969, y: 92.921875, z: 712.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1376.8047, y: 91.66406, z: 775.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1394.4141, y: 90.32031, z: 676.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1375.4609, y: 94.77344, z: 660.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1394.2656, y: 87.40625, z: 631.53125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1324.875, y: 93.015625, z: 574.1406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: popinetree05
+    objectPosition: {x: -1519.7188, y: 61.929688, z: 866.58594}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_fir_tall
+    objectPosition: {x: -1829.8516, y: 80.109375, z: 624.22656}
+    objectRotation: {x: -7.5499474e-17, y: 0.96280587, z: 7.5499474e-17, w: 0.27019417}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: -1893.9844, y: 98.859375, z: 678.10156}
+    objectRotation: {x: -8.1425e-17, y: 0.9055662, z: 8.1425e-17, w: 0.42420492}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: -1145.25, y: 101.86719, z: 646.6797}
+    objectRotation: {x: -0, y: 0.41827813, z: -0, w: 0.90831906}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1578.2188, y: 50.84375, z: 398.89844}
+    objectRotation: {x: 1.4398393e-18, y: -0.7187662, z: -1.4398393e-18, w: 0.6952518}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1465.8047, y: 52.195312, z: 475.28125}
+    objectRotation: {x: -7.9535044e-17, y: 0.92911506, z: 7.9535044e-17, w: 0.36979073}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1878.2188, y: 53.148438, z: 944.1797}
+    objectRotation: {x: -0, y: 0.323248, z: -0, w: 0.9463143}
+  - objectName: posm_vegvbbigbrn
+    objectPosition: {x: -1942.4688, y: 59.828125, z: 941.8047}
+    objectRotation: {x: -8.1119465e-17, y: 0.909855, z: 8.1119465e-17, w: 0.41492638}
+  - objectName: posprucetree_hi
+    objectPosition: {x: -1688.4766, y: 40.414062, z: 634.6719}
+    objectRotation: {x: -0, y: -0.21756583, z: -0, w: 0.97604567}
+  - objectName: posprucetree_hi
+    objectPosition: {x: -1734.1172, y: 45, z: 443.08594}
+    objectRotation: {x: -0, y: -0.7017317, z: -0, w: 0.7124413}
+  - objectName: posprucetree_hi
+    objectPosition: {x: -1763.7031, y: 55.195312, z: 883.1328}
+    objectRotation: {x: -0, y: 0.07181279, z: -0, w: 0.99741817}
+  - objectName: posprucetree_hi
+    objectPosition: {x: -1833.5156, y: 75.38281, z: 798.66406}
+    objectRotation: {x: -0, y: 0.5566556, z: -0, w: 0.8307434}
+  - objectName: posprucetree_hi
+    objectPosition: {x: -1914.7578, y: 51.125, z: 965.4375}
+    objectRotation: {x: -0, y: 0.5566556, z: -0, w: 0.8307434}
+  - objectName: posprucetree_hi
+    objectPosition: {x: -1518.8828, y: 85.859375, z: 611.625}
+    objectRotation: {x: 7.646836e-18, y: -0.7667856, z: -7.646836e-18, w: 0.6419033}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1460.3672, y: 35.398438, z: 931.78125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1518.9141, y: 43.101562, z: 912.9297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1290.6172, y: 105.6875, z: 630.1094}
+    objectRotation: {x: -0, y: -0.5984773, z: -0, w: 0.8011398}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1303.7891, y: 106.953125, z: 629.5703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1273.0156, y: 102.91406, z: 621.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1289.6562, y: 101.63281, z: 611.28125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1444.4375, y: 50.46875, z: 886.40625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1314.6953, y: 107.14844, z: 624.0547}
+    objectRotation: {x: -0, y: 0.37963775, z: -0, w: 0.92513525}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1492.5781, y: 88.71094, z: 751.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1504.4531, y: 86.42969, z: 750.41406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1497.8672, y: 90.00781, z: 740.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1508.0234, y: 89.27344, z: 733.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1495.6094, y: 92.19531, z: 728.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1503.7578, y: 91.65625, z: 720.7031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly04
+    objectPosition: {x: -1492.125, y: 93.5, z: 716.125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1628.7891, y: 58.882812, z: 522.0703}
+    objectRotation: {x: -0, y: -0.3007059, z: -0, w: 0.95371693}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1360.4766, y: 52.132812, z: 471.4375}
+    objectRotation: {x: -0, y: 0.080607615, z: -0, w: 0.99674594}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1824.2734, y: 56.890625, z: 884.40625}
+    objectRotation: {x: -3.3149584e-17, y: 0.9239316, z: 3.3149584e-17, w: -0.38255775}
+  - objectName: potree_hipoly07
+    objectPosition: {x: -1450.2188, y: 78.91406, z: 553.28125}
+    objectRotation: {x: 1.9120952e-19, y: -0.7086664, z: -1.9120952e-19, w: 0.7055437}
+  - objectName: poveg_bevtree2
+    objectPosition: {x: -1292.8281, y: 98.3125, z: 588.77344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_bevtree2
+    objectPosition: {x: -1239.6953, y: 97.71875, z: 703.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_bevtree2
+    objectPosition: {x: -1559.0625, y: 49.703125, z: 886.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_bevtree2
+    objectPosition: {x: -1640.7812, y: 57.53125, z: 799.7578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_bevtree2
+    objectPosition: {x: -1632.3359, y: 44.71875, z: 451.28906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_bevtree2
+    objectPosition: {x: -1772.8906, y: 60.320312, z: 787.58594}
+    objectRotation: {x: -7.441833e-17, y: 0.9692448, z: 7.441833e-17, w: 0.24609874}
+  - objectName: poveg_bevtree2
+    objectPosition: {x: -1481.6484, y: 90.24219, z: 638.4844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_palm04
+    objectPosition: {x: -1306.5078, y: 71.86719, z: 836.125}
+    objectRotation: {x: -0, y: 0.45378575, z: -0, w: 0.89111084}
+  - objectName: poveg_palm04
+    objectPosition: {x: -1297.375, y: 74.953125, z: 831.83594}
+    objectRotation: {x: -0, y: 0.1758713, z: -0, w: 0.9844132}
+  - objectName: poveg_palm04
+    objectPosition: {x: -1264.4453, y: 75.36719, z: 824.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_palm04
+    objectPosition: {x: -1306.9922, y: 75.22656, z: 821.7344}
+    objectRotation: {x: -0, y: 0.15305567, z: -0, w: 0.9882176}
+  - objectName: poveg_palm04
+    objectPosition: {x: -1375.0859, y: 69.57031, z: 813.53906}
+    objectRotation: {x: -8.464648e-17, y: 0.84037226, z: 8.464648e-17, w: 0.54200965}
+  - objectName: poveg_palm04
+    objectPosition: {x: -1483.375, y: 58.421875, z: 855.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_palm04
+    objectPosition: {x: -1531.3906, y: 58.421875, z: 834.78906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1007.5547, y: 95.296875, z: 803.78125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1003.9922, y: 103.03125, z: 771.77344}
+    objectRotation: {x: -6.9071646e-17, y: 0.99049795, z: 6.9071646e-17, w: 0.13752766}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1025.0312, y: 109.8125, z: 752.7031}
+    objectRotation: {x: -7.988763e-17, y: 0.92521113, z: 7.988763e-17, w: 0.37945285}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1034.1953, y: 118.484375, z: 660.71094}
+    objectRotation: {x: -0, y: -0.3608893, z: -0, w: 0.9326087}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1458.9062, y: 36.273438, z: 922.28125}
+    objectRotation: {x: -6.3844916e-17, y: 0.9990483, z: 6.3844916e-17, w: 0.04361838}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1318.0234, y: 59.632812, z: 847.6094}
+    objectRotation: {x: -0, y: 0.14108804, z: -0, w: 0.989997}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1339.0547, y: 92.9375, z: 678.6172}
+    objectRotation: {x: -8.137326e-17, y: 0.9063079, z: 8.137326e-17, w: 0.42261818}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1586.8359, y: 49.578125, z: 875.83594}
+    objectRotation: {x: -7.848226e-17, y: 0.93969274, z: 7.848226e-17, w: 0.34201983}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1629.3047, y: 57.375, z: 828.33594}
+    objectRotation: {x: -8.454294e-17, y: 0.8433915, z: 8.454294e-17, w: 0.5372996}
+  - objectName: poveg_palmbig14
+    objectPosition: {x: -1526.6797, y: 66.4375, z: 826.1875}
+    objectRotation: {x: 1.1303025e-17, y: -0.79335356, z: -1.1303025e-17, w: 0.60876113}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1018.96094, y: 83.58594, z: 845.9453}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1071.7344, y: 83.80469, z: 826.6719}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1080.8125, y: 94.05469, z: 809.5781}
+    objectRotation: {x: -5.652618e-17, y: 0.99725026, z: 5.652618e-17, w: -0.07410767}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1847.8047, y: 49.242188, z: 946.33594}
+    objectRotation: {x: -0, y: -0.6493264, z: -0, w: 0.76050985}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1232.7812, y: 83.96875, z: 823.1172}
+    objectRotation: {x: -8.364493e-17, y: 0.8660255, z: 8.364493e-17, w: 0.49999988}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1229.3672, y: 84.71094, z: 819.3828}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1254.7656, y: 90.85156, z: 763.2578}
+    objectRotation: {x: -5.4202247e-17, y: 0.9940564, z: 5.4202247e-17, w: -0.10886658}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1306.9766, y: 106.625, z: 643.3203}
+    objectRotation: {x: -0, y: -0.3069562, z: -0, w: 0.95172364}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1317.4297, y: 75.296875, z: 812.09375}
+    objectRotation: {x: -5.4202247e-17, y: 0.9940564, z: 5.4202247e-17, w: -0.10886658}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1312.5, y: 92.46875, z: 688.5547}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1328.1172, y: 106.39844, z: 668.2969}
+    objectRotation: {x: -0, y: 0.42071941, z: -0, w: 0.90719086}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1451.5938, y: 93.0625, z: 649.7422}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1488.3906, y: 56.328125, z: 894.6172}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1622.2891, y: 56.320312, z: 846.75}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1726.9844, y: 56.140625, z: 826.21094}
+    objectRotation: {x: 8.6206e-18, y: -0.7739868, z: -8.6206e-18, w: 0.6332017}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1849.3672, y: 76.78906, z: 807.4453}
+    objectRotation: {x: -0, y: -0.51201683, z: -0, w: 0.8589754}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1732.3516, y: 54.953125, z: 799.3281}
+    objectRotation: {x: -2.798316e-17, y: 0.8976693, z: 2.798316e-17, w: -0.4406697}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1724.1172, y: 50.492188, z: 746.02344}
+    objectRotation: {x: -5.9205135e-17, y: 0.9994693, z: 5.9205135e-17, w: -0.032576}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1657.8281, y: 54.242188, z: 674.5469}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1662.1719, y: 53.203125, z: 641.875}
+    objectRotation: {x: -4.4275752e-17, y: 0.96923095, z: 4.4275752e-17, w: -0.24615304}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1635.6172, y: 54.953125, z: 593.64844}
+    objectRotation: {x: -0, y: -0.41865978, z: -0, w: 0.90814316}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1680.3047, y: 44.96875, z: 541.71875}
+    objectRotation: {x: -0, y: 0.09584573, z: -0, w: 0.9953962}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1669.3594, y: 48.992188, z: 517.2656}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1749.6953, y: 47.59375, z: 514.66406}
+    objectRotation: {x: -0, y: -0.38268346, z: -0, w: 0.9238795}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1657.4844, y: 49.773438, z: 503.8828}
+    objectRotation: {x: 1.7264404e-17, y: -0.8338859, z: -1.7264404e-17, w: 0.5519368}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1645.8906, y: 49.976562, z: 490.04688}
+    objectRotation: {x: -0, y: -0.2079117, z: -0, w: 0.9781476}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1746.6562, y: 48.632812, z: 466.96875}
+    objectRotation: {x: 4.532087e-18, y: -0.74314505, z: -4.532087e-18, w: 0.66913044}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1653.9609, y: 44.171875, z: 460.71875}
+    objectRotation: {x: 1.7264404e-17, y: -0.8338859, z: -1.7264404e-17, w: 0.5519368}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1655.75, y: 44.203125, z: 437.41406}
+    objectRotation: {x: -5.0899642e-17, y: 0.9876884, z: 5.0899642e-17, w: -0.15643413}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1724.9375, y: 42.554688, z: 417.1328}
+    objectRotation: {x: -6.753456e-17, y: 0.99405634, z: 6.753456e-17, w: 0.10886669}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1035.1328, y: 118.296875, z: 773.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1018.91406, y: 114.33594, z: 799.53125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1038.6562, y: 116.265625, z: 790.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1409.6328, y: 58.085938, z: 883.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1255.0391, y: 91.36719, z: 821.53125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1265.75, y: 89.59375, z: 833.41406}
+    objectRotation: {x: -0, y: 0.25750694, z: -0, w: 0.96627647}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1297.0156, y: 91.63281, z: 824.40625}
+    objectRotation: {x: -0, y: 0.65743154, z: -0, w: 0.7535143}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1086.3672, y: 120.609375, z: 778.15625}
+    objectRotation: {x: -0, y: 0.48187107, z: -0, w: 0.87624216}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1070.1094, y: 119.421875, z: 781.0703}
+    objectRotation: {x: -5.553897e-17, y: 0.9960307, z: 5.553897e-17, w: -0.08901049}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1064.5078, y: 107.203125, z: 805.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1089.7109, y: 120.625, z: 762.71094}
+    objectRotation: {x: -8.253801e-17, y: 0.8878879, z: 8.253801e-17, w: 0.46005997}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1073.9141, y: 120.16406, z: 764.77344}
+    objectRotation: {x: -7.145634e-17, y: 0.982916, z: 7.145634e-17, w: 0.18405458}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1108.7344, y: 123.28125, z: 635.71875}
+    objectRotation: {x: -7.145634e-17, y: 0.982916, z: 7.145634e-17, w: 0.18405458}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1114.3984, y: 126.46094, z: 666.9453}
+    objectRotation: {x: -4.6024528e-17, y: 0.9747848, z: 4.6024528e-17, w: -0.22314726}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1110.6328, y: 126.46094, z: 680.5078}
+    objectRotation: {x: 1.4827242e-17, y: -0.81773794, z: -1.4827242e-17, w: 0.5755907}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1055.6797, y: 134.35938, z: 656.46875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1429.9688, y: 108.30469, z: 645.6406}
+    objectRotation: {x: -0, y: 0.25750694, z: -0, w: 0.96627647}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1412.5469, y: 106.08594, z: 646.53125}
+    objectRotation: {x: -0, y: -0.1792799, z: -0, w: 0.98379815}
+  - objectName: povgs_palm01
+    objectPosition: {x: -1416.75, y: 108.85156, z: 661.6094}
+    objectRotation: {x: -0, y: -0.5421162, z: -0, w: 0.84030354}
+  - objectName: road_hill01
+    objectPosition: {x: -1156.8594, y: 49.359375, z: 852.7578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road_hill04b
+    objectPosition: {x: -1192.3438, y: 52.328125, z: 669.16406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road_hill13
+    objectPosition: {x: -1376.5, y: 67.08594, z: 788.78906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road_hillLAwn15
+    objectPosition: {x: -1161.3203, y: 84.80469, z: 755.0156}
+    objectRotation: {x: -0, y: -0.07787438, z: -0, w: 0.9969632}
+  - objectName: skateivy
+    objectPosition: {x: -1336.0312, y: 64.265625, z: 829.58594}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1371.3906, y: 45.929688, z: 847.0078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1335.1328, y: 58.179688, z: 843.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1313.2422, y: 61.46875, z: 836.22656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1354.6562, y: 66.890625, z: 834.15625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1381.6797, y: 72.546875, z: 833.27344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1333.9766, y: 63.9375, z: 833.10156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1320.7969, y: 76.046875, z: 826.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1366.1562, y: 65.94531, z: 825.3203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1345.8359, y: 69.53906, z: 824.27344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: TCEnewhillhus02
+    objectPosition: {x: -1530.8984, y: 55.757812, z: 888.75}
+    objectRotation: {x: -0, y: -0.3797605, z: -0, w: 0.9250849}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1451.5859, y: 53.546875, z: 885.8828}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1008.5156, y: 120.27344, z: 640.7422}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1061.2891, y: 115.38281, z: 608.85156}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1446.1719, y: 35.1875, z: 934.8047}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1102.9219, y: 107.55469, z: 629.0625}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1143.4531, y: 103.1875, z: 623.64844}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1484.6562, y: 56.78125, z: 892.1328}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1493.3438, y: 62.75, z: 848.03906}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1521.3203, y: 75.21094, z: 781.72656}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: -1288.0312, y: 102.78906, z: 598.97656}
+    objectRotation: {x: 1.4662956e-17, y: -0.8166283, z: -1.4662956e-17, w: 0.577164}
+  - objectName: trunk
+    objectPosition: {x: -1046.4141, y: 105.40625, z: 769.34375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk
+    objectPosition: {x: -1014.41406, y: 112.96094, z: 750.4219}
+    objectRotation: {x: -0, y: 0.37429613, z: -0, w: 0.9273092}
+  - objectName: trunk
+    objectPosition: {x: -1077.7891, y: 105.35156, z: 734.03906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk
+    objectPosition: {x: -1079.4844, y: 113.21875, z: 665.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk
+    objectPosition: {x: -1031.9922, y: 119.96094, z: 632.0781}
+    objectRotation: {x: 2.6445086e-18, y: -0.728371, z: -2.6445086e-18, w: 0.6851829}
+  - objectName: trunk
+    objectPosition: {x: -1095.5859, y: 105.47656, z: 748.1875}
+    objectRotation: {x: -0, y: 0.28300625, z: -0, w: 0.95911807}
+  - objectName: trunk
+    objectPosition: {x: -1230.7578, y: 83.75781, z: 791.2422}
+    objectRotation: {x: -0, y: -0.39517677, z: -0, w: 0.9186051}
+  - objectName: trunk01
+    objectPosition: {x: -1304.7031, y: 91.07031, z: 767.1328}
+    objectRotation: {x: -0, y: 0.041030187, z: -0, w: 0.9991579}
+  - objectName: trunk01
+    objectPosition: {x: -1294.7969, y: 92.015625, z: 761.3906}
+    objectRotation: {x: -0, y: 0.11810437, z: -0, w: 0.9930012}
+  - objectName: trunk01
+    objectPosition: {x: -1265.8906, y: 92.55469, z: 760.78906}
+    objectRotation: {x: -0, y: -0.33251083, z: -0, w: 0.94309944}
+  - objectName: trunk01
+    objectPosition: {x: -1285.7812, y: 92.39844, z: 760.125}
+    objectRotation: {x: -0, y: -0.56640625, z: -0, w: 0.8241262}
+  - objectName: trunk01
+    objectPosition: {x: -1276.9688, y: 92.53906, z: 759.66406}
+    objectRotation: {x: -0, y: 0.041030187, z: -0, w: 0.9991579}
+  - objectName: trunk01
+    objectPosition: {x: -1363.3594, y: 37.804688, z: 878.4375}
+    objectRotation: {x: -0, y: 0.2870946, z: -0, w: 0.95790225}
+  - objectName: trunk01
+    objectPosition: {x: -1367.2812, y: 38.820312, z: 868.28906}
+    objectRotation: {x: -0, y: -0.2928136, z: -0, w: 0.95616955}
+  - objectName: trunk01
+    objectPosition: {x: -1378.8984, y: 42.09375, z: 850.25}
+    objectRotation: {x: -0, y: 0.041030187, z: -0, w: 0.9991579}
+  - objectName: trunk01
+    objectPosition: {x: -1388.0859, y: 44.273438, z: 843.46875}
+    objectRotation: {x: -0, y: -0.38597223, z: -0, w: 0.9225104}
+  - objectName: trunk01
+    objectPosition: {x: -1398.5859, y: 46.171875, z: 838.2344}
+    objectRotation: {x: -0, y: 0.3712844, z: -0, w: 0.9285192}
+  - objectName: trunk01
+    objectPosition: {x: -1470.5938, y: 91.28125, z: 735.1797}
+    objectRotation: {x: -0, y: -0.24866427, z: -0, w: 0.9685898}
+  - objectName: trunk01
+    objectPosition: {x: -1480.4609, y: 91.28125, z: 732.8047}
+    objectRotation: {x: -0, y: 0.27314532, z: -0, w: 0.96197283}
+  - objectName: trunk01
+    objectPosition: {x: -1490.2578, y: 90.953125, z: 731.0781}
+    objectRotation: {x: 1.3021561e-17, y: -0.8053957, z: -1.3021561e-17, w: 0.5927375}
+  - objectName: trunk01
+    objectPosition: {x: -1468.5781, y: 91.28125, z: 725.0781}
+    objectRotation: {x: -0, y: 0.041030187, z: -0, w: 0.9991579}
+  - objectName: trunk01
+    objectPosition: {x: -1478.4453, y: 91.28125, z: 722.7031}
+    objectRotation: {x: -0, y: 0.27734008, z: -0, w: 0.9607718}
+  - objectName: trunk01
+    objectPosition: {x: -1488.2422, y: 92.53125, z: 720.9844}
+    objectRotation: {x: -0, y: -0.45241117, z: -0, w: 0.89180946}
+  - objectName: trunk05
+    objectPosition: {x: -1797.2656, y: 86.90625, z: 388.10938}
+    objectRotation: {x: -0, y: 0.00000008742278, z: -0, w: 1}
+  - objectName: trunk05
+    objectPosition: {x: -1812.8906, y: 84.85156, z: 660.27344}
+    objectRotation: {x: -0, y: -0.17246269, z: -0, w: 0.98501605}
+  - objectName: trunk05
+    objectPosition: {x: -1339.1172, y: 31.585938, z: 423.6172}
+    objectRotation: {x: -0, y: -0.05806016, z: -0, w: 0.99831307}
+  - objectName: VineSign1_cunte
+    objectPosition: {x: -1413.4141, y: 83.4375, z: 804.7422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: VineSign1_cunte01
+    objectPosition: {x: -1413.4141, y: 83.4375, z: 804.7422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BillBd2
+    objectPosition: {x: -1495.3906, y: 48.8125, z: 945.6328}
+    objectRotation: {x: -0, y: -0.13052621, z: -0, w: 0.9914449}
+  - objectName: BillBd3
+    objectPosition: {x: -1405.2969, y: 55.476562, z: 982.53125}
+    objectRotation: {x: -0, y: 0.30070585, z: -0, w: 0.95371693}
+  - objectName: BillBd3
+    objectPosition: {x: -1475.6016, y: 55.625, z: 990.9453}
+    objectRotation: {x: -7.848226e-17, y: 0.93969274, z: 7.848226e-17, w: 0.34201983}
+  - objectName: billbrdlan2_08
+    objectPosition: {x: -1451.6172, y: 57.445312, z: 966.3828}
+    objectRotation: {x: -0, y: -0.00000017484555, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: -1613.8516, y: 23.46875, z: 992.96875}
+    objectRotation: {x: -0, y: 0.53729963, z: -0, w: 0.8433914}
+  - objectName: BlackBag1
+    objectPosition: {x: -1630.2578, y: 23.46875, z: 986.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: -1634.7891, y: 23.46875, z: 992.0078}
+    objectRotation: {x: -0, y: 0.53729963, z: -0, w: 0.8433914}
+  - objectName: BlackBag1
+    objectPosition: {x: -1662.2578, y: 23.414062, z: 999.2344}
+    objectRotation: {x: -6.8700884e-17, y: 0.99144495, z: 6.8700884e-17, w: 0.13052565}
+  - objectName: BlackBag1
+    objectPosition: {x: -1668.7344, y: 23.414062, z: 996.53125}
+    objectRotation: {x: -8.6513186e-17, y: 0.7372774, z: 8.6513186e-17, w: 0.67559016}
+  - objectName: BlackBag2
+    objectPosition: {x: -1608.5234, y: 23.445312, z: 994.39844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag2
+    objectPosition: {x: -1610.0078, y: 23.445312, z: 994.1328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag2
+    objectPosition: {x: -1629.2891, y: 23.445312, z: 986.96875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag2
+    objectPosition: {x: -1664.7188, y: 23.390625, z: 998.0625}
+    objectRotation: {x: -0, y: -0.08715575, z: -0, w: 0.9961947}
+  - objectName: BlackBag2
+    objectPosition: {x: -1668.1016, y: 23.390625, z: 997.3203}
+    objectRotation: {x: -0, y: -0.08715575, z: -0, w: 0.9961947}
+  - objectName: BlackBag2
+    objectPosition: {x: -1671.8281, y: 23.390625, z: 994.25}
+    objectRotation: {x: 7.54731e-18, y: -0.7660445, z: -7.54731e-18, w: 0.6427876}
+  - objectName: bollardlight_L0
+    objectPosition: {x: -1700.6875, y: 23.609375, z: 998.1875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: dump1_L0
+    objectPosition: {x: -1611.6875, y: 23.84375, z: 993.90625}
+    objectRotation: {x: -0, y: -0.13052621, z: -0, w: 0.9914449}
+  - objectName: dump1_L0
+    objectPosition: {x: -1631.9219, y: 23.84375, z: 987.8281}
+    objectRotation: {x: -0, y: 0.46174875, z: -0, w: 0.88701075}
+  - objectName: dump1_L0
+    objectPosition: {x: -1633.9375, y: 23.84375, z: 990.5547}
+    objectRotation: {x: -0, y: 0.4226184, z: -0, w: 0.9063077}
+  - objectName: dump1_L0
+    objectPosition: {x: -1666.3984, y: 23.789062, z: 997.7031}
+    objectRotation: {x: -0, y: -0.21643956, z: -0, w: 0.976296}
+  - objectName: Freeway1_LAn2
+    objectPosition: {x: -1693.9531, y: 50.007812, z: 766.0469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Freeway3_LAn2
+    objectPosition: {x: -1507.7812, y: 33.835938, z: 966.9453}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Freeway7_LAn2
+    objectPosition: {x: -1661.9766, y: 46.054688, z: 910.8125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Freeway10_LAn2
+    objectPosition: {x: -1425.0391, y: 34.28125, z: 947.8281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: LAdtbuild10_LAn
+    objectPosition: {x: -1453.6016, y: 34.4375, z: 989.4844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamotsig1_LA
+    objectPosition: {x: -1417.2812, y: 39.796875, z: 945.85156}
+    objectRotation: {x: -5.72214e-17, y: 0.99798274, z: 5.72214e-17, w: -0.063486494}
+  - objectName: lamotsig2_LA
+    objectPosition: {x: -1487.4609, y: 41, z: 976.28125}
+    objectRotation: {x: -0, y: 0.25881913, z: -0, w: 0.9659258}
+  - objectName: lamotsig2_LA
+    objectPosition: {x: -1655.3672, y: 61.390625, z: 819.03906}
+    objectRotation: {x: -8.25877e-17, y: 0.8870109, z: 8.25877e-17, w: 0.4617486}
+  - objectName: lamotsig2_LA
+    objectPosition: {x: -1694.1797, y: 51.421875, z: 709.0625}
+    objectRotation: {x: -8.6266084e-17, y: 0.7660445, z: 8.6266084e-17, w: 0.6427876}
+  - objectName: lamotsig2_LA
+    objectPosition: {x: -1815.4141, y: 42.375, z: 978.875}
+    objectRotation: {x: -3.9985408e-17, y: 0.953717, z: 3.9985408e-17, w: -0.3007057}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1658.6875, y: 68.02344, z: 991.53906}
+    objectRotation: {x: -0, y: 0.08715577, z: -0, w: 0.9961947}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1666.4141, y: 67.734375, z: 941.52344}
+    objectRotation: {x: -0, y: 0.08715577, z: -0, w: 0.9961947}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1673.8438, y: 66.21094, z: 891.6172}
+    objectRotation: {x: -0, y: 0.08715577, z: -0, w: 0.9961947}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1681.5391, y: 63.898438, z: 841.5156}
+    objectRotation: {x: -0, y: 0.08715577, z: -0, w: 0.9961947}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1689.3516, y: 60.25, z: 791.4531}
+    objectRotation: {x: -0, y: 0.08715577, z: -0, w: 0.9961947}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1696.8594, y: 56.101562, z: 741.0547}
+    objectRotation: {x: -0, y: 0.08715577, z: -0, w: 0.9961947}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1704.5703, y: 50.648438, z: 690.16406}
+    objectRotation: {x: -0, y: 0.08715577, z: -0, w: 0.9961947}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1397.4844, y: 38.273438, z: 933.8281}
+    objectRotation: {x: -0, y: -0.6755901, z: -0, w: 0.7372775}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1421.3906, y: 39.8125, z: 956.5469}
+    objectRotation: {x: -8.626608e-17, y: 0.7660448, z: 8.626608e-17, w: 0.6427872}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1455, y: 39.65625, z: 966.28125}
+    objectRotation: {x: -0.0040498786, y: 0.8657475, z: 0.011560703, w: 0.5003311}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1459.0312, y: 39.617188, z: 939.21094}
+    objectRotation: {x: -0.009478365, y: -0.7662606, z: -0.0077596293, w: 0.64241314}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1485.4062, y: 39.773438, z: 952.9844}
+    objectRotation: {x: -0, y: -0.6755901, z: -0, w: 0.7372775}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1512.0859, y: 43.367188, z: 998.8672}
+    objectRotation: {x: -0.0030268875, y: 0.9060598, z: 0.0118696755, w: 0.4229723}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1522.9453, y: 44.695312, z: 925.3594}
+    objectRotation: {x: -0.008766, y: -0.81933486, z: -0.0085561965, w: 0.57318443}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1535.1953, y: 46.015625, z: 998.4453}
+    objectRotation: {x: -0.0064560636, y: 0.7369344, z: 0.010410108, w: 0.67585325}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1537.6875, y: 40.59375, z: 967.3281}
+    objectRotation: {x: -8.626608e-17, y: 0.7660448, z: 8.626608e-17, w: 0.6427872}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1572.8828, y: 51.507812, z: 900.72656}
+    objectRotation: {x: 0.0075742, y: 0.8871408, z: 0.009627196, w: -0.46133623}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1584.3516, y: 43.703125, z: 928.6328}
+    objectRotation: {x: -0.01137305, y: -0.53761834, z: -0.004550295, w: 0.8430993}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1594.3594, y: 51.28125, z: 995.4922}
+    objectRotation: {x: -0.008165692, y: 0.6083781, z: 0.009130878, w: 0.79355276}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1586.8828, y: 41.796875, z: 964.6328}
+    objectRotation: {x: -0, y: -0.6755901, z: -0, w: 0.7372775}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1611.8203, y: 59.71875, z: 867.8672}
+    objectRotation: {x: 0.006706314, y: 0.9239731, z: 0.010250697, w: -0.38226125}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1625.4297, y: 33.3125, z: 960.6172}
+    objectRotation: {x: -0.011990414, y: -0.38304797, z: -0.002506256, w: 0.9236472}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1632.7656, y: 61.164062, z: 864.0625}
+    objectRotation: {x: 0.0033134744, y: 0.99615705, z: 0.011792887, w: -0.0867247}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1636.375, y: 41.742188, z: 978.8281}
+    objectRotation: {x: -8.626608e-17, y: 0.7660448, z: 8.626608e-17, w: 0.6427872}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1639.9844, y: 44.726562, z: 923.46875}
+    objectRotation: {x: 0.00014836321, y: 0.9846599, z: 0.012248649, w: 0.17405413}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1646.3828, y: 53.554688, z: 973.8594}
+    objectRotation: {x: -0.009287649, y: 0.49959376, z: 0.007986925, w: 0.86617327}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1642.9453, y: 62.117188, z: 828.91406}
+    objectRotation: {x: 0.005787381, y: 0.9537734, z: 0.010796188, w: -0.30027696}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1648.3672, y: 53.78125, z: 988.7344}
+    objectRotation: {x: 0.007147056, y: 0.9064197, z: 0.009948414, w: -0.4222006}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1649.5938, y: 34.476562, z: 991.3203}
+    objectRotation: {x: -0.012163221, y: -0.3010892, z: -0.0014516861, w: 0.9535173}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1659.9297, y: 34.460938, z: 961.875}
+    objectRotation: {x: -0.0009197512, y: 0.9657431, z: 0.012214967, w: 0.2592107}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1668.375, y: 58.789062, z: 787.08594}
+    objectRotation: {x: 0.0043286905, y: 0.9848078, z: 0.011459228, w: -0.17321573}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1687.1406, y: 41.445312, z: 977.4219}
+    objectRotation: {x: -0, y: -0.6755901, z: -0, w: 0.7372775}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1687.6328, y: 55.195312, z: 938.02344}
+    objectRotation: {x: -0.010533466, y: 0.34159446, z: 0.0062528015, w: 0.93976766}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1697.0781, y: 52.515625, z: 961.7656}
+    objectRotation: {x: -0.009130875, y: -0.793553, z: -0.008165685, w: 0.6083779}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1715.0469, y: 58.648438, z: 893.3125}
+    objectRotation: {x: -0.01145923, y: 0.17321603, z: 0.0043286933, w: 0.9848077}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1722.3125, y: 62.132812, z: 841.08594}
+    objectRotation: {x: -0.012230523, y: -0.13093844, z: 0.00068248983, w: 0.9913148}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1709.8516, y: 58.78125, z: 793.78125}
+    objectRotation: {x: -0.012230523, y: -0.13093844, z: 0.00068248983, w: 0.9913148}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1729.8125, y: 41, z: 991.9219}
+    objectRotation: {x: -8.626608e-17, y: 0.7660448, z: 8.626608e-17, w: 0.6427872}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1740.6875, y: 59.757812, z: 887.4531}
+    objectRotation: {x: -0.012243461, y: -0.21683893, z: -0.000386067, w: 0.97613055}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1749.4922, y: 50.640625, z: 952.58594}
+    objectRotation: {x: -0.01011858, y: -0.70735484, z: -0.0069039906, w: 0.7067525}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1768.3984, y: 51.304688, z: 931.35156}
+    objectRotation: {x: -0.011726356, y: -0.4620915, z: -0.0035417532, w: 0.88674766}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1774.5859, y: 40.578125, z: 993.40625}
+    objectRotation: {x: -0, y: -0.6427874, z: -0, w: 0.7660446}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1807.9062, y: 43.34375, z: 969.0078}
+    objectRotation: {x: -0.011726356, y: -0.4620915, z: -0.0035417532, w: 0.88674766}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1858.0078, y: 39.789062, z: 998.0625}
+    objectRotation: {x: -0.011560703, y: -0.5003311, z: -0.004049878, w: 0.8657475}
+  - objectName: ponew_bushsm
+    objectPosition: {x: -1385.6016, y: 33.03125, z: 984.9922}
+    objectRotation: {x: -0, y: -0.25881907, z: -0, w: 0.9659258}
+  - objectName: ponew_bushsm
+    objectPosition: {x: -1385.7656, y: 33, z: 981.33594}
+    objectRotation: {x: -0, y: 0.25881907, z: -0, w: 0.9659259}
+  - objectName: ponew_bushsm
+    objectPosition: {x: -1385.8203, y: 31.476562, z: 994.6953}
+    objectRotation: {x: -0, y: -0.6087615, z: -0, w: 0.7933533}
+  - objectName: ponew_bushsm
+    objectPosition: {x: -1385.8203, y: 31.328125, z: 989.64844}
+    objectRotation: {x: 1.8742733e-17, y: -0.84339154, z: -1.8742733e-17, w: 0.53729945}
+  - objectName: ponew_bushsm
+    objectPosition: {x: -1539.5156, y: 37.445312, z: 984.8125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: ponew_bushsm
+    objectPosition: {x: -1556.2969, y: 37.445312, z: 987.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: ponew_bushsm
+    objectPosition: {x: -1651.3906, y: 58.609375, z: 844.85156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: ponew_bushsm
+    objectPosition: {x: -1660.8047, y: 57.875, z: 837.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: ponew_bushtest
+    objectPosition: {x: -1549.2734, y: 40.609375, z: 980.7578}
+    objectRotation: {x: -0.000000019734692, y: -0.7660445, z: 0.00000000633259, w: 0.6427876}
+  - objectName: ponew_bushtest
+    objectPosition: {x: -1639.4844, y: 34.742188, z: 953.6797}
+    objectRotation: {x: 0.111618906, y: -0.75440645, z: -0.13302222, w: 0.6330223}
+  - objectName: ponew_bushtest
+    objectPosition: {x: -1652.8828, y: 61.046875, z: 855.40625}
+    objectRotation: {x: -0, y: -0.25881907, z: -0, w: 0.9659259}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1527.0703, y: 39.179688, z: 940.7031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: -1619.9609, y: 52.234375, z: 888.5}
+    objectRotation: {x: -0, y: 0.46174875, z: -0, w: 0.88701075}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: -1715.7656, y: 47.390625, z: 923.10156}
+    objectRotation: {x: -7.499399e-17, y: 0.9659259, z: 7.499399e-17, w: 0.25881884}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: -1742.3594, y: 36.695312, z: 975.0625}
+    objectRotation: {x: -0, y: 0.46174875, z: -0, w: 0.88701075}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: -1797.6094, y: 36.1875, z: 985.16406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: tag_vagos
+    objectPosition: {x: -1732.7344, y: 41.4375, z: 963.0781}
+    objectRotation: {x: -0, y: -0.066042505, z: -0, w: 0.9978168}
+  - objectName: BigBillBrd
+    objectPosition: {x: -1091.1484, y: 58.148438, z: 908.6875}
+    objectRotation: {x: -8.121286e-17, y: 0.9085666, z: 8.121286e-17, w: 0.41774008}
+  - objectName: BigBillBrd
+    objectPosition: {x: -1127.3203, y: 58.148438, z: 912.6797}
+    objectRotation: {x: -0, y: 0.45607105, z: -0, w: 0.88994336}
+  - objectName: BillBd2
+    objectPosition: {x: -1351.8359, y: 46.992188, z: 914.4375}
+    objectRotation: {x: -6.6336073e-17, y: 0.9961947, z: 6.6336073e-17, w: 0.087155566}
+  - objectName: BillBd3
+    objectPosition: {x: -1029.1797, y: 52.75, z: 939.5156}
+    objectRotation: {x: -0, y: -0.47149888, z: -0, w: 0.8818667}
+  - objectName: fire_hydrant_L0
+    objectPosition: {x: -1289.1406, y: 40.773438, z: 938.125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: fire_hydrant_L0
+    objectPosition: {x: -1266.0859, y: 42.398438, z: 906.7031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: foodmartlawn
+    objectPosition: {x: -1315.3672, y: 41.703125, z: 887.46875}
+    objectRotation: {x: -0, y: -0.0016623732, z: -0, w: 0.9999986}
+  - objectName: Gen_doorSHOP3
+    objectPosition: {x: -1000.875, y: 41.289062, z: 919.1094}
+    objectRotation: {x: -0.00000006690014, y: 0.6437359, z: 0.00000005627721, w: 0.7652477}
+  - objectName: Gen_doorSHOP3
+    objectPosition: {x: -1199.9688, y: 42.023438, z: 917.6406}
+    objectRotation: {x: -0.0000000040525223, y: 0.998925, z: 0.00000008732881, w: 0.046356704}
+  - objectName: Gen_doorSHOP3
+    objectPosition: {x: -1314.7266, y: 38.46875, z: 897.2656}
+    objectRotation: {x: -0.00000008742278, y: -0, z: -0, w: 1}
+  - objectName: grndLAwn
+    objectPosition: {x: -1265.2969, y: 40.460938, z: 889.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hblues01_LAwN
+    objectPosition: {x: -1123.0547, y: 45.226562, z: 988.1953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hblues01Tr_LAwN
+    objectPosition: {x: -1123.3047, y: 39.234375, z: 982.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: LA_chem_piping
+    objectPosition: {x: -1005.0625, y: 45.859375, z: 895.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost1_L0
+    objectPosition: {x: -1081.0156, y: 44.359375, z: 970.625}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: lamppost1_L0
+    objectPosition: {x: -1089.5, y: 42.039062, z: 987.9844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost1_L0
+    objectPosition: {x: -1158.0625, y: 44.359375, z: 970.625}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: lamppost1_L0
+    objectPosition: {x: -1167.7266, y: 41.320312, z: 987.9844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost1_L0
+    objectPosition: {x: -1267.7578, y: 38.734375, z: 987.9844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost1_L0
+    objectPosition: {x: -1258.25, y: 41.015625, z: 970.625}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: lamppost1_L0
+    objectPosition: {x: -1266.5156, y: 44.257812, z: 948.03125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1374.9844, y: 39.085938, z: 917.96094}
+    objectRotation: {x: -0, y: 0.087155744, z: -0, w: 0.9961947}
+  - objectName: lamppost2_L0
+    objectPosition: {x: -1387.7031, y: 45.085938, z: 875.96875}
+    objectRotation: {x: -0, y: 0.25881907, z: -0, w: 0.9659259}
+  - objectName: Lawnapartmnt
+    objectPosition: {x: -1249.5547, y: 45.03125, z: 905.46094}
+    objectRotation: {x: 5.6635162e-18, y: -0.751839, z: -5.6635162e-18, w: 0.65934676}
+  - objectName: Lawnapartmnt
+    objectPosition: {x: -1287.6875, y: 45.0625, z: 900.46094}
+    objectRotation: {x: 5.6635162e-18, y: -0.751839, z: -5.6635162e-18, w: 0.65934676}
+  - objectName: Lawnapartmnt
+    objectPosition: {x: -1245.4609, y: 45.070312, z: 874.7031}
+    objectRotation: {x: 5.6635162e-18, y: -0.751839, z: -5.6635162e-18, w: 0.65934676}
+  - objectName: Lawnapartmnt
+    objectPosition: {x: -1284.2031, y: 45.273438, z: 871.2969}
+    objectRotation: {x: 5.6635162e-18, y: -0.751839, z: -5.6635162e-18, w: 0.65934676}
+  - objectName: lawnbushb
+    objectPosition: {x: -1295.8594, y: 41.710938, z: 895.09375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lawngrndasas
+    objectPosition: {x: -1323.6641, y: 36.25, z: 884.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lawnmart_alpha
+    objectPosition: {x: -1206.1406, y: 42.109375, z: 900.97656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lawnstuff15
+    objectPosition: {x: -1197.3203, y: 45.09375, z: 899.21094}
+    objectRotation: {x: -0, y: -0.0828082, z: -0, w: 0.9965655}
+  - objectName: lawnstuff21
+    objectPosition: {x: -1196.8438, y: 41.96875, z: 914.8672}
+    objectRotation: {x: -0, y: -0.0828082, z: -0, w: 0.9965655}
+  - objectName: mainblk_LAwN
+    objectPosition: {x: -1046.6797, y: 46.992188, z: 935.1953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1034.7891, y: 46.429688, z: 950.375}
+    objectRotation: {x: 7.547305e-18, y: -0.76604444, z: -7.547305e-18, w: 0.64278764}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1101.7734, y: 46.21875, z: 960.625}
+    objectRotation: {x: -0, y: 0.70710665, z: -0, w: 0.7071069}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1140.4922, y: 46.21875, z: 959.2969}
+    objectRotation: {x: -0, y: 0.70710665, z: -0, w: 0.7071069}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1118.4922, y: 46.429688, z: 941.96875}
+    objectRotation: {x: 7.547305e-18, y: -0.76604444, z: -7.547305e-18, w: 0.64278764}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1151.0469, y: 49.023438, z: 868.9219}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1161.7422, y: 46.273438, z: 914.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1188.1797, y: 46.21875, z: 953.27344}
+    objectRotation: {x: -0, y: 0.60876155, z: -0, w: 0.79335326}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1198.7969, y: 46.429688, z: 933.125}
+    objectRotation: {x: 7.547305e-18, y: -0.76604444, z: -7.547305e-18, w: 0.64278764}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1226.4297, y: 46.21875, z: 946.3281}
+    objectRotation: {x: -0, y: 0.60876155, z: -0, w: 0.79335326}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1246.4531, y: 46.296875, z: 924.3047}
+    objectRotation: {x: 1.1302974e-17, y: -0.7933532, z: -1.1302974e-17, w: 0.6087616}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1283.5625, y: 45.34375, z: 936.8281}
+    objectRotation: {x: -0, y: 0.60876155, z: -0, w: 0.79335326}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1297.4375, y: 43.570312, z: 918.6328}
+    objectRotation: {x: 1.1302974e-17, y: -0.7933532, z: -1.1302974e-17, w: 0.6087616}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1321.0859, y: 40.914062, z: 938.1953}
+    objectRotation: {x: -0, y: 0.67559034, z: -0, w: 0.7372772}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1363.6016, y: 37.773438, z: 915.5547}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1389.7188, y: 39.867188, z: 902.4297}
+    objectRotation: {x: -0, y: 0.21643977, z: -0, w: 0.976296}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1406.9766, y: 47.109375, z: 873.6797}
+    objectRotation: {x: -0, y: 0.53729975, z: -0, w: 0.84339136}
+  - objectName: mlamppost_L0
+    objectPosition: {x: -1378.5938, y: 43.625, z: 869.6953}
+    objectRotation: {x: -4.3297783e-17, y: 0.96592575, z: 4.3297783e-17, w: -0.2588193}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1072.7109, y: 44.898438, z: 948.5547}
+    objectRotation: {x: 7.547305e-18, y: -0.76604444, z: -7.547305e-18, w: 0.64278764}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1085.1641, y: 44.414062, z: 969.21875}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1096.9453, y: 44.445312, z: 957.1797}
+    objectRotation: {x: -0, y: 0.70710665, z: -0, w: 0.7071069}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1161.6797, y: 44.554688, z: 964.53125}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1150.0547, y: 45.117188, z: 943.0781}
+    objectRotation: {x: 3.7772483e-18, y: -0.7372773, z: -3.7772483e-18, w: 0.6755902}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1158.0391, y: 45.117188, z: 933.21094}
+    objectRotation: {x: -6.384491e-17, y: 0.9990483, z: 6.384491e-17, w: 0.04361826}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1172.7578, y: 44.78125, z: 952.1875}
+    objectRotation: {x: -0, y: 0.67559034, z: -0, w: 0.7372772}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1249.0078, y: 44.585938, z: 938.6875}
+    objectRotation: {x: -0, y: 0.64278775, z: -0, w: 0.7660443}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1260.3906, y: 44.4375, z: 946.72656}
+    objectRotation: {x: -6.633605e-17, y: 0.9961948, z: 6.633605e-17, w: 0.08715509}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1271.0469, y: 44.351562, z: 934.85156}
+    objectRotation: {x: -0, y: 0.64278775, z: -0, w: 0.7660443}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1352.9375, y: 36.476562, z: 942.96875}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1378.3594, y: 36.367188, z: 956.85156}
+    objectRotation: {x: -0, y: 0.0000000754979, z: -0, w: 1}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1390.3359, y: 36.421875, z: 936.33594}
+    objectRotation: {x: -0, y: -0.6755902, z: -0, w: 0.7372773}
+  - objectName: MTraffic1_L0
+    objectPosition: {x: -1366.0625, y: 36.382812, z: 922.5547}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.00000004371139}
+  - objectName: newstandnew1_L0
+    objectPosition: {x: -1073.8906, y: 42.023438, z: 965.3594}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew1_L0
+    objectPosition: {x: -1144.7344, y: 42.351562, z: 960}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew1_L0
+    objectPosition: {x: -1245.4297, y: 42.007812, z: 944.4375}
+    objectRotation: {x: -6.633604e-17, y: 0.9961948, z: 6.633604e-17, w: 0.08715497}
+  - objectName: newstandnew2_L0
+    objectPosition: {x: -1074.6484, y: 42.023438, z: 965.3594}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew2_L0
+    objectPosition: {x: -1145.5, y: 42.351562, z: 960}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew2_L0
+    objectPosition: {x: -1246.1797, y: 42.007812, z: 944.3047}
+    objectRotation: {x: -6.633604e-17, y: 0.9961948, z: 6.633604e-17, w: 0.08715497}
+  - objectName: newstandnew3_L0
+    objectPosition: {x: -1075.5859, y: 42.023438, z: 965.3594}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew3_L0
+    objectPosition: {x: -1146.4297, y: 42.351562, z: 960}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew3_L0
+    objectPosition: {x: -1247.1016, y: 42.007812, z: 944.1406}
+    objectRotation: {x: -6.633604e-17, y: 0.9961948, z: 6.633604e-17, w: 0.08715497}
+  - objectName: newstandnew4_L0
+    objectPosition: {x: -1076.5469, y: 42.023438, z: 965.3594}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew4_L0
+    objectPosition: {x: -1147.3906, y: 42.351562, z: 960}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew4_L0
+    objectPosition: {x: -1248.0469, y: 42.007812, z: 943.97656}
+    objectRotation: {x: -6.633604e-17, y: 0.9961948, z: 6.633604e-17, w: 0.08715497}
+  - objectName: newstandnew5_L0
+    objectPosition: {x: -1077.5625, y: 42.023438, z: 965.3594}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew5_L0
+    objectPosition: {x: -1148.4062, y: 42.351562, z: 960}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: newstandnew5_L0
+    objectPosition: {x: -1244.75, y: 42.007812, z: 944.6328}
+    objectRotation: {x: -6.633604e-17, y: 0.9961948, z: 6.633604e-17, w: 0.08715497}
+  - objectName: poaw_streettree1
+    objectPosition: {x: -1275.0078, y: 38.75, z: 968.03125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poaw_streettree1
+    objectPosition: {x: -1148.9453, y: 40.90625, z: 969.9922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poaw_streettree1
+    objectPosition: {x: -1115.6953, y: 35.859375, z: 1000}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poaw_streettree1
+    objectPosition: {x: -1181.8047, y: 32.859375, z: 999.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1340.4219, y: 35.53125, z: 953.3828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1304.3438, y: 38.828125, z: 947.1953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1148.9922, y: 35.320312, z: 997.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1099.4922, y: 40.539062, z: 970.1953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1096.2422, y: 36.992188, z: 994.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: -1236.9766, y: 32.4375, z: 998.59375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posters01_LAwN
+    objectPosition: {x: -1351.8359, y: 46.992188, z: 914.4375}
+    objectRotation: {x: -6.6336073e-17, y: 0.9961947, z: 6.6336073e-17, w: 0.087155566}
+  - objectName: poveg_palm01
+    objectPosition: {x: -1362.5859, y: 27.960938, z: 992.66406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_palm01
+    objectPosition: {x: -1369.0078, y: 32.789062, z: 965.52344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1235.8281, y: 41.875, z: 917.52344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1231.4141, y: 41.875, z: 886.9297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1227.6094, y: 41.875, z: 870.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1261.9531, y: 41.875, z: 913.78125}
+    objectRotation: {x: -0, y: 0.6883547, z: -0, w: 0.7253743}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1275.6016, y: 41.875, z: 911.96094}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1263.8828, y: 41.875, z: 894.35156}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1271.8672, y: 41.875, z: 892.3672}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1299.5, y: 41.875, z: 909.1406}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1262.9844, y: 41.875, z: 882.21875}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: poveg_treeb1
+    objectPosition: {x: -1271.2031, y: 41.875, z: 882.39844}
+    objectRotation: {x: -0, y: -0.6788009, z: -0, w: 0.73432237}
+  - objectName: road_hillLAwn12
+    objectPosition: {x: -1376.4297, y: 36.179688, z: 912.1875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road_lawn02
+    objectPosition: {x: -1365.4766, y: 30.328125, z: 998.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road_lawn32
+    objectPosition: {x: -1268.4453, y: 37.703125, z: 935.3203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road_lawn34
+    objectPosition: {x: -1124.5703, y: 41.757812, z: 950.2422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: skyscr01_LAwN
+    objectPosition: {x: -1316.5781, y: 86.890625, z: 984.78906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: skyscr02_LAwN
+    objectPosition: {x: -1310.0234, y: 41.90625, z: 985.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: skyscr03_LAwN
+    objectPosition: {x: -1308.1719, y: 35.085938, z: 985.35156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: standard01_LAwN
+    objectPosition: {x: -1024.4375, y: 44.96875, z: 990.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1241.1953, y: 44.359375, z: 886.84375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1266.4219, y: 44.359375, z: 913.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1272.3516, y: 44.359375, z: 912.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1332.9375, y: 41.1875, z: 913.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1270.9609, y: 44.359375, z: 896.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1265.0312, y: 44.359375, z: 897.35156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1252.2578, y: 44.359375, z: 885.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1285.6484, y: 44.359375, z: 881.3125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1306.9609, y: 41.1875, z: 908.59375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1322.0938, y: 41.1875, z: 910.4297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Streetlamp1_l0
+    objectPosition: {x: -1303.1094, y: 44.359375, z: 879.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Sunset20_LAwN
+    objectPosition: {x: -1212.9141, y: 42.757812, z: 988.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sunset21_LAwN
+    objectPosition: {x: -1018.16406, y: 43.648438, z: 908.97656}
+    objectRotation: {x: -0, y: -0.06731875, z: -0, w: 0.99773157}
+  - objectName: sunset22_LAwN
+    objectPosition: {x: -1103.5234, y: 63.898438, z: 896.9297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1233, y: 42.015625, z: 921.0625}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1280.2422, y: 41.304688, z: 912.52344}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: -1320.7734, y: 36.84375, z: 912.2344}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1072.4141, y: 42.242188, z: 940.28906}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: telgrphpoleall_L0
+    objectPosition: {x: -1134.0625, y: 42.265625, z: 935.6719}
+    objectRotation: {x: -0.000000084293696, y: 1.05879106e-22, z: 2.512148e-15, w: 1}
+  - objectName: trunk01
+    objectPosition: {x: -1307.0781, y: 37.84375, z: 904.72656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk01
+    objectPosition: {x: -1324.1562, y: 37.84375, z: 904.72656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk01
+    objectPosition: {x: -1329.5781, y: 37.84375, z: 904.72656}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: trunk01
+    objectPosition: {x: -1329.5781, y: 37.84375, z: 904.72656}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}

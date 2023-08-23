@@ -1,0 +1,2730 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89e02d74dc8a9249bf564f5becb7cee, type: 3}
+  m_Name: MapX500Y2500
+  m_EditorClassIdentifier: 
+  mapObjects:
+  - objectName: carspaces03
+    objectPosition: {x: 23.375, y: 35.671875, z: 2507.125}
+    objectRotation: {x: -2.5703216e-17, y: 0.88512284, z: 2.5703216e-17, w: -0.46535745}
+  - objectName: CE_roadsign1
+    objectPosition: {x: 320.47656, y: 27.585938, z: 2189.0547}
+    objectRotation: {x: -7.906885e-17, y: 0.93398803, z: 7.906885e-17, w: 0.35730436}
+  - objectName: cunt_rockgp2_04
+    objectPosition: {x: 446.8047, y: 50.132812, z: 2037.3984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cunt_rockgp2_13
+    objectPosition: {x: 991.75, y: 54.757812, z: 2235.336}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntw_carport1_
+    objectPosition: {x: 285.39844, y: 27.382812, z: 2151.0469}
+    objectRotation: {x: -0, y: 0.5336146, z: -0, w: 0.84572786}
+  - objectName: cuntw_carport2_
+    objectPosition: {x: 288.27344, y: 30.09375, z: 2163.5}
+    objectRotation: {x: -7.32363e-17, y: 0.9753424, z: 7.32363e-17, w: 0.22069721}
+  - objectName: cuntw_stwn
+    objectPosition: {x: 34.859375, y: 35.476562, z: 2486.6016}
+    objectRotation: {x: -0, y: 0.45787376, z: -0, w: 0.8890172}
+  - objectName: cuntw_stwnmotsign2
+    objectPosition: {x: 24.320312, y: 35.546875, z: 2528.164}
+    objectRotation: {x: 2.1315822e-17, y: -0.8594066, z: -2.1315822e-17, w: 0.5112928}
+  - objectName: cuntw_stwnyel
+    objectPosition: {x: 10.171875, y: 37.25, z: 2526.586}
+    objectRotation: {x: 2.1315822e-17, y: -0.8594066, z: -2.1315822e-17, w: 0.5112928}
+  - objectName: cuntw_stwnyels
+    objectPosition: {x: 11.2734375, y: 35.476562, z: 2498.9766}
+    objectRotation: {x: -0, y: -0.27563742, z: -0, w: 0.9612617}
+  - objectName: cuntw_weebarn1_
+    objectPosition: {x: 260.53906, y: 26.6875, z: 2182.6094}
+    objectRotation: {x: -0, y: -0.20791174, z: -0, w: 0.97814757}
+  - objectName: cuntw_weefact1_
+    objectPosition: {x: 257.53125, y: 27.578125, z: 2202.836}
+    objectRotation: {x: -0, y: 0.5336146, z: -0, w: 0.84572786}
+  - objectName: cuntw_weefactory1_
+    objectPosition: {x: 280.1875, y: 27.789062, z: 2167.7031}
+    objectRotation: {x: -0, y: -0.22069746, z: -0, w: 0.97534233}
+  - objectName: cuntwland01b
+    objectPosition: {x: 542.1953, y: 40.585938, z: 2213.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland45b
+    objectPosition: {x: 811.2344, y: 62.546875, z: 2799.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland53b
+    objectPosition: {x: 336.39062, y: 36.414062, z: 2139.7422}
+    objectRotation: {x: -0, y: -0.38268346, z: -0, w: 0.9238795}
+  - objectName: cuntwland63b
+    objectPosition: {x: 604.4844, y: 36.109375, z: 2057.3203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland64b
+    objectPosition: {x: 358.1172, y: 35.148438, z: 2041.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland65b
+    objectPosition: {x: 260.54688, y: 36.1875, z: 2294.4453}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland66b
+    objectPosition: {x: 97.05469, y: 38.6875, z: 2794.9453}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: cuntwland67b
+    objectPosition: {x: 344.1875, y: 57.21875, z: 2799.7969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland68b
+    objectPosition: {x: 559.7969, y: 73.13281, z: 2772.289}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland69b
+    objectPosition: {x: 288.2578, y: 98.08594, z: 2575.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland70b
+    objectPosition: {x: 949.0078, y: 53.507812, z: 2094.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland73b
+    objectPosition: {x: 819.72656, y: 46.210938, z: 2316.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland74b
+    objectPosition: {x: 810.8672, y: 80.96094, z: 2590.5156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland75b
+    objectPosition: {x: 591.78906, y: 110.921875, z: 2606.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland76b
+    objectPosition: {x: 400.0547, y: 126.85156, z: 2562.6094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland77b
+    objectPosition: {x: 473.20312, y: 64.58594, z: 2372.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland78b
+    objectPosition: {x: 493.8125, y: 93.765625, z: 2446.8281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland79b
+    objectPosition: {x: 639.3672, y: 33.304688, z: 2342.9766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwland80b
+    objectPosition: {x: 48.007812, y: 38.875, z: 2570.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad02
+    objectPosition: {x: 884.46875, y: 64.734375, z: 2838.9453}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad03
+    objectPosition: {x: 643.125, y: 59.804688, z: 2776.1875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad04
+    objectPosition: {x: 258.78906, y: 44.835938, z: 2832.4297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad06
+    objectPosition: {x: 108.578125, y: 34.835938, z: 2466.0703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad07
+    objectPosition: {x: 291.71094, y: 27.734375, z: 2213.3203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad14
+    objectPosition: {x: 920.91406, y: 86.86719, z: 2576.7578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad15
+    objectPosition: {x: 751.33594, y: 56.9375, z: 2406.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad16
+    objectPosition: {x: 564.8906, y: 36.695312, z: 2202.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad17
+    objectPosition: {x: 325.3047, y: 41.773438, z: 2129.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwroad72
+    objectPosition: {x: 37.046875, y: 39.632812, z: 2730.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cuntwwiresxx01
+    objectPosition: {x: 737.8203, y: 89.10156, z: 2833.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cvetoc4
+    objectPosition: {x: 828.65625, y: 82.64844, z: 2496.5078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cvetoc4
+    objectPosition: {x: 816.6797, y: 77.36719, z: 2417.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cxreffencesld
+    objectPosition: {x: 300.9375, y: 28.320312, z: 2148.4219}
+    objectRotation: {x: 1.5409126e-17, y: -0.8216469, z: -1.5409126e-17, w: 0.5699968}
+  - objectName: cxreffencesld
+    objectPosition: {x: 297.1875, y: 28.320312, z: 2141.5703}
+    objectRotation: {x: -0, y: -0.11753741, z: -0, w: 0.99306846}
+  - objectName: cxreffencesld
+    objectPosition: {x: 257.5625, y: 28.320312, z: 2241.5234}
+    objectRotation: {x: -2.3868998e-17, y: 0.8746198, z: 2.3868998e-17, w: -0.48480946}
+  - objectName: cxreffencesld
+    objectPosition: {x: 263.8672, y: 28.320312, z: 2231.5781}
+    objectRotation: {x: -2.3868998e-17, y: 0.8746198, z: 2.3868998e-17, w: -0.48480946}
+  - objectName: cxreffencesld
+    objectPosition: {x: 245.39844, y: 28.6875, z: 2225.9922}
+    objectRotation: {x: -0, y: -0.6360783, z: -0, w: 0.7716245}
+  - objectName: cxreffencesld
+    objectPosition: {x: 245.4375, y: 28.414062, z: 2236.6875}
+    objectRotation: {x: 1.1303025e-17, y: -0.79335356, z: -1.1303025e-17, w: 0.60876113}
+  - objectName: cxreffencesld
+    objectPosition: {x: 249.20312, y: 28.414062, z: 2244.3984}
+    objectRotation: {x: -0, y: -0.19936799, z: -0, w: 0.9799247}
+  - objectName: cxreffencesld
+    objectPosition: {x: 285.9297, y: 28.320312, z: 2139.2734}
+    objectRotation: {x: -0, y: -0.08280819, z: -0, w: 0.9965655}
+  - objectName: cxreffencesld
+    objectPosition: {x: 274.57812, y: 28.492188, z: 2138.6328}
+    objectRotation: {x: -0.00045685083, y: 0.026172973, z: -0.017446427, w: 0.9995051}
+  - objectName: cxreffencesld
+    objectPosition: {x: 254.14062, y: 29.023438, z: 2170.7969}
+    objectRotation: {x: 7.923642e-18, y: -0.76884186, z: -7.923642e-18, w: 0.639439}
+  - objectName: cxreffencesld
+    objectPosition: {x: 263.39062, y: 28.828125, z: 2140.5938}
+    objectRotation: {x: -0.002941758, y: 0.13481884, z: -0.021615624, w: 0.9906301}
+  - objectName: cxreffencesld
+    objectPosition: {x: 258, y: 29.023438, z: 2148.1094}
+    objectRotation: {x: 4.1547094e-18, y: -0.7402182, z: -4.1547094e-18, w: 0.6723667}
+  - objectName: cxreffencesld
+    objectPosition: {x: 256.25, y: 29.023438, z: 2159.3203}
+    objectRotation: {x: 7.923642e-18, y: -0.76884186, z: -7.923642e-18, w: 0.639439}
+  - objectName: cxreffencesld
+    objectPosition: {x: 251.30469, y: 29.023438, z: 2181.8047}
+    objectRotation: {x: 1.2425844e-17, y: -0.8012539, z: -1.2425844e-17, w: 0.5983245}
+  - objectName: cxreffencesld
+    objectPosition: {x: 248.03906, y: 29.023438, z: 2192.8125}
+    objectRotation: {x: 1.2425844e-17, y: -0.8012539, z: -1.2425844e-17, w: 0.5983245}
+  - objectName: cxreffencesld
+    objectPosition: {x: 244.85938, y: 29.023438, z: 2203.8672}
+    objectRotation: {x: 1.2425844e-17, y: -0.8012539, z: -1.2425844e-17, w: 0.5983245}
+  - objectName: cxreffencesld
+    objectPosition: {x: 243.72656, y: 28.898438, z: 2214.7266}
+    objectRotation: {x: -0, y: -0.66588175, z: -0, w: 0.74605733}
+  - objectName: cxrf_frway1sig
+    objectPosition: {x: 364.8672, y: 44.210938, z: 2176.1328}
+    objectRotation: {x: -8.045268e-17, y: 0.9185219, z: 8.045268e-17, w: 0.3953701}
+  - objectName: cxrf_frway1sig
+    objectPosition: {x: 296.14062, y: 39.195312, z: 2094.1016}
+    objectRotation: {x: -0, y: -0.2945961, z: -0, w: 0.9556219}
+  - objectName: DEAD_TREE_8
+    objectPosition: {x: 812.39844, y: 81.6875, z: 2476.539}
+    objectRotation: {x: -0, y: -0.51504284, z: -0, w: 0.85716444}
+  - objectName: DEAD_TREE_9
+    objectPosition: {x: 887.9453, y: 70.69531, z: 2367.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: DEAD_TREE_9
+    objectPosition: {x: 907.8906, y: 54.015625, z: 2390.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: DEAD_TREE_11
+    objectPosition: {x: 990.5703, y: 65.796875, z: 2326.3047}
+    objectRotation: {x: -0.08377538, y: 0.020907119, z: 0.0036576497, w: 0.9962586}
+  - objectName: DEAD_TREE_11
+    objectPosition: {x: 936.0625, y: 58.992188, z: 2342.4844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: DEAD_TREE_17
+    objectPosition: {x: 967.59375, y: 65.35156, z: 2338.75}
+    objectRotation: {x: -0, y: -0, z: 0.087155744, w: 0.9961947}
+  - objectName: DEAD_TREE_17
+    objectPosition: {x: 867.21094, y: 30.21875, z: 2191.9297}
+    objectRotation: {x: -0.17298739, y: 0.0151345, z: 0.08583166, w: 0.98106027}
+  - objectName: DEAD_TREE_18
+    objectPosition: {x: 375.0547, y: 28.039062, z: 2021.9219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: genVEG_bushy
+    objectPosition: {x: 631.1797, y: 32.48, z: 2444.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: genVEG_tallgrass07
+    objectPosition: {x: 622.3485, y: 36.251953, z: 2448.915}
+    objectRotation: {x: -0.11110515, y: -0.011707905, z: -0.1041405, w: 0.98826784}
+  - objectName: genVEG_tallgrass10
+    objectPosition: {x: 609.75, y: 30.92, z: 2421.2188}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 914.3906, y: 74.75, z: 2458.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 981.7422, y: 70.50781, z: 2423.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 999.52344, y: 62.796875, z: 2341.164}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 941.66406, y: 60.4375, z: 2398.836}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 937.25, y: 83.67969, z: 2807.3672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 985.1875, y: 38.359375, z: 2191.25}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 895.6875, y: 88.11719, z: 2639.125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 905.9375, y: 60.4375, z: 2426.0078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 914.3906, y: 74.75, z: 2458.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 821.33594, y: 84.515625, z: 2711.2734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 814.9375, y: 49.226562, z: 2371.836}
+    objectRotation: {x: -0.105909444, y: 0.031832978, z: 0.042071633, w: 0.99297523}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 853.65625, y: 22.09375, z: 2310.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 767.8906, y: 79.765625, z: 2711.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 785.1953, y: 79.47656, z: 2651.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 804.22656, y: 76.67969, z: 2603.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 745.9297, y: 69.77344, z: 2613.9922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 762.0156, y: 72.27344, z: 2483.1875}
+    objectRotation: {x: -0.086659, y: -0.0038124127, z: 0.086988665, w: 0.9924256}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 744.8203, y: 24.3125, z: 2255.9766}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 721.1406, y: 85.6875, z: 2705.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 716.5781, y: 18.335938, z: 2153.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 692.125, y: 73.22656, z: 2624.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 698.90625, y: 20.046875, z: 2151.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 661.2969, y: 56.5625, z: 2571.2422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 563.2422, y: 62.507812, z: 2516.3672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 604.8906, y: 46.617188, z: 2470.7578}
+    objectRotation: {x: -0.13052621, y: -0, z: -0, w: 0.9914449}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 630.7578, y: 26.765625, z: 2401.3984}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 577.89844, y: 25.640625, z: 2313.8438}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 630.9453, y: 19.984375, z: 2254.0234}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 607.875, y: 23.765625, z: 2217.8672}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 514.1328, y: 31.492188, z: 2245.5547}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 659.5703, y: 12.046875, z: 2170.164}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 647.4219, y: 25.703125, z: 2112.8281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 667.65625, y: 22.492188, z: 2138.8125}
+    objectRotation: {x: -0, y: 0.46568835, z: -0, w: 0.88494885}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 574.9297, y: 23.765625, z: 2197.2266}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 624.64844, y: 26.007812, z: 2072.789}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 631.4531, y: 25.703125, z: 2065.8906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 543.28125, y: 54.710938, z: 2066.2188}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 576.2344, y: 39.210938, z: 2070.4688}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 504.0625, y: 80.625, z: 2123.5312}
+    objectRotation: {x: -5.3610856e-17, y: 0.9930685, z: 5.3610856e-17, w: -0.11753681}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 459.6172, y: 76.16406, z: 2086.5938}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 455.3203, y: 85.453125, z: 2124.289}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 417.3047, y: 81.4375, z: 2147.1172}
+    objectRotation: {x: -5.3610856e-17, y: 0.9930685, z: 5.3610856e-17, w: -0.11753681}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 384.09375, y: 30.195312, z: 2055.4766}
+    objectRotation: {x: -0.14542554, y: 0.9823627, z: -0.017212184, w: -0.11627006}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 305.8203, y: 24.8125, z: 2063.0625}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 524.5469, y: 44.015625, z: 2005.0938}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 392.39062, y: 23.585938, z: 2006.2656}
+    objectRotation: {x: -0, y: -0.6087614, z: -0, w: 0.7933533}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 146.41406, y: 56.601562, z: 2723.7734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 233.57812, y: 38.398438, z: 2434.2422}
+    objectRotation: {x: -0.0011897929, y: -0.04169406, z: 0.13637178, w: 0.98977923}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 84.67969, y: 73.77344, z: 2697.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 79.1875, y: 73.77344, z: 2647.711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 115.640625, y: 63.21875, z: 2602.3672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 102.53125, y: 38.148438, z: 2556.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lod_po1vbg_fir_co
+    objectPosition: {x: 74.265625, y: 26.15625, z: 2439.789}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: pogenVEG_bush01
+    objectPosition: {x: 941.4531, y: 65.34375, z: 2384.125}
+    objectRotation: {x: 0.50000006, y: 0.49999994, z: -0.49999997, w: 0.50000006}
+  - objectName: pogenVEG_bush01
+    objectPosition: {x: 997.03125, y: 59.210938, z: 2294.0938}
+    objectRotation: {x: 0.50000006, y: 0.49999994, z: -0.49999997, w: 0.50000006}
+  - objectName: pogenVEG_bush01
+    objectPosition: {x: 599.496, y: 35.871502, z: 2427.1624}
+    objectRotation: {x: -0.18696944, y: -0.047139607, z: -0.23988634, w: 0.95145935}
+  - objectName: pogenVEG_bush07
+    objectPosition: {x: 889.71094, y: 92.28125, z: 2582}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: pogenVEG_bush07
+    objectPosition: {x: 890.6875, y: 92.28125, z: 2577.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: pogenVEG_bush07
+    objectPosition: {x: 83.75, y: 41.335938, z: 2536.0234}
+    objectRotation: {x: -0, y: -0.2054834, z: -0, w: 0.9786606}
+  - objectName: pogenVEG_bush07
+    objectPosition: {x: 24.757812, y: 40.882812, z: 2579.3516}
+    objectRotation: {x: -0, y: -0.2054834, z: -0, w: 0.9786606}
+  - objectName: pogenVEG_bush07
+    objectPosition: {x: 24.492188, y: 40.1875, z: 2575.4062}
+    objectRotation: {x: -0, y: -0.2054834, z: -0, w: 0.9786606}
+  - objectName: pogenVEG_bush07
+    objectPosition: {x: 27.75, y: 41.804688, z: 2580.0078}
+    objectRotation: {x: -0, y: 0.2830341, z: -0, w: 0.95910984}
+  - objectName: posm_firtallded
+    objectPosition: {x: 931.1406, y: 39.632812, z: 2238.3828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 810.5781, y: 19.460938, z: 2213.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 768.2578, y: 19.460938, z: 2151.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 212.82812, y: 35.9375, z: 2409.5234}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 144.92188, y: 32.382812, z: 2384.625}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 115.97656, y: 67.640625, z: 2747.164}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 80.21094, y: 75.546875, z: 2729.9688}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 92.0625, y: 73.91406, z: 2760.9062}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 129.16406, y: 75.359375, z: 2703.5312}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 87.92969, y: 78.50781, z: 2683.9531}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 70.953125, y: 82.86719, z: 2664.211}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 125.22656, y: 68.36719, z: 2628.4453}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 109.11719, y: 75.99219, z: 2654.25}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 85.44531, y: 78.39844, z: 2621.1172}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 119.984375, y: 36.242188, z: 2529.8594}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 99.90625, y: 36.65625, z: 2434.211}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 66.640625, y: 38.617188, z: 2463.8672}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 35.546875, y: 35.9375, z: 2469.9531}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 246.58594, y: 32.125, z: 2317.0312}
+    objectRotation: {x: -6.280615e-17, y: 0.99966085, z: 6.280615e-17, w: 0.026041381}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: 709.6875, y: 42.023438, z: 2364.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: 699.97656, y: 35.015625, z: 2340.3984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: 221.15625, y: 32.273438, z: 2383.836}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: 147.10156, y: 33.460938, z: 2455.9688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: 191.67969, y: 29.507812, z: 2323.3984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: 274.35156, y: 28.078125, z: 2272.3828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: 234.44531, y: 28.078125, z: 2259.2188}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: 163.14062, y: 29.21875, z: 2368.7422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: 148.08594, y: 31.796875, z: 2421.6484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: 220.53906, y: 27.390625, z: 2281.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: 208.97656, y: 27.890625, z: 2306.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: potree_hipoly19
+    objectPosition: {x: 23.234375, y: 41.15625, z: 2697.2031}
+    objectRotation: {x: -0, y: 0.6228485, z: -0, w: 0.78234243}
+  - objectName: potree_hipoly19
+    objectPosition: {x: 20.726562, y: 41.8125, z: 2659.7266}
+    objectRotation: {x: -0, y: 0.6228485, z: -0, w: 0.78234243}
+  - objectName: potree_hipoly19
+    objectPosition: {x: 24.921875, y: 42.695312, z: 2627.2969}
+    objectRotation: {x: -0, y: 0.6228486, z: -0, w: 0.78234243}
+  - objectName: potree_hipoly19
+    objectPosition: {x: 28.320312, y: 42.867188, z: 2599.9922}
+    objectRotation: {x: -0, y: -0.003936519, z: -0, w: 0.99999225}
+  - objectName: poveg_largefurs02
+    objectPosition: {x: 916.4375, y: 50.640625, z: 2309.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs02
+    objectPosition: {x: 900.47656, y: 32.09375, z: 2220.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs02
+    objectPosition: {x: 765.5625, y: 34.703125, z: 2300.5078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs02
+    objectPosition: {x: 794.89844, y: 13.34375, z: 2066.2422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs02
+    objectPosition: {x: 737.4844, y: 20.367188, z: 2112.3125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs02
+    objectPosition: {x: 688.1172, y: 15.71875, z: 2011.1328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs03
+    objectPosition: {x: 832.9297, y: 20.578125, z: 2207.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs03
+    objectPosition: {x: 827.9922, y: 7.9453125, z: 2001.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs03
+    objectPosition: {x: 817.72656, y: 17.726562, z: 2025.5312}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs03
+    objectPosition: {x: 688.4375, y: 12.296875, z: 2041.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs03
+    objectPosition: {x: 683.5781, y: 17.71875, z: 2027.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_largefurs03
+    objectPosition: {x: 479.3203, y: 44.921875, z: 2832.2266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 866.53125, y: 26.703125, z: 2216.164}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: pylon_big1_
+    objectPosition: {x: 931.3125, y: 65.74219, z: 2858.9297}
+    objectRotation: {x: -0, y: -0.5407499, z: -0, w: 0.8411834}
+  - objectName: pylon_big1_
+    objectPosition: {x: 849.66406, y: 56.46875, z: 2861.8906}
+    objectRotation: {x: 2.1274908e-17, y: -0.85915726, z: -2.1274908e-17, w: 0.51171166}
+  - objectName: pylon_big1_
+    objectPosition: {x: 711.3125, y: 50.5625, z: 2805.0781}
+    objectRotation: {x: 4.505113e-18, y: -0.74293625, z: -4.505113e-18, w: 0.6693622}
+  - objectName: pylon_big1_
+    objectPosition: {x: 543.7969, y: 45.976562, z: 2805.6484}
+    objectRotation: {x: -0, y: -0.51943195, z: -0, w: 0.85451186}
+  - objectName: pylon_big1_
+    objectPosition: {x: 445.3672, y: 40.929688, z: 2830.0625}
+    objectRotation: {x: -0, y: -0.51943195, z: -0, w: 0.85451186}
+  - objectName: pylon_big1_
+    objectPosition: {x: 344.35156, y: 26.679688, z: 2064.7969}
+    objectRotation: {x: 0.0000000036815422, y: 0.9882567, z: 5.692413e-10, w: 0.15280287}
+  - objectName: pylon_big1_
+    objectPosition: {x: 316.0625, y: 28.703125, z: 2171.6875}
+    objectRotation: {x: 0.0000000036815422, y: 0.9882567, z: 5.692413e-10, w: 0.15280287}
+  - objectName: pylon_big1_
+    objectPosition: {x: 268.10156, y: 39.664062, z: 2841.1484}
+    objectRotation: {x: 0.008489422, y: -0.68898284, z: -0.008071213, w: 0.724683}
+  - objectName: pylon_big1_
+    objectPosition: {x: 217.67188, y: 28.257812, z: 2339.8672}
+    objectRotation: {x: 0.0000000034994156, y: 0.93936753, z: 0.0000000012774471, w: 0.34291202}
+  - objectName: pylon_big1_
+    objectPosition: {x: 127.36719, y: 38.726562, z: 2857.3125}
+    objectRotation: {x: -0.0000000060494787, y: -0.8119472, z: 0.0000000043491335, w: 0.5837308}
+  - objectName: pylon_big1_
+    objectPosition: {x: 136.02344, y: 32.257812, z: 2401.3984}
+    objectRotation: {x: 0.0000000034994156, y: 0.93936753, z: 0.0000000012774471, w: 0.34291202}
+  - objectName: pylon_big1_
+    objectPosition: {x: 58.039062, y: 34.859375, z: 2473.211}
+    objectRotation: {x: 0.0000000034994156, y: 0.93936753, z: 0.0000000012774471, w: 0.34291202}
+  - objectName: pylon_big1_
+    objectPosition: {x: 24.03125, y: 39.023438, z: 2829.9844}
+    objectRotation: {x: 0.0000000034455279, y: 0.92490155, z: -0.0000000014163802, w: -0.38020667}
+  - objectName: pylon_big1_
+    objectPosition: {x: 13.1875, y: 40.023438, z: 2739.125}
+    objectRotation: {x: 0.0000000037233467, y: 0.9994782, z: -1.2032968e-10, w: -0.032300174}
+  - objectName: pylon_big1_
+    objectPosition: {x: 7.2578125, y: 39.234375, z: 2651.2344}
+    objectRotation: {x: 0.0000000037233467, y: 0.9994782, z: -1.2032968e-10, w: -0.032300174}
+  - objectName: pylon_big1_
+    objectPosition: {x: 3.5625, y: 37.453125, z: 2559.8047}
+    objectRotation: {x: 0.0000000037082166, y: 0.9954168, z: 3.5625813e-10, w: 0.09563182}
+  - objectName: pylon_big1_
+    objectPosition: {x: 270.91406, y: 28.703125, z: 2267.664}
+    objectRotation: {x: 0.0000000034994156, y: 0.93936753, z: 0.0000000012774471, w: 0.34291202}
+  - objectName: sand_combush1
+    objectPosition: {x: 191.96875, y: 42.296875, z: 2813.289}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 194.09375, y: 42.421875, z: 2809.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 191.38281, y: 42.101562, z: 2807.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 193.95312, y: 42.265625, z: 2804.6016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 191.97656, y: 40.851562, z: 2797.6016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 193.22656, y: 39.820312, z: 2790.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 192.91406, y: 38.359375, z: 2782.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 192.66406, y: 36.664062, z: 2773.0547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 190.21094, y: 37.210938, z: 2777.3906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 178.67969, y: 39.179688, z: 2782.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 178.84375, y: 39.078125, z: 2788.0625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 176.36719, y: 39.78125, z: 2796.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 183.90625, y: 33.484375, z: 2727.1875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 172.89062, y: 40.5625, z: 2812.125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 175.59375, y: 28.164062, z: 2624.1484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 176.03906, y: 28.960938, z: 2620.5703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 179.60156, y: 32.21875, z: 2601.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 178.92969, y: 32.34375, z: 2598.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 181.03125, y: 32.484375, z: 2597.7578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 168.32031, y: 30.0625, z: 2660.3438}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 167.70312, y: 31.453125, z: 2600.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 166.53906, y: 30.179688, z: 2606.9766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 159.91406, y: 25.734375, z: 2630.9922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 171.8125, y: 35.929688, z: 2579.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 172.54688, y: 34.953125, z: 2583.461}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 174.03125, y: 35.554688, z: 2567.1172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 188.40625, y: 32.734375, z: 2536.6406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 178.01562, y: 33.109375, z: 2537.9062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 175.97656, y: 35.132812, z: 2560.8594}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 175.64062, y: 32.148438, z: 2533.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 186.375, y: 31.664062, z: 2528.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 163.38281, y: 27.109375, z: 2494.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 165.14062, y: 28.164062, z: 2514.1328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 164.46094, y: 27.421875, z: 2499.7422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 159.57031, y: 26.679688, z: 2490.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 175.75781, y: 27.671875, z: 2474.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 175.21094, y: 27.40625, z: 2481.8828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 172.99219, y: 28.125, z: 2461.914}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 172.125, y: 33.820312, z: 2429.5234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 154.8125, y: 29.1875, z: 2473.9297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 155.67969, y: 28.75, z: 2475.2734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 168.49219, y: 30.335938, z: 2450.586}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 151.64062, y: 30.4375, z: 2469.4453}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush1
+    objectPosition: {x: 147.16406, y: 35.515625, z: 2450.1328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 980.85156, y: 63.601562, z: 2672.9531}
+    objectRotation: {x: 0.2916506, y: -0.013355884, z: -0.04783091, w: 0.95523494}
+  - objectName: sand_combush02
+    objectPosition: {x: 972.96094, y: 65.75781, z: 2671.3281}
+    objectRotation: {x: 0.21286364, y: -0.021678908, z: -0.10372318, w: 0.971319}
+  - objectName: sand_combush02
+    objectPosition: {x: 936.6875, y: 57.703125, z: 2349.5156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 938.6094, y: 57.953125, z: 2347.711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 940.46094, y: 58.203125, z: 2353.1172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 936.4922, y: 58.171875, z: 2371.1484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 940.2344, y: 58.921875, z: 2371.8984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 933.46094, y: 57.171875, z: 2354.2734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 968.64844, y: 55.617188, z: 2298.336}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 956.4531, y: 55.835938, z: 2304.5078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 949.8594, y: 37.375, z: 2179.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 951.3203, y: 37.804688, z: 2183.4062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 953.4375, y: 36.265625, z: 2176.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 956.8906, y: 35.789062, z: 2174.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 956.9844, y: 34.460938, z: 2153.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 942.125, y: 35.335938, z: 2190.086}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 936.3906, y: 34.304688, z: 2187.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 934.97656, y: 38.5, z: 2196.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 939.3906, y: 33.351562, z: 2169.0312}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 936.21094, y: 32.976562, z: 2169.7031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 928.1953, y: 33.265625, z: 2188.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 922.3203, y: 32.492188, z: 2188.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 981.0469, y: 110.625, z: 2102.3203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 978.4375, y: 112.47656, z: 2132.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 975.2969, y: 34.53125, z: 2147.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 989.77344, y: 96.203125, z: 2082.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 972.03125, y: 105.109375, z: 2075.5703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 962.85156, y: 112.796875, z: 2088.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 940.0156, y: 115.11719, z: 2076.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 862.83594, y: 97.4375, z: 2676.9531}
+    objectRotation: {x: -0.028306844, y: 0.00022112303, z: -0.007814538, w: 0.99956876}
+  - objectName: sand_combush02
+    objectPosition: {x: 873.4375, y: 96.58594, z: 2672.0234}
+    objectRotation: {x: -0.04026333, y: 0.0030821231, z: -0.07638815, w: 0.9962601}
+  - objectName: sand_combush02
+    objectPosition: {x: 870.4531, y: 95.94531, z: 2664.6094}
+    objectRotation: {x: 0.02480958, y: -0.0015481517, z: -0.062298987, w: 0.99774796}
+  - objectName: sand_combush02
+    objectPosition: {x: 866.0625, y: 96.546875, z: 2667.0078}
+    objectRotation: {x: 0.0037176113, y: -0.00016776462, z: -0.04508081, w: 0.9989764}
+  - objectName: sand_combush02
+    objectPosition: {x: 897.72656, y: 90.71094, z: 2669.5703}
+    objectRotation: {x: -0.030097676, y: 0.003672256, z: -0.121168874, w: 0.9921687}
+  - objectName: sand_combush02
+    objectPosition: {x: 870.03906, y: 96.34375, z: 2661.9219}
+    objectRotation: {x: 0.03191899, y: -0.0015692612, z: -0.049131352, w: 0.99828094}
+  - objectName: sand_combush02
+    objectPosition: {x: 893.03125, y: 91.734375, z: 2660.4766}
+    objectRotation: {x: 0.064221345, y: -0.006285801, z: -0.09761619, w: 0.99313}
+  - objectName: sand_combush02
+    objectPosition: {x: 851.4453, y: 96.77344, z: 2683.3984}
+    objectRotation: {x: -0.0029632915, y: -0.000119112716, z: 0.040163476, w: 0.9991887}
+  - objectName: sand_combush02
+    objectPosition: {x: 838.2031, y: 95.09375, z: 2687.7344}
+    objectRotation: {x: 0.008450309, y: 0.00059648027, z: 0.070414126, w: 0.9974819}
+  - objectName: sand_combush02
+    objectPosition: {x: 904.89844, y: 33.421875, z: 2197.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 914.22656, y: 72.44531, z: 2174.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 899.21875, y: 71.78125, z: 2150.5781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 892.03125, y: 70.84375, z: 2150.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 904.5625, y: 71.9375, z: 2160.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 900.2969, y: 73.02344, z: 2134.9219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 859.7031, y: 72.32031, z: 2092.5703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 851.09375, y: 71.71875, z: 2096.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 866.15625, y: 78.671875, z: 2123.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 854.6328, y: 72.36719, z: 2081.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 858.0625, y: 72.3125, z: 2087.3828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 848.15625, y: 71.671875, z: 2079.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 842.8125, y: 70.984375, z: 2091.0547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 830.8281, y: 69.421875, z: 2086.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 832.8125, y: 70.390625, z: 2097}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 771.9453, y: 82.78125, z: 2689.8984}
+    objectRotation: {x: 0.01369003, y: 0.0003470377, z: 0.025343902, w: 0.99958503}
+  - objectName: sand_combush02
+    objectPosition: {x: 773.5625, y: 82.92969, z: 2681.2031}
+    objectRotation: {x: 0.0055550626, y: 0.00017947642, z: 0.03229228, w: 0.999463}
+  - objectName: sand_combush02
+    objectPosition: {x: 771.125, y: 83.078125, z: 2678.461}
+    objectRotation: {x: 0.0065222657, y: 0.000076010845, z: 0.011653514, w: 0.99991083}
+  - objectName: sand_combush02
+    objectPosition: {x: 750.78125, y: 83.47656, z: 2662.6875}
+    objectRotation: {x: -0.046689462, y: 0.0005547529, z: -0.011893888, w: 0.9988385}
+  - objectName: sand_combush02
+    objectPosition: {x: 741.28125, y: 84.9375, z: 2670.6094}
+    objectRotation: {x: -0.053043883, y: 0.00010682933, z: -0.0020168158, w: 0.9985902}
+  - objectName: sand_combush02
+    objectPosition: {x: 741.0547, y: 84.16406, z: 2665.8125}
+    objectRotation: {x: -0.054951828, y: -0.00017405956, z: 0.003171369, w: 0.99848396}
+  - objectName: sand_combush02
+    objectPosition: {x: 788.33594, y: 22.476562, z: 2152.4297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 778.78125, y: 24.921875, z: 2138.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 779.02344, y: 24.8125, z: 2134.3828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 782.40625, y: 24.226562, z: 2142.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 784.97656, y: 23.257812, z: 2148.5078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 774.09375, y: 24.898438, z: 2138.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 775.625, y: 24.851562, z: 2136.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 776.6953, y: 23.0625, z: 2102.0469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 772.4844, y: 22.828125, z: 2104.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 736.8047, y: 82.28125, z: 2645.8047}
+    objectRotation: {x: -0.08585013, y: -0.000737706, z: 0.00862477, w: 0.9962705}
+  - objectName: sand_combush02
+    objectPosition: {x: 739.3594, y: 82.453125, z: 2648.0781}
+    objectRotation: {x: -0.08273534, y: -0.00025777763, z: 0.0031251635, w: 0.99656665}
+  - objectName: sand_combush02
+    objectPosition: {x: 721.14844, y: 77.69531, z: 2631.2344}
+    objectRotation: {x: -0.10236041, y: -0.005062867, z: 0.04966316, w: 0.993494}
+  - objectName: sand_combush02
+    objectPosition: {x: 721.4531, y: 75.203125, z: 2618.3047}
+    objectRotation: {x: -0.1275278, y: -0.006480757, z: 0.051172066, w: 0.9904929}
+  - objectName: sand_combush02
+    objectPosition: {x: 719.9375, y: 74.38281, z: 2615.539}
+    objectRotation: {x: -0.131905, y: -0.007188917, z: 0.054901235, w: 0.98971474}
+  - objectName: sand_combush02
+    objectPosition: {x: 739.1797, y: 24.265625, z: 2118.5781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 734.28906, y: 24.382812, z: 2118.289}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 707.9453, y: 70.765625, z: 2606.7266}
+    objectRotation: {x: -0.1371025, y: -0.0061019375, z: 0.044886883, w: 0.98952055}
+  - objectName: sand_combush02
+    objectPosition: {x: 705.71875, y: 69.17969, z: 2602.6953}
+    objectRotation: {x: -0.13850236, y: -0.0057483064, z: 0.04187203, w: 0.9894599}
+  - objectName: sand_combush02
+    objectPosition: {x: 710.59375, y: 67.11719, z: 2594.8828}
+    objectRotation: {x: -0.16160074, y: -0.0042030737, z: 0.026347242, w: 0.9864955}
+  - objectName: sand_combush02
+    objectPosition: {x: 703.09375, y: 36.929688, z: 2343.8906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 693.1406, y: 56.554688, z: 2566.3125}
+    objectRotation: {x: -0.14990284, y: -0.0022965968, z: 0.01549371, w: 0.9885767}
+  - objectName: sand_combush02
+    objectPosition: {x: 691.125, y: 52.945312, z: 2555.1953}
+    objectRotation: {x: -0.14933603, y: 0.0005485401, z: -0.003714823, w: 0.9887794}
+  - objectName: sand_combush02
+    objectPosition: {x: 675.96094, y: 35.59375, z: 2488.6328}
+    objectRotation: {x: -0.0628789, y: -0.003341294, z: 0.053168945, w: 0.9965983}
+  - objectName: sand_combush02
+    objectPosition: {x: 658.125, y: 34.195312, z: 2484.211}
+    objectRotation: {x: -0.08210326, y: 0.00006200654, z: -0.0007577847, w: 0.9966236}
+  - objectName: sand_combush02
+    objectPosition: {x: 664.28125, y: 33.085938, z: 2472.8906}
+    objectRotation: {x: -0.052156173, y: -0.0013198612, z: 0.025331825, w: 0.99831676}
+  - objectName: sand_combush02
+    objectPosition: {x: 655.0703, y: 33.898438, z: 2482.6172}
+    objectRotation: {x: -0.081787795, y: 0.00046219616, z: -0.0056700697, w: 0.9966335}
+  - objectName: sand_combush02
+    objectPosition: {x: 630.5625, y: 29.109375, z: 2429.336}
+    objectRotation: {x: -0.021012014, y: -0.0005898667, z: 0.028066905, w: 0.99938506}
+  - objectName: sand_combush02
+    objectPosition: {x: 628.0469, y: 31.765625, z: 2447.1094}
+    objectRotation: {x: -0.07398181, y: 0.0036792464, z: -0.049807232, w: 0.9960083}
+  - objectName: sand_combush02
+    objectPosition: {x: 625.9922, y: 29.5, z: 2430.3672}
+    objectRotation: {x: -0.0594292, y: 0.0017435737, z: -0.029378029, w: 0.9977986}
+  - objectName: sand_combush02
+    objectPosition: {x: 608.02344, y: 28.5625, z: 2412.0703}
+    objectRotation: {x: -0.06554978, y: 0.0030031763, z: -0.045866046, w: 0.9967901}
+  - objectName: sand_combush02
+    objectPosition: {x: 605.5547, y: 28.179688, z: 2407.4766}
+    objectRotation: {x: -0.06331342, y: 0.0029512565, z: -0.046656713, w: 0.9968981}
+  - objectName: sand_combush02
+    objectPosition: {x: 600.25, y: 30.226562, z: 2417.1484}
+    objectRotation: {x: -0.07329598, y: 0.004315578, z: -0.05893607, w: 0.99555796}
+  - objectName: sand_combush02
+    objectPosition: {x: 592.7969, y: 29.445312, z: 2405.086}
+    objectRotation: {x: -0.064404935, y: 0.0036351713, z: -0.05647037, w: 0.9963182}
+  - objectName: sand_combush02
+    objectPosition: {x: 596.4531, y: 27.015625, z: 2391.8594}
+    objectRotation: {x: -0.0553455, y: 0.0027504913, z: -0.049711883, w: 0.99722517}
+  - objectName: sand_combush02
+    objectPosition: {x: 594.75, y: 26.1875, z: 2374.3672}
+    objectRotation: {x: 0.00019790503, y: 0.00000042211212, z: 0.002132898, w: 0.99999774}
+  - objectName: sand_combush02
+    objectPosition: {x: 593.7344, y: 26.148438, z: 2371.875}
+    objectRotation: {x: 0.006747175, y: 0.000060882703, z: 0.009023274, w: 0.9999365}
+  - objectName: sand_combush02
+    objectPosition: {x: 598.16406, y: 26.398438, z: 2371.5312}
+    objectRotation: {x: 0.022899877, y: 0.0006523349, z: 0.028482322, w: 0.9993318}
+  - objectName: sand_combush02
+    objectPosition: {x: 576.85156, y: 26.851562, z: 2345.0547}
+    objectRotation: {x: 0.011975709, y: 0.00004054164, z: 0.0033855469, w: 0.9999226}
+  - objectName: sand_combush02
+    objectPosition: {x: 591.4531, y: 26.804688, z: 2354.4531}
+    objectRotation: {x: 0.01810615, y: 0.0004779093, z: 0.026390007, w: 0.99948764}
+  - objectName: sand_combush02
+    objectPosition: {x: 558.6406, y: 26.945312, z: 2332.2812}
+    objectRotation: {x: 0.004410773, y: -0.00010477901, z: -0.023748318, w: 0.9997083}
+  - objectName: sand_combush02
+    objectPosition: {x: 551, y: 27.578125, z: 2323.664}
+    objectRotation: {x: 0.006940673, y: -0.00022422861, z: -0.03228885, w: 0.9994545}
+  - objectName: sand_combush02
+    objectPosition: {x: 531.90625, y: 29.25, z: 2303.8438}
+    objectRotation: {x: 0.013961339, y: -0.00072182534, z: -0.051644694, w: 0.9985677}
+  - objectName: sand_combush02
+    objectPosition: {x: 512.8594, y: 33.078125, z: 2279.1719}
+    objectRotation: {x: 0.043453395, y: -0.01886396, z: 0.08508981, w: 0.9952465}
+  - objectName: sand_combush02
+    objectPosition: {x: 510.7422, y: 33.078125, z: 2284.7188}
+    objectRotation: {x: -0, y: 0.0000000018626451, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 434.3672, y: 47.1875, z: 2264.961}
+    objectRotation: {x: -0.087155744, y: -0, z: -0, w: 0.9961947}
+  - objectName: sand_combush02
+    objectPosition: {x: 467.84375, y: 49.007812, z: 2034.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 447.35156, y: 45.96875, z: 2030.2031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 450.60938, y: 46.453125, z: 2031.0078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 445.03906, y: 46.546875, z: 2031.6406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 446.72656, y: 44.28125, z: 2025.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 447.8203, y: 43.15625, z: 2020.8984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 376.47656, y: 42.703125, z: 2253.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 329.4375, y: 37.132812, z: 2264.6484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 466.07812, y: 43.835938, z: 2012.7109}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 461.20312, y: 39.4375, z: 2004.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 463.09375, y: 41.171875, z: 2007.8359}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 194.39062, y: 42.5625, z: 2815.289}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 194.96094, y: 41.328125, z: 2799.211}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 191.875, y: 39.820312, z: 2791.586}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 174.95312, y: 40.9375, z: 2817.9219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 176.5625, y: 39.757812, z: 2792.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 184.26562, y: 33.0625, z: 2738.5156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 174.50781, y: 40.257812, z: 2804.5}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 186.07812, y: 34.992188, z: 2699.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 176.55469, y: 30.570312, z: 2666.789}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 173.71094, y: 28.4375, z: 2622.625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 177.41406, y: 28.796875, z: 2621.8125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 167.38281, y: 30.765625, z: 2662.6094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 164.77344, y: 28.507812, z: 2655.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 161.53125, y: 26.820312, z: 2625.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 181.78906, y: 29.476562, z: 2511.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 177.10938, y: 27.78125, z: 2489.125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 162.46094, y: 27.515625, z: 2504.1406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 153.36719, y: 26.460938, z: 2493.25}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 176.19531, y: 27.671875, z: 2471.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 178.125, y: 27.632812, z: 2485.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 175.13281, y: 28.460938, z: 2457.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 168.60938, y: 34.6875, z: 2428.336}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 157.35156, y: 27.328125, z: 2479.8906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush02
+    objectPosition: {x: 143.64844, y: 35.953125, z: 2448.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 984.0469, y: 112.546875, z: 2134.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 997.03906, y: 111.734375, z: 2117.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 985.5703, y: 112.359375, z: 2129.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 976.6172, y: 112.703125, z: 2139.9297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 958.0469, y: 120.58594, z: 2103.6094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 990.7344, y: 91.078125, z: 2068.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 954.7422, y: 111.359375, z: 2065.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 943.7578, y: 94.08594, z: 2015.4766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 884.21094, y: 78.859375, z: 2130.5078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 897.1406, y: 71.88281, z: 2143.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 872.8125, y: 79.265625, z: 2127.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 881.9297, y: 79.42969, z: 2109.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 853.6875, y: 72.453125, z: 2073.789}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 851.1719, y: 71.78125, z: 2071.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 837.5625, y: 69.625, z: 2115.5781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 838.21094, y: 70.67969, z: 2083.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 706.65625, y: 36.929688, z: 2341.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 705.96875, y: 35.804688, z: 2340.4844}
+    objectRotation: {x: -0, y: -0.4146821, z: -0, w: 0.90996635}
+  - objectName: sand_combush03
+    objectPosition: {x: 191.86719, y: 42.273438, z: 2818.1875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 189.69531, y: 42.15625, z: 2816.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 182.88281, y: 32.882812, z: 2734.6484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 170.71094, y: 40.554688, z: 2818.3672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 171.04688, y: 40.59375, z: 2815.0703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 174.375, y: 40.835938, z: 2815.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 178.28906, y: 34.992188, z: 2696.625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 178.10156, y: 35.648438, z: 2706.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 177.50781, y: 31.023438, z: 2670.0625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 176.57031, y: 25.15625, z: 2638.0547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 177.5, y: 24.835938, z: 2642.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 173.57031, y: 24.4375, z: 2640.8984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 165.6875, y: 29.59375, z: 2659.0234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 169.11719, y: 32.3125, z: 2596.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 166.8125, y: 31.992188, z: 2597.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 163.39062, y: 27.828125, z: 2620.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 157.16406, y: 23.96875, z: 2640.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 159.5, y: 25.109375, z: 2645.1016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 160.15625, y: 25.109375, z: 2645.0469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 169.39844, y: 34.65625, z: 2585.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 169.01562, y: 35.4375, z: 2582.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 184.82812, y: 34.273438, z: 2580.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 185.84375, y: 34.617188, z: 2577.2578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 185.3125, y: 34.671875, z: 2573.086}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 188.07031, y: 34.140625, z: 2562.461}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 179.70312, y: 34.234375, z: 2546.3984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 178.09375, y: 34.523438, z: 2550.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 174.5, y: 31.367188, z: 2529.1406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 179.67969, y: 28.578125, z: 2499.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 178.125, y: 28.148438, z: 2494.0469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 181.16406, y: 29.148438, z: 2507.0078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 164.96875, y: 27.882812, z: 2508.5156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 155.96094, y: 26.9375, z: 2500.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 172.79688, y: 27.625, z: 2473.1484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 174.53125, y: 29.539062, z: 2449.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 174.55469, y: 28.070312, z: 2465.5156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 172.10938, y: 30.835938, z: 2445.0703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 172.17188, y: 34.6875, z: 2426.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 173.61719, y: 31.625, z: 2438.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 155.4375, y: 30.4375, z: 2467.8125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 158.15625, y: 28.46875, z: 2473.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 158.36719, y: 26.3125, z: 2484.6406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 161.97656, y: 26.617188, z: 2486.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 154.92969, y: 32.03125, z: 2461.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 154.38281, y: 33.898438, z: 2451.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 150.15625, y: 33.132812, z: 2460.8125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 152.5625, y: 32.578125, z: 2461.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 152.17969, y: 31.859375, z: 2465.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sand_combush03
+    objectPosition: {x: 147.21094, y: 35.953125, z: 2446.914}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: telewirescuntw01
+    objectPosition: {x: 288.3125, y: 58.195312, z: 2143.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: telewirescuntw02
+    objectPosition: {x: 110.203125, y: 66.77344, z: 2494.6406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: telewirescuntw03
+    objectPosition: {x: 136.33594, y: 72.14844, z: 2756.4062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: telewirescuntw04
+    objectPosition: {x: 406.84375, y: 77.765625, z: 2823.8828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 303.3125, y: 27.632812, z: 2143.914}
+    objectRotation: {x: 0.066872254, y: -0.28797686, z: -0.0043810313, w: 0.9552896}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 298.8203, y: 27.632812, z: 2192.039}
+    objectRotation: {x: 0.066872254, y: -0.28797686, z: -0.0043810313, w: 0.9552896}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 221.09375, y: 27.632812, z: 2319.5781}
+    objectRotation: {x: 0.066872254, y: -0.28797686, z: -0.0043810313, w: 0.9552896}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 221.09375, y: 27.632812, z: 2319.5781}
+    objectRotation: {x: 0.066872254, y: -0.28797686, z: -0.0043810313, w: 0.9552896}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 268.6953, y: 27.632812, z: 2248.2344}
+    objectRotation: {x: 0.066872254, y: -0.28797686, z: -0.0043810313, w: 0.9552896}
+  - objectName: trunk07
+    objectPosition: {x: 910.8594, y: 44.664062, z: 2280.914}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: veg_largefurs04
+    objectPosition: {x: 960.96094, y: 44.5, z: 2192.5625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: veg_largefurs04
+    objectPosition: {x: 884.125, y: 41.726562, z: 2243.4062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: xoverlaymap01
+    objectPosition: {x: 895.125, y: 67.47656, z: 2415.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: xoverlaymap04
+    objectPosition: {x: 638.21875, y: 40.039062, z: 2065.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: xoverlaymap05
+    objectPosition: {x: 855.65625, y: 30.789062, z: 2098.2734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: xoverlaymap06
+    objectPosition: {x: 993.6875, y: 48.367188, z: 2240.164}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: xoverlaymap08
+    objectPosition: {x: 949.0078, y: 53.507812, z: 2094.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: xxcliffx
+    objectPosition: {x: 891.375, y: 92.140625, z: 2517.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cvetoc2
+    objectPosition: {x: 111.10602, y: 37.8125, z: 2827.63}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cvetoc2
+    objectPosition: {x: 87.1304, y: 37.8125, z: 2844.26}
+    objectRotation: {x: -8.6513186e-17, y: 0.7372768, z: 8.6513186e-17, w: 0.6755908}
+  - objectName: cvetoc2
+    objectPosition: {x: 152.254, y: 37.8125, z: 2865.8}
+    objectRotation: {x: 0.0024610606, y: -0.5519601, z: 0.0024610606, w: 0.83386326}
+  - objectName: cvetoc2
+    objectPosition: {x: 174.264, y: 37.8125, z: 2839.5798}
+    objectRotation: {x: 0.0024610606, y: -0.5519601, z: 0.0024610606, w: 0.83386326}
+  - objectName: cvetoc2
+    objectPosition: {x: 249.99898, y: 37.8125, z: 2868.7}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cvetoc2
+    objectPosition: {x: 233.168, y: 41.8125, z: 2843.41}
+    objectRotation: {x: 0.021235796, y: 0.941899, z: 0.021235794, w: -0.33455104}
+  - objectName: cvetoc2
+    objectPosition: {x: 315.955, y: 40.8125, z: 2858}
+    objectRotation: {x: -8.470331e-17, y: 0.83867013, z: 8.470331e-17, w: 0.5446398}
+  - objectName: cvetoc2
+    objectPosition: {x: 48.268494, y: 38.8125, z: 2811.17}
+    objectRotation: {x: -0, y: 0.39073107, z: -0, w: 0.9205049}
+  - objectName: cvetoc2
+    objectPosition: {x: 17.298187, y: 38.8125, z: 2814.49}
+    objectRotation: {x: -8.603896e-17, y: 0.7826079, z: 8.603896e-17, w: 0.62251496}
+  - objectName: cvetoc2
+    objectPosition: {x: 397.196, y: 42.8125, z: 2841.78}
+    objectRotation: {x: 0.011836107, y: 0.8787135, z: 0.011836107, w: 0.47705612}
+  - objectName: cvetoc2
+    objectPosition: {x: 465.63498, y: 45.8125, z: 2824.88}
+    objectRotation: {x: 0.017451106, y: 0.99969536, z: 0.017451106, w: -0.00030466734}
+  - objectName: cvetoc2
+    objectPosition: {x: 521.293, y: 45.8125, z: 2811.14}
+    objectRotation: {x: 0.013078093, y: 0.9741412, z: 0.013078113, w: -0.22518186}
+  - objectName: cvetoc2
+    objectPosition: {x: 591.824, y: 47.8125, z: 2801.43}
+    objectRotation: {x: -0.0017215096, y: -0.7546781, z: -0.0017215102, w: 0.65609086}
+  - objectName: cvetoc2
+    objectPosition: {x: 656.261, y: 48.8125, z: 2800.8298}
+    objectRotation: {x: 0.010818803, y: -0.3257551, z: 0.010818804, w: 0.9453304}
+  - objectName: cvetoc2
+    objectPosition: {x: 834.459, y: 56.8125, z: 2849.74}
+    objectRotation: {x: -0, y: -0.08715834, z: -0, w: 0.9961945}
+  - objectName: cvetoc2
+    objectPosition: {x: 22.07431, y: 39.525, z: 2761.01}
+    objectRotation: {x: -0, y: 0.39073107, z: -0, w: 0.9205049}
+  - objectName: cvetoc2
+    objectPosition: {x: 13.562897, y: 40.225, z: 2713.94}
+    objectRotation: {x: -0, y: 0.39073107, z: -0, w: 0.9205049}
+  - objectName: cvetoc2
+    objectPosition: {x: 100.57501, y: 37.225, z: 2515.74}
+    objectRotation: {x: -0.0010756995, y: -0.7660337, z: -0.0010756998, w: 0.6427987}
+  - objectName: cvetoc2
+    objectPosition: {x: 199.94098, y: 32.225, z: 2373.38}
+    objectRotation: {x: 0.0039163325, y: 0.89489913, z: 0.003916331, w: -0.44623414}
+  - objectName: cvetoc2
+    objectPosition: {x: 232.664, y: 30.224998, z: 2335.39}
+    objectRotation: {x: -0, y: 0.7071063, z: -0, w: 0.70710725}
+  - objectName: cvetoc2
+    objectPosition: {x: 254.705, y: 28.224998, z: 2289.43}
+    objectRotation: {x: -0, y: 0.7071063, z: -0, w: 0.70710725}
+  - objectName: cvetoc2
+    objectPosition: {x: 240.677, y: 28.224998, z: 2171.09}
+    objectRotation: {x: -0, y: 0.7071063, z: -0, w: 0.70710725}
+  - objectName: cvetoc2
+    objectPosition: {x: 230.96698, y: 28.224998, z: 2194.5}
+    objectRotation: {x: -0, y: 0.15643416, z: -0, w: 0.9876884}
+  - objectName: cvetoc2
+    objectPosition: {x: 199.19, y: 37.8125, z: 2858.4}
+    objectRotation: {x: 0.020455504, y: 0.9359571, z: 0.020455504, w: -0.35092384}
+  - objectName: cvetoc2
+    objectPosition: {x: 235.81299, y: 28.224998, z: 2210.95}
+    objectRotation: {x: -0, y: 0.147809, z: -0, w: 0.98901594}
+  - objectName: cvetoc2
+    objectPosition: {x: 249.162, y: 27.224998, z: 2148.63}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 338.651, y: 28.7331, z: 2103.9}
+    objectRotation: {x: 2.0342122e-17, y: -0.85342604, z: -2.0342122e-17, w: 0.52121395}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 975.923, y: 86.2079, z: 2471.77}
+    objectRotation: {x: -0, y: -0.5370801, z: -0, w: 0.84353125}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 817.24396, y: 90.9372, z: 2658.0798}
+    objectRotation: {x: -4.925125e-17, y: 0.9837697, z: 4.925125e-17, w: -0.17943573}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 795.872, y: 80.6156, z: 2746.92}
+    objectRotation: {x: -2.9205514e-17, y: 0.9041588, z: 2.9205514e-17, w: -0.42719653}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 827.653, y: 92.7873, z: 2721.31}
+    objectRotation: {x: -0, y: -0.35852396, z: -0, w: 0.93352056}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 792.115, y: 78.8741, z: 2586.93}
+    objectRotation: {x: -0, y: -0.10558507, z: -0, w: 0.9944103}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 972.30096, y: 83.56049, z: 2449.26}
+    objectRotation: {x: 1.2013797e-17, y: -0.7983689, z: -1.2013797e-17, w: 0.6021687}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 322.282, y: 81.3588, z: 2747.8198}
+    objectRotation: {x: -0, y: -0.5914672, z: -0, w: 0.80632913}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 336.633, y: 82.32109, z: 2361.3}
+    objectRotation: {x: -0, y: -0.5103481, z: -0, w: 0.85996795}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 680.725, y: 49.573997, z: 2400.53}
+    objectRotation: {x: -0, y: -0.15832797, z: -0, w: 0.9873866}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 314.21896, y: 40.6661, z: 2834.55}
+    objectRotation: {x: 0.0043230886, y: -0.41473287, z: 0.0043230886, w: 0.9099227}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 709.61896, y: 30.269299, z: 2200.8}
+    objectRotation: {x: 2.0901172e-17, y: -0.8568717, z: -2.0901172e-17, w: 0.5155297}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 959.545, y: 108.71399, z: 2558.6597}
+    objectRotation: {x: -4.4721857e-17, y: 0.9706917, z: 4.4721857e-17, w: -0.24032837}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 551.768, y: 29.435099, z: 2256.47}
+    objectRotation: {x: 1.4462712e-17, y: -0.8152721, z: -1.4462712e-17, w: 0.5790781}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 746.52997, y: 68.2585, z: 2457.0698}
+    objectRotation: {x: -0, y: -0.44718918, z: -0, w: 0.8944394}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 303.56, y: 127.60399, z: 2624.5898}
+    objectRotation: {x: -0, y: -0.41243586, z: -0, w: 0.91098666}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 659.91895, y: 64.7367, z: 2573.89}
+    objectRotation: {x: -0, y: -0.6181848, z: -0, w: 0.7860328}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 689.824, y: 18.8839, z: 2209.22}
+    objectRotation: {x: -5.383051e-17, y: 0.9934435, z: 5.383051e-17, w: -0.1143246}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 323.934, y: 29.6987, z: 2149.8}
+    objectRotation: {x: -0, y: -0.49449015, z: -0, w: 0.86918324}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 601.95, y: 111.119995, z: 2787.31}
+    objectRotation: {x: -0, y: -0.5896703, z: -0, w: 0.80764407}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 305.33197, y: 92.2535, z: 2702.38}
+    objectRotation: {x: -2.7280706e-17, y: 0.89386463, z: 2.7280706e-17, w: -0.4483369}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 584.684, y: 63.6331, z: 2130.63}
+    objectRotation: {x: -0, y: -0.22702998, z: -0, w: 0.97388774}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 493.83798, y: 105.27599, z: 2522.95}
+    objectRotation: {x: 1.1091876e-17, y: -0.79185426, z: -1.1091876e-17, w: 0.6107102}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 225.86798, y: 30.1958, z: 2349.75}
+    objectRotation: {x: -0, y: -0.3665031, z: -0, w: 0.9304169}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 816.021, y: 86.2748, z: 2596.84}
+    objectRotation: {x: -0, y: -0.53848016, z: -0, w: 0.8426382}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 707.681, y: 53.899197, z: 2396.1}
+    objectRotation: {x: -2.845261e-17, y: 0.9001815, z: 2.845261e-17, w: -0.43551505}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 734.735, y: 65.8479, z: 2584.25}
+    objectRotation: {x: -0, y: -0.043025505, z: -0, w: 0.999074}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 630.152, y: 110.474, z: 2741.5}
+    objectRotation: {x: -0, y: -0.12892, z: -0, w: 0.991655}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 512.518, y: 100.47599, z: 2540.95}
+    objectRotation: {x: -4.6795774e-17, y: 0.9770846, z: 4.6795774e-17, w: -0.21285161}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 963.699, y: 93.280495, z: 2474.88}
+    objectRotation: {x: -0, y: -0.4357471, z: -0, w: 0.9000692}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 113.984985, y: 71.0597, z: 2631.21}
+    objectRotation: {x: -0, y: -0.5815949, z: -0, w: 0.81347865}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 86.6922, y: 69.135, z: 2760.06}
+    objectRotation: {x: -0, y: -0.033795707, z: -0, w: 0.9994288}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 514.898, y: 95.671196, z: 2530.38}
+    objectRotation: {x: -5.940054e-17, y: 0.99956536, z: 5.940054e-17, w: -0.02948091}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 537.388, y: 40.9445, z: 2211.89}
+    objectRotation: {x: 5.3523313e-18, y: -0.7494599, z: -5.3523313e-18, w: 0.6620497}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 911.838, y: 103.60099, z: 2780.43}
+    objectRotation: {x: -6.1020796e-17, y: 0.99999404, z: 6.1020796e-17, w: -0.0034487934}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 702.81, y: 25.1374, z: 2206.05}
+    objectRotation: {x: -0, y: -0.5245721, z: -0, w: 0.85136604}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 982.845, y: 76.496, z: 2428.09}
+    objectRotation: {x: 5.084803e-18, y: -0.7474073, z: -5.084803e-18, w: 0.6643662}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 213.81598, y: 32.755398, z: 2387.77}
+    objectRotation: {x: -3.3614906e-17, y: 0.92614377, z: 3.3614906e-17, w: -0.37717068}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 950.177, y: 84.09819, z: 2653.71}
+    objectRotation: {x: -4.4195324e-17, y: 0.96896446, z: 4.4195324e-17, w: -0.24720004}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 463.46198, y: 118.167, z: 2788.8}
+    objectRotation: {x: -5.6365927e-17, y: 0.99706644, z: 5.6365927e-17, w: -0.076540954}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 748.406, y: 73.9437, z: 2772.45}
+    objectRotation: {x: -0, y: -0.50567704, z: -0, w: 0.8627229}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 320.092, y: 85.7599, z: 2433.4097}
+    objectRotation: {x: -0, y: -0.66245013, z: -0, w: 0.749106}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 576.348, y: 25.5404, z: 2243.48}
+    objectRotation: {x: 1.166114e-17, y: -0.7958866, z: -1.166114e-17, w: 0.60544574}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 593.548, y: 40.5643, z: 2074.76}
+    objectRotation: {x: -5.857458e-17, y: 0.99909645, z: 5.857458e-17, w: -0.04250112}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 300.651, y: 42.5601, z: 2303.26}
+    objectRotation: {x: -2.913674e-17, y: 0.9037981, z: 2.913674e-17, w: -0.42795908}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 376.128, y: 117.91899, z: 2525.26}
+    objectRotation: {x: -0, y: -0.3818448, z: -0, w: 0.92422646}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 84.928894, y: 71.5624, z: 2598.27}
+    objectRotation: {x: 1.239659e-18, y: -0.7171569, z: -1.239659e-18, w: 0.69691175}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 984.75995, y: 38.7528, z: 2175.62}
+    objectRotation: {x: -0, y: -0.03893769, z: -0, w: 0.99924165}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 230.581, y: 31.144798, z: 2077.31}
+    objectRotation: {x: -5.1982386e-17, y: 0.9900005, z: 5.1982386e-17, w: -0.14106376}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 379.561, y: 28.3029, z: 2026.1}
+    objectRotation: {x: 8.4939265e-18, y: -0.7730552, z: -8.4939265e-18, w: 0.63433886}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 370.658, y: 68.9797, z: 2297.67}
+    objectRotation: {x: 2.287163e-18, y: -0.7255362, z: -2.287163e-18, w: 0.688184}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 341.103, y: 27.6843, z: 2183.38}
+    objectRotation: {x: 1.714066e-17, y: -0.8330803, z: -1.714066e-17, w: 0.5531521}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 300.612, y: 69.981, z: 2389.22}
+    objectRotation: {x: -3.9371418e-17, y: 0.9512879, z: 3.9371418e-17, w: -0.30830386}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 812.70294, y: 56.5718, z: 2377.96}
+    objectRotation: {x: -5.8976654e-17, y: 0.9993452, z: 5.8976654e-17, w: -0.036183283}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 375.00897, y: 27.491598, z: 2018.7799}
+    objectRotation: {x: -0, y: -0.66114306, z: -0, w: 0.75025994}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 532.217, y: 49.7975, z: 2173.29}
+    objectRotation: {x: -4.8328914e-17, y: 0.9813747, z: 4.8328914e-17, w: -0.1921036}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 422.626, y: 77.1302, z: 2086.59}
+    objectRotation: {x: -0, y: -0.181311, z: -0, w: 0.9834258}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 429.185, y: 112.95799, z: 2508.47}
+    objectRotation: {x: -0, y: -0.22650196, z: -0, w: 0.9740107}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 235.755, y: 24.331198, z: 2003.0599}
+    objectRotation: {x: 1.3366185e-17, y: -0.807776, z: -1.3366185e-17, w: 0.5894896}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 766.357, y: 43.2376, z: 2333.82}
+    objectRotation: {x: -0, y: -0.119778976, z: -0, w: 0.9928006}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 427.37396, y: 113.317, z: 2510.89}
+    objectRotation: {x: -4.337627e-17, y: 0.9661962, z: 4.337627e-17, w: -0.25780794}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 884.31793, y: 30.3757, z: 2216.29}
+    objectRotation: {x: -4.0356263e-17, y: 0.95515954, z: 4.0356263e-17, w: -0.2960918}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 616.321, y: 22.0868, z: 2208.34}
+    objectRotation: {x: -0, y: -0.39521205, z: -0, w: 0.9185899}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 720.394, y: 88.5156, z: 2685.43}
+    objectRotation: {x: -5.0346884e-17, y: 0.98642707, z: 5.0346884e-17, w: -0.16420004}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 68.95099, y: 74.0895, z: 2720.42}
+    objectRotation: {x: 6.133836e-18, y: -0.7554172, z: -6.133836e-18, w: 0.6552441}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 287.398, y: 122.694, z: 2626.95}
+    objectRotation: {x: -0, y: -0.36995205, z: -0, w: 0.92905086}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 436.01596, y: 77.2166, z: 2072.21}
+    objectRotation: {x: -2.919081e-17, y: 0.9040817, z: 2.919081e-17, w: -0.4273596}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 741.456, y: 73.8899, z: 2775.6099}
+    objectRotation: {x: 1.7638781e-17, y: -0.83631396, z: -1.7638781e-17, w: 0.5482508}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 807.8, y: 87.56799, z: 2529.5698}
+    objectRotation: {x: -0, y: -0.30988902, z: -0, w: 0.95077276}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 197.19098, y: 32.0984, z: 2458.62}
+    objectRotation: {x: -0, y: -0.20704702, z: -0, w: 0.97833097}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 431.89096, y: 81.6904, z: 2394.53}
+    objectRotation: {x: -5.080556e-17, y: 0.98747754, z: 5.080556e-17, w: -0.15775976}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 248.81099, y: 40.3077, z: 2383.85}
+    objectRotation: {x: 9.146533e-18, y: -0.77783847, z: -9.146533e-18, w: 0.6284642}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 503.39096, y: 104.271, z: 2392.75}
+    objectRotation: {x: 1.0309819e-17, y: -0.78626347, z: -1.0309819e-17, w: 0.6178914}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 543.039, y: 88.2997, z: 2487.2}
+    objectRotation: {x: -4.512812e-17, y: 0.9719959, z: 4.512812e-17, w: -0.23499781}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 224.15399, y: 26.0658, z: 2091.05}
+    objectRotation: {x: -3.2627726e-17, y: 0.9214198, z: 3.2627726e-17, w: -0.3885686}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 724.982, y: 22.363398, z: 2155.02}
+    objectRotation: {x: 8.208335e-18, y: -0.77094907, z: -8.208335e-18, w: 0.6368968}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 142.68701, y: 64.8185, z: 2723.1199}
+    objectRotation: {x: 7.769403e-18, y: -0.76769704, z: -7.769403e-18, w: 0.64081305}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 595.006, y: 56.2232, z: 2150.13}
+    objectRotation: {x: -0, y: -0.0044494607, z: -0, w: 0.9999901}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 140.49701, y: 36.3577, z: 2452.09}
+    objectRotation: {x: -0, y: -0.54966503, z: -0, w: 0.83538514}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 843.204, y: 66.8869, z: 2820.0898}
+    objectRotation: {x: -0, y: -0.2895969, z: -0, w: 0.95714873}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 762.456, y: 48.616795, z: 2816.8699}
+    objectRotation: {x: -0, y: -0.30260894, z: -0, w: 0.9531148}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 287.447, y: 59.2736, z: 2365.99}
+    objectRotation: {x: -5.2650536e-17, y: 0.99131995, z: 5.2650536e-17, w: -0.13147146}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 848.2119, y: 96.1449, z: 2662.6199}
+    objectRotation: {x: -0, y: -0.106793046, z: -0, w: 0.9942813}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 759.983, y: 77.8177, z: 2614.86}
+    objectRotation: {x: -6.032513e-17, y: 0.9998919, z: 6.032513e-17, w: -0.014707827}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 567.491, y: 47.856697, z: 2802.8499}
+    objectRotation: {x: -2.345064e-17, y: 0.87217396, z: 2.345064e-17, w: -0.48919597}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 653.071, y: 105.85099, z: 2716.47}
+    objectRotation: {x: -0, y: -0.5550629, z: -0, w: 0.83180845}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 622.277, y: 55.1856, z: 2496.18}
+    objectRotation: {x: -0, y: -0.39897203, z: -0, w: 0.9169631}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 602.833, y: 42.792995, z: 2005.5199}
+    objectRotation: {x: -0, y: -0.44983214, z: -0, w: 0.89311314}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 727.10895, y: 34.6225, z: 2189.2}
+    objectRotation: {x: -0, y: -0.11559901, z: -0, w: 0.99329597}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 356.007, y: 108.758, z: 2502.73}
+    objectRotation: {x: -0, y: -0.5005689, z: -0, w: 0.86569667}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 312.195, y: 95.77439, z: 2495.15}
+    objectRotation: {x: -4.954005e-17, y: 0.98449016, z: 4.954005e-17, w: -0.17543977}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 827.613, y: 90.38429, z: 2619.14}
+    objectRotation: {x: -5.5602505e-17, y: 0.9961154, z: 5.5602505e-17, w: -0.08805759}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 711.55396, y: 71.439, z: 2500.89}
+    objectRotation: {x: -0, y: -0.47654772, z: -0, w: 0.8791486}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 755.82, y: 36.579, z: 2300.74}
+    objectRotation: {x: 9.572402e-18, y: -0.7809379, z: -9.572402e-18, w: 0.6246087}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 618.24695, y: 125.159996, z: 2594.12}
+    objectRotation: {x: -0, y: -0.38880306, z: -0, w: 0.9213209}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 917.901, y: 93.982, z: 2637.3298}
+    objectRotation: {x: -0, y: -0.33827728, z: -0, w: 0.9410465}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 708.0609, y: 57.0165, z: 2406.23}
+    objectRotation: {x: -0, y: -0.37646198, z: -0, w: 0.9264321}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 752.906, y: 76.7227, z: 2749.0999}
+    objectRotation: {x: -0, y: -0.63641006, z: -0, w: 0.771351}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 685.6879, y: 21.2291, z: 2174.71}
+    objectRotation: {x: -0, y: -0.014161903, z: -0, w: 0.99989974}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 959.33496, y: 103.936, z: 2535.88}
+    objectRotation: {x: -0, y: -0.38893887, z: -0, w: 0.9212636}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 564.646, y: 124.271996, z: 2772.42}
+    objectRotation: {x: -0, y: -0.13941306, z: -0, w: 0.9902343}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 454.21796, y: 75.1187, z: 2377.38}
+    objectRotation: {x: -0, y: -0.13811406, z: -0, w: 0.99041635}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 75.625916, y: 32.9029, z: 2457.14}
+    objectRotation: {x: -3.385035e-17, y: 0.9272532, z: 3.385035e-17, w: -0.37443498}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 393.318, y: 99.5826, z: 2789.38}
+    objectRotation: {x: -0, y: -0.50119406, z: -0, w: 0.8653349}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 204.078, y: 31.8917, z: 2436.1}
+    objectRotation: {x: -4.2389866e-17, y: 0.9627329, z: 4.2389866e-17, w: -0.2704539}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 622.01, y: 21.657, z: 2241.38}
+    objectRotation: {x: -2.2951539e-17, y: 0.8692318, z: 2.2951539e-17, w: -0.49440473}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 721.1279, y: 53.924797, z: 2397.74}
+    objectRotation: {x: -0, y: -0.29618603, z: -0, w: 0.9551303}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 61.58719, y: 75.4398, z: 2719.8298}
+    objectRotation: {x: -4.4541866e-17, y: 0.9701059, z: 4.4541866e-17, w: -0.242682}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 274.655, y: 28.612299, z: 2259.51}
+    objectRotation: {x: -0, y: -0.3541869, z: -0, w: 0.9351747}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 486.091, y: 86.998795, z: 2096.82}
+    objectRotation: {x: -3.593632e-17, y: 0.9367864, z: 3.593632e-17, w: -0.34990185}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 380.252, y: 121.43399, z: 2533.42}
+    objectRotation: {x: 1.7943036e-17, y: -0.83827686, z: -1.7943036e-17, w: 0.5452448}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 795.266, y: 76.52159, z: 2761.13}
+    objectRotation: {x: -0, y: -0.27903807, z: -0, w: 0.96028006}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 759.444, y: 83.7485, z: 2682.43}
+    objectRotation: {x: -5.4626333e-17, y: 0.99472207, z: 5.4626333e-17, w: -0.10260631}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 253.688, y: 44.152195, z: 2836.68}
+    objectRotation: {x: -0, y: -0.30822486, z: -0, w: 0.95131356}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 781.07996, y: 19.9517, z: 2191.44}
+    objectRotation: {x: -3.0995986e-17, y: 0.9133587, z: 3.0995986e-17, w: -0.40715584}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 440.14197, y: 72.7494, z: 2060.32}
+    objectRotation: {x: -0, y: -0.11777503, z: -0, w: 0.9930403}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 868.173, y: 89.3665, z: 2562.34}
+    objectRotation: {x: -4.9324628e-17, y: 0.9839541, z: 4.9324628e-17, w: -0.1784218}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 766.917, y: 66.1604, z: 2425}
+    objectRotation: {x: 1.9244038e-17, y: -0.84656477, z: -1.9244038e-17, w: 0.53228575}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 931.511, y: 100.134, z: 2483.78}
+    objectRotation: {x: -3.5518153e-17, y: 0.93491834, z: 3.5518153e-17, w: -0.3548629}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 190.64798, y: 36.3549, z: 2594.18}
+    objectRotation: {x: -4.4142857e-17, y: 0.9687901, z: 4.4142857e-17, w: -0.24788253}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 786.903, y: 84.3018, z: 2665.8599}
+    objectRotation: {x: 1.6668078e-17, y: -0.82998943, z: -1.6668078e-17, w: 0.5577791}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 506.98096, y: 104.877, z: 2485.3198}
+    objectRotation: {x: -0, y: -0.63409513, z: -0, w: 0.77325505}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 289.413, y: 108.947, z: 2663.5999}
+    objectRotation: {x: -5.3125933e-17, y: 0.99220765, z: 5.3125933e-17, w: -0.12459532}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 668.12, y: 11.092199, z: 2242.05}
+    objectRotation: {x: -0, y: -0.45079327, z: -0, w: 0.8926284}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 428.083, y: 86.6436, z: 2151.48}
+    objectRotation: {x: 9.197123e-19, y: -0.7145769, z: -9.197123e-19, w: 0.6995569}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 233.72101, y: 23.1154, z: 2117.99}
+    objectRotation: {x: -5.409701e-17, y: 0.99388564, z: 5.409701e-17, w: -0.110414416}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 764.194, y: 52.026096, z: 2370.29}
+    objectRotation: {x: -0, y: -0.7001111, z: -0, w: 0.71403396}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 294.076, y: 29.676298, z: 2051.85}
+    objectRotation: {x: -4.41356e-17, y: 0.968766, z: 4.41356e-17, w: -0.24797688}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 112.45499, y: 32.6366, z: 2449.46}
+    objectRotation: {x: -0, y: -0.24192408, z: -0, w: 0.9702952}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 300.521, y: 60.495598, z: 2342.43}
+    objectRotation: {x: 1.4937327e-17, y: -0.8184801, z: -1.4937327e-17, w: 0.574535}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 492.93796, y: 107.14, z: 2538.5698}
+    objectRotation: {x: -0, y: -0.14302805, z: -0, w: 0.9897187}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 465.35498, y: 111.93099, z: 2441.9}
+    objectRotation: {x: -0, y: -0.47353825, z: -0, w: 0.8807733}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 844.305, y: 93.6978, z: 2625.0898}
+    objectRotation: {x: -0, y: -0.1476611, z: -0, w: 0.98903805}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 481.216, y: 83.1143, z: 2141.32}
+    objectRotation: {x: -0, y: -0.30495104, z: -0, w: 0.9523681}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 430.738, y: 86.8374, z: 2156.73}
+    objectRotation: {x: 8.044903e-18, y: -0.76974034, z: -8.044903e-18, w: 0.6383571}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 312.81097, y: 26.7138, z: 2092.01}
+    objectRotation: {x: -0, y: -0.34922296, z: -0, w: 0.9370397}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 579.536, y: 46.724094, z: 2066.95}
+    objectRotation: {x: -0, y: -0.59559894, z: -0, w: 0.80328196}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 363.06, y: 129.118, z: 2559.36}
+    objectRotation: {x: -0, y: -0.28468207, z: -0, w: 0.95862204}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 207.673, y: 40.7178, z: 2515.45}
+    objectRotation: {x: -0, y: -0.6760718, z: -0, w: 0.7368357}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 480.542, y: 66.9303, z: 2371.56}
+    objectRotation: {x: -2.4938232e-17, y: 0.8807863, z: 2.4938232e-17, w: -0.47351408}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 664.915, y: 39.665398, z: 2380.12}
+    objectRotation: {x: -2.5340776e-17, y: 0.8830761, z: 2.5340776e-17, w: -0.46922982}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 719.975, y: 64.9069, z: 2448.64}
+    objectRotation: {x: -0, y: -0.09630883, z: -0, w: 0.9953515}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 937.42395, y: 102.19299, z: 2609.38}
+    objectRotation: {x: -3.479196e-17, y: 0.93162274, z: 3.479196e-17, w: -0.3634269}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 669.249, y: 101.52, z: 2709.41}
+    objectRotation: {x: -0, y: -0.6827502, z: -0, w: 0.73065186}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 815.7819, y: 88.9944, z: 2618.8198}
+    objectRotation: {x: -0, y: -0.70685124, z: -0, w: 0.70736223}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 954.43097, y: 98.8849, z: 2791.66}
+    objectRotation: {x: -0, y: -0.35681418, z: -0, w: 0.9341754}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 883.66, y: 104.313, z: 2480.45}
+    objectRotation: {x: -0, y: -0.53926504, z: -0, w: 0.84213614}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 411.92697, y: 127.515, z: 2554.45}
+    objectRotation: {x: -4.5923152e-17, y: 0.97447556, z: 4.5923152e-17, w: -0.2244936}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 100.935, y: 39.6091, z: 2538.71}
+    objectRotation: {x: 1.9987566e-19, y: -0.708737, z: -1.9987566e-19, w: 0.70547277}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 139.495, y: 66.6134, z: 2639.94}
+    objectRotation: {x: -0, y: -0.094440036, z: -0, w: 0.99553055}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 419.16595, y: 112.072, z: 2784.5698}
+    objectRotation: {x: -4.0608907e-17, y: 0.9561315, z: 4.0608907e-17, w: -0.29293773}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 637.3319, y: 18.4121, z: 2227.64}
+    objectRotation: {x: -0, y: -0.6936298, z: -0, w: 0.72033167}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 990.5319, y: 76.3001, z: 2449.51}
+    objectRotation: {x: -0, y: -0.0566761, z: -0, w: 0.99839264}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 812.78894, y: 30.623898, z: 2309.4}
+    objectRotation: {x: 1.824534e-17, y: -0.8402179, z: -1.824534e-17, w: 0.5422489}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 887.631, y: 87.7001, z: 2796.5}
+    objectRotation: {x: -5.175202e-17, y: 0.98952645, z: 5.175202e-17, w: -0.1443519}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 256.456, y: 46.2762, z: 2391.43}
+    objectRotation: {x: -0, y: -0.42253, z: -0, w: 0.90634894}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 950.79395, y: 113.29, z: 2721.6199}
+    objectRotation: {x: -0, y: -0.33690792, z: -0, w: 0.9415376}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 706.69, y: 22.678497, z: 2157.6}
+    objectRotation: {x: -0, y: -0.4279591, z: -0, w: 0.9037981}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 432.65198, y: 52.3528, z: 2274.97}
+    objectRotation: {x: -5.881404e-17, y: 0.9992492, z: 5.881404e-17, w: -0.038743053}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 41.73419, y: 41.8968, z: 2644.94}
+    objectRotation: {x: -0, y: -0.309019, z: -0, w: 0.9510559}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 277.785, y: 54.6836, z: 2790.18}
+    objectRotation: {x: -0, y: -0.5476551, z: -0, w: 0.8367042}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 414.09198, y: 90.1033, z: 2374.36}
+    objectRotation: {x: -5.313846e-17, y: 0.9922305, z: 5.313846e-17, w: -0.12441353}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 681.04895, y: 75.9896, z: 2609.8}
+    objectRotation: {x: -5.5756546e-17, y: 0.9963172, z: 5.5756546e-17, w: -0.08574371}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 222.43, y: 28.257399, z: 2237.77}
+    objectRotation: {x: -0, y: -0.39147705, z: -0, w: 0.9201879}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 638.8969, y: 108.68699, z: 2734.95}
+    objectRotation: {x: -0, y: -0.6800162, z: -0, w: 0.7331971}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 46.318207, y: 42.823597, z: 2605.9097}
+    objectRotation: {x: 0.0039163325, y: 0.89489913, z: 0.003916331, w: -0.44623414}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 114.319, y: 35.4866, z: 2491.72}
+    objectRotation: {x: -3.0267224e-17, y: 0.90965843, z: 3.0267224e-17, w: -0.41535714}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 340.281, y: 74.6711, z: 2325.56}
+    objectRotation: {x: -0, y: -0.5461932, z: -0, w: 0.83765924}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 730.076, y: 53.8148, z: 2395.57}
+    objectRotation: {x: -5.449923e-17, y: 0.9945263, z: 5.449923e-17, w: -0.10448634}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 230.48999, y: 47.9092, z: 2487.6}
+    objectRotation: {x: -0, y: -0.5057552, z: -0, w: 0.86267704}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 204.11499, y: 33.4148, z: 2409.98}
+    objectRotation: {x: -0, y: -0.6984531, z: -0, w: 0.7156558}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 988.57996, y: 57.3147, z: 2285.8298}
+    objectRotation: {x: -0, y: -0.38068995, z: -0, w: 0.92470276}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 993.167, y: 80.04979, z: 2472.63}
+    objectRotation: {x: -0, y: -0.62689716, z: -0, w: 0.779102}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 855.61, y: 87.2136, z: 2528.64}
+    objectRotation: {x: -2.6619248e-17, y: 0.89023226, z: 2.6619248e-17, w: -0.45550698}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 155.044, y: 69.99639, z: 2695.51}
+    objectRotation: {x: -0, y: -0.048314024, z: -0, w: 0.9988322}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 387.984, y: 102.68, z: 2478.18}
+    objectRotation: {x: -0, y: -0.5335062, z: -0, w: 0.8457962}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 330.13498, y: 28.703897, z: 2210.03}
+    objectRotation: {x: -0, y: -0.41506213, z: -0, w: 0.9097931}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 302.762, y: 34.3557, z: 2092.19}
+    objectRotation: {x: -5.784868e-17, y: 0.9985512, z: 5.784868e-17, w: -0.053810537}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 599.181, y: 25.7217, z: 2284.14}
+    objectRotation: {x: -0, y: -0.66556615, z: -0, w: 0.7463389}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 404.137, y: 92.0595, z: 2382.8298}
+    objectRotation: {x: -3.9203835e-17, y: 0.9506162, z: 3.9203835e-17, w: -0.31036898}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 242.26898, y: 41.2126, z: 2407.01}
+    objectRotation: {x: -0, y: -0.28416792, z: -0, w: 0.9587745}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 695.346, y: 67.7146, z: 2460.53}
+    objectRotation: {x: -5.3518165e-17, y: 0.9929075, z: 5.3518165e-17, w: -0.118889585}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 863.80597, y: 96.807, z: 2636.8198}
+    objectRotation: {x: -5.909618e-17, y: 0.99941164, z: 5.909618e-17, w: -0.034297846}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 477.785, y: 67.5614, z: 2347.92}
+    objectRotation: {x: -0, y: -0.51067615, z: -0, w: 0.85977316}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 303.873, y: 127.706, z: 2601.42}
+    objectRotation: {x: -3.5335534e-17, y: 0.93409574, z: 3.5335534e-17, w: -0.35702264}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 680.874, y: 72.2573, z: 2602.27}
+    objectRotation: {x: -0, y: -0.57102007, z: -0, w: 0.8209361}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 467.913, y: 113.817, z: 2483.69}
+    objectRotation: {x: -0, y: -0.41249302, z: -0, w: 0.91096073}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 510.51498, y: 53.765, z: 2174.46}
+    objectRotation: {x: -0, y: -0.19891502, z: -0, w: 0.98001677}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 939.607, y: 80.8393, z: 2426.3298}
+    objectRotation: {x: -0, y: -0.031267103, z: -0, w: 0.99951106}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 423.13498, y: 112.844, z: 2784.95}
+    objectRotation: {x: -4.031942e-17, y: 0.95501703, z: 4.031942e-17, w: -0.29655096}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 186.887, y: 38.4591, z: 2863.99}
+    objectRotation: {x: 1.9976016e-17, y: -0.8511522, z: -1.9976016e-17, w: 0.52491903}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 238.47998, y: 32.1077, z: 2051.39}
+    objectRotation: {x: 2.1938095e-17, y: -0.8631773, z: -2.1938095e-17, w: 0.50490105}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 232.33002, y: 37.4163, z: 2757.8298}
+    objectRotation: {x: -0, y: -0.15001403, z: -0, w: 0.9886839}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 284.118, y: 59.270397, z: 2378.56}
+    objectRotation: {x: -0, y: -0.5816111, z: -0, w: 0.81346697}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 97.3909, y: 37.5049, z: 2529.47}
+    objectRotation: {x: -0, y: -0.43186396, z: -0, w: 0.9019388}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 554.965, y: 83.741196, z: 2530.8298}
+    objectRotation: {x: -0, y: -0.28134194, z: -0, w: 0.9596076}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 880.63, y: 69.5574, z: 2438.39}
+    objectRotation: {x: -0, y: -0.51907235, z: -0, w: 0.85473037}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 774.098, y: 75.9245, z: 2483.9097}
+    objectRotation: {x: -4.1729866e-17, y: 0.96033823, z: 4.1729866e-17, w: -0.27883777}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 456.94498, y: 112.287, z: 2442.48}
+    objectRotation: {x: -0, y: -0.267143, z: -0, w: 0.9636569}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 350.936, y: 90.6857, z: 2771.77}
+    objectRotation: {x: -0, y: -0.62431705, z: -0, w: 0.781171}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 138.55798, y: 67.6663, z: 2656.42}
+    objectRotation: {x: -0, y: -0.2195711, z: -0, w: 0.97559655}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 763.15497, y: 83.9817, z: 2714.9}
+    objectRotation: {x: -0, y: -0.170609, z: -0, w: 0.9853388}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 132.85199, y: 58.797195, z: 2768.3699}
+    objectRotation: {x: -4.0665208e-17, y: 0.9563469, z: 4.0665208e-17, w: -0.2922337}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 835.968, y: 91, z: 2607.44}
+    objectRotation: {x: -0, y: -0.386286, z: -0, w: 0.9223791}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 136.68799, y: 68.1247, z: 2715.3699}
+    objectRotation: {x: -3.1914372e-17, y: 0.9179341, z: 3.1914372e-17, w: -0.39673287}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 323.983, y: 66.979, z: 2322.77}
+    objectRotation: {x: -5.999743e-17, y: 0.9998006, z: 5.999743e-17, w: -0.019968212}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 112.25598, y: 38.2692, z: 2827.46}
+    objectRotation: {x: -0, y: -0.055480003, z: -0, w: 0.9984598}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 393.348, y: 122.314, z: 2537.12}
+    objectRotation: {x: -0, y: -0.53641397, z: -0, w: 0.84395504}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 456.143, y: 112.049, z: 2436.27}
+    objectRotation: {x: -2.7623443e-17, y: 0.8957279, z: 2.7623443e-17, w: -0.4446028}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 648.943, y: 100.741, z: 2642}
+    objectRotation: {x: -0, y: -0.50603, z: -0, w: 0.86251587}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 921.036, y: 77.9646, z: 2431.87}
+    objectRotation: {x: -0, y: -0.6876235, z: -0, w: 0.7260674}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 116.369995, y: 71.1277, z: 2648}
+    objectRotation: {x: -4.0921538e-17, y: 0.95732224, z: 4.0921538e-17, w: -0.28902283}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 340.06897, y: 43.9233, z: 2222.13}
+    objectRotation: {x: -4.2112794e-17, y: 0.9617351, z: 4.2112794e-17, w: -0.27398106}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 461.91, y: 74.3497, z: 2357.51}
+    objectRotation: {x: -5.3598253e-17, y: 0.99304676, z: 5.3598253e-17, w: -0.1177209}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 908.201, y: 106.657, z: 2486.49}
+    objectRotation: {x: -0, y: -0.30094793, z: -0, w: 0.9536406}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 689.069, y: 24.1317, z: 2142.39}
+    objectRotation: {x: -0, y: -0.6421882, z: -0, w: 0.766547}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 487.032, y: 109.018, z: 2449.62}
+    objectRotation: {x: -6.1146025e-17, y: 0.99999905, z: 6.1146025e-17, w: -0.0014087714}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 375.792, y: 106.99199, z: 2494.93}
+    objectRotation: {x: -4.6873354e-17, y: 0.9773107, z: 4.6873354e-17, w: -0.21181075}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 430.168, y: 48.053, z: 2267.0798}
+    objectRotation: {x: 1.15269976e-17, y: -0.7949392, z: -1.15269976e-17, w: 0.6066891}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 118.405, y: 38.4943, z: 2863.76}
+    objectRotation: {x: 6.7481225e-18, y: -0.7600591, z: -6.7481225e-18, w: 0.64985394}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 905.67395, y: 92.6677, z: 2797.06}
+    objectRotation: {x: 1.4598535e-17, y: -0.8161924, z: -1.4598535e-17, w: 0.57778025}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 809.2869, y: 87.5298, z: 2612.29}
+    objectRotation: {x: -0, y: -0.20015797, z: -0, w: 0.9797637}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 566.804, y: 112.636, z: 2797.17}
+    objectRotation: {x: -4.6756603e-17, y: 0.97697, z: 4.6756603e-17, w: -0.21337678}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 702.7269, y: 42.7567, z: 2364.95}
+    objectRotation: {x: -0, y: -0.6583681, z: -0, w: 0.7526961}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 989.066, y: 60.4257, z: 2302.44}
+    objectRotation: {x: -4.753435e-17, y: 0.9791987, z: 4.753435e-17, w: -0.20290384}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 884.25, y: 45.021194, z: 2326.59}
+    objectRotation: {x: -0, y: -0.37468192, z: -0, w: 0.92715347}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 161.784, y: 61.1901, z: 2682.8599}
+    objectRotation: {x: -0, y: -0.30571604, z: -0, w: 0.95212275}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 756.28894, y: 84.2153, z: 2693.5}
+    objectRotation: {x: -0, y: -0.63773996, z: -0, w: 0.77025175}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 310.965, y: 79.1169, z: 2735.89}
+    objectRotation: {x: -0, y: -0.53940964, z: -0, w: 0.8420435}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 708.5819, y: 22.503998, z: 2260.06}
+    objectRotation: {x: -0, y: -0.629145, z: -0, w: 0.77728796}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 319.439, y: 72.7871, z: 2783.29}
+    objectRotation: {x: -0, y: -0.455742, z: -0, w: 0.8901119}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 636.722, y: 35.3256, z: 2006.99}
+    objectRotation: {x: -4.3918e-17, y: 0.9680382, z: 4.3918e-17, w: -0.25080281}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 879.225, y: 66.7119, z: 2433.51}
+    objectRotation: {x: -2.4451985e-17, y: 0.8779971, z: 2.4451985e-17, w: -0.47866592}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 789.612, y: 22.047298, z: 2186.04}
+    objectRotation: {x: -6.0101004e-17, y: 0.9998324, z: 6.0101004e-17, w: -0.018308526}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 443.232, y: 113.032, z: 2513.28}
+    objectRotation: {x: -0, y: -0.38036105, z: -0, w: 0.92483807}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 157.59, y: 67.6932, z: 2689.54}
+    objectRotation: {x: -6.006543e-17, y: 0.9998218, z: 6.006543e-17, w: -0.018878844}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 963.2479, y: 98.6179, z: 2524.26}
+    objectRotation: {x: 1.9153542e-17, y: -0.8459938, z: -1.9153542e-17, w: 0.5331927}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 270.731, y: 52.6551, z: 2799.64}
+    objectRotation: {x: -0, y: -0.19262801, z: -0, w: 0.98127186}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 267.175, y: 28.2163, z: 2120.73}
+    objectRotation: {x: 1.1423885e-17, y: -0.79420984, z: -1.1423885e-17, w: 0.6076436}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 785.95, y: 36.2569, z: 2282.78}
+    objectRotation: {x: -0, y: -0.37233305, z: -0, w: 0.9280992}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 247.11798, y: 33.094, z: 2043.5399}
+    objectRotation: {x: -0, y: -0.6781598, z: -0, w: 0.73491454}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 266.856, y: 64.2559, z: 2472.25}
+    objectRotation: {x: -0, y: -0.68756455, z: -0, w: 0.72612333}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 342.83, y: 81.5032, z: 2797.55}
+    objectRotation: {x: -0, y: -0.26645398, z: -0, w: 0.96384764}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 734.0579, y: 40.3517, z: 2331.92}
+    objectRotation: {x: -0, y: -0.39260393, z: -0, w: 0.91970766}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 323.445, y: 94.4271, z: 2718.8}
+    objectRotation: {x: -0, y: -0.30635992, z: -0, w: 0.95191574}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 212.40997, y: 31.721598, z: 2362.06}
+    objectRotation: {x: 0.0051183593, y: 0.93662685, z: 0.005118363, w: -0.35025376}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 187.629, y: 29.3239, z: 2471.38}
+    objectRotation: {x: 2.1232156e-17, y: -0.85889655, z: -2.1232156e-17, w: 0.5121491}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 554.775, y: 28.7814, z: 2240.21}
+    objectRotation: {x: -0, y: -0.48480722, z: -0, w: 0.87462103}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 625.018, y: 24.3581, z: 2262.96}
+    objectRotation: {x: -5.633162e-17, y: 0.9970264, z: 5.633162e-17, w: -0.07706119}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 323.727, y: 98.9991, z: 2709.54}
+    objectRotation: {x: -3.3885427e-17, y: 0.9274179, z: 3.3885427e-17, w: -0.37402683}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 793.723, y: 51.6667, z: 2369.54}
+    objectRotation: {x: -0, y: -0.022785308, z: -0, w: 0.9997404}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 985.214, y: 110.451, z: 2762.5698}
+    objectRotation: {x: -0, y: -0.31187302, z: -0, w: 0.9501238}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 638.42, y: 110.73599, z: 2627.5798}
+    objectRotation: {x: -0, y: -0.18354896, z: -0, w: 0.9830106}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 841.786, y: 92.0937, z: 2610.64}
+    objectRotation: {x: -2.4263995e-17, y: 0.876912, z: 2.4263995e-17, w: -0.48065093}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 812.194, y: 41.7702, z: 2340.2}
+    objectRotation: {x: 2.0212256e-17, y: -0.852621, z: -2.0212256e-17, w: 0.52252984}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 884.631, y: 31.4742, z: 2258.81}
+    objectRotation: {x: -4.5038105e-17, y: 0.9717091, z: 4.5038105e-17, w: -0.23618102}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 683.476, y: 97.3064, z: 2726.76}
+    objectRotation: {x: -5.3120007e-17, y: 0.99219686, z: 5.3120007e-17, w: -0.12468132}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 170.93, y: 40.7898, z: 2836.79}
+    objectRotation: {x: -2.5164914e-17, y: 0.8820779, z: 2.5164914e-17, w: -0.47110364}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 468.531, y: 83.9066, z: 2147.93}
+    objectRotation: {x: -2.6300699e-17, y: 0.8884658, z: 2.6300699e-17, w: -0.4589428}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 146.932, y: 25.5019, z: 2349.57}
+    objectRotation: {x: -0, y: -0.6980131, z: -0, w: 0.71608496}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 874.591, y: 95.7659, z: 2615.06}
+    objectRotation: {x: -0, y: -0.46771201, z: -0, w: 0.8838809}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 442.613, y: 48.0678, z: 2269.89}
+    objectRotation: {x: -0, y: -0.66566277, z: -0, w: 0.7462527}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 272.355, y: 29.426798, z: 2283.04}
+    objectRotation: {x: -0, y: -0.6170214, z: -0, w: 0.78694636}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 652.64, y: 61.508396, z: 2557.12}
+    objectRotation: {x: -0, y: -0.45215002, z: -0, w: 0.8919419}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 81.065094, y: 37.8991, z: 2492.42}
+    objectRotation: {x: -0, y: -0.47107828, z: -0, w: 0.88209146}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 822.771, y: 87.11699, z: 2541.21}
+    objectRotation: {x: -4.2926005e-17, y: 0.9646327, z: 4.2926005e-17, w: -0.26359782}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 497.29697, y: 66.7615, z: 2379.14}
+    objectRotation: {x: -0, y: -0.08048809, z: -0, w: 0.9967556}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 199.126, y: 29.165897, z: 2311.67}
+    objectRotation: {x: -2.7730024e-17, y: 0.8963046, z: 2.7730024e-17, w: -0.44343895}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 375.799, y: 27.483698, z: 2012.7699}
+    objectRotation: {x: -0, y: -0.027919112, z: -0, w: 0.9996102}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 109.79999, y: 64.4784, z: 2783.44}
+    objectRotation: {x: -0, y: -0.05161311, z: -0, w: 0.9986672}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 644.797, y: 75.2562, z: 2582.8298}
+    objectRotation: {x: -4.557963e-17, y: 0.97341603, z: 4.557963e-17, w: -0.22904417}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 755.6019, y: 37.1626, z: 2307.14}
+    objectRotation: {x: 6.365176e-19, y: -0.7122853, z: -6.365176e-19, w: 0.7018902}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 425.482, y: 87.076, z: 2364.35}
+    objectRotation: {x: -0, y: -0.15904605, z: -0, w: 0.9872712}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 394.233, y: 31.0118, z: 2009.5}
+    objectRotation: {x: 1.8751017e-17, y: -0.84344417, z: -1.8751017e-17, w: 0.53721684}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 891.89496, y: 85.5448, z: 2459.98}
+    objectRotation: {x: -0, y: -0.390078, z: -0, w: 0.9207818}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 422.751, y: 86.338, z: 2420.03}
+    objectRotation: {x: -2.3095318e-17, y: 0.8700821, z: 2.3095318e-17, w: -0.4929069}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 195.28302, y: 32.7623, z: 2534.01}
+    objectRotation: {x: -0, y: -0.294232, z: -0, w: 0.955734}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 498.19498, y: 107.095, z: 2483.44}
+    objectRotation: {x: -3.722598e-17, y: 0.94240904, z: 3.722598e-17, w: -0.33446264}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 352.691, y: 70.0461, z: 2308.23}
+    objectRotation: {x: -4.3026392e-17, y: 0.9649838, z: 4.3026392e-17, w: -0.26230958}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 919.107, y: 92.6453, z: 2456.88}
+    objectRotation: {x: -0, y: -0.345714, z: -0, w: 0.93833995}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 113.73898, y: 66.346, z: 2753.56}
+    objectRotation: {x: 8.470538e-18, y: -0.772883, z: -8.470538e-18, w: 0.6345486}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 261.541, y: 54.646, z: 2426.55}
+    objectRotation: {x: -0, y: -0.59268415, z: -0, w: 0.805435}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 441.818, y: 122.88799, z: 2777.78}
+    objectRotation: {x: 1.2262567e-17, y: -0.80011266, z: -1.2262567e-17, w: 0.59984976}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 404.586, y: 90.2454, z: 2416.36}
+    objectRotation: {x: -0, y: -0.32866403, z: -0, w: 0.9444469}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 913.278, y: 48.7793, z: 2303.25}
+    objectRotation: {x: -0, y: -0.1724479, z: -0, w: 0.9850186}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 316.053, y: 108.65099, z: 2535.86}
+    objectRotation: {x: -2.5242432e-17, y: 0.8825183, z: 2.5242432e-17, w: -0.47027808}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 992.223, y: 82.1567, z: 2484.73}
+    objectRotation: {x: 5.930421e-18, y: -0.7538722, z: -5.930421e-18, w: 0.6570211}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 281.1, y: 53.163498, z: 2800.17}
+    objectRotation: {x: -2.783366e-17, y: 0.89686424, z: 2.783366e-17, w: -0.44230598}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 899.4669, y: 33.6689, z: 2225.81}
+    objectRotation: {x: -0, y: -0.067827925, z: -0, w: 0.99769706}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 407.264, y: 122.539, z: 2539.27}
+    objectRotation: {x: 2.833884e-19, y: -0.70941705, z: -2.833884e-19, w: 0.7047889}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 499.431, y: 57.0899, z: 2341.8298}
+    objectRotation: {x: 2.1143304e-17, y: -0.8583541, z: -2.1143304e-17, w: 0.5130577}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 556.653, y: 30.299198, z: 2231.93}
+    objectRotation: {x: -0, y: -0.30735293, z: -0, w: 0.9515956}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 83.887695, y: 77.2168, z: 2654.5698}
+    objectRotation: {x: -0, y: -0.057805005, z: -0, w: 0.9983279}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 560.968, y: 47.749798, z: 2801.63}
+    objectRotation: {x: 2.0924252e-17, y: -0.8570133, z: -2.0924252e-17, w: 0.5152943}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 426.393, y: 35.0557, z: 2001.76}
+    objectRotation: {x: -0, y: -0.633131, z: -0, w: 0.77404463}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 66.78668, y: 73.3268, z: 2730.54}
+    objectRotation: {x: -0, y: -0.062195797, z: -0, w: 0.998064}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 813.862, y: 69.1346, z: 2437.43}
+    objectRotation: {x: -2.836128e-17, y: 0.8996947, z: 2.836128e-17, w: -0.43651986}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 294.547, y: 49.588997, z: 2329.71}
+    objectRotation: {x: 2.2059014e-17, y: -0.8639053, z: -2.2059014e-17, w: 0.50365424}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 701.283, y: 54.895897, z: 2561.24}
+    objectRotation: {x: 6.0909788e-18, y: -0.755092, z: -6.0909788e-18, w: 0.6556188}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 533.59, y: 35.0067, z: 2235.76}
+    objectRotation: {x: -0, y: -0.13902304, z: -0, w: 0.99028915}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 703.939, y: 24.812399, z: 2139.28}
+    objectRotation: {x: -4.0391868e-17, y: 0.95529705, z: 4.0391868e-17, w: -0.2956478}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 744.454, y: 35.2803, z: 2179.28}
+    objectRotation: {x: -5.5113552e-17, y: 0.995442, z: 5.5113552e-17, w: -0.09536933}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 121.78, y: 69.9907, z: 2644.54}
+    objectRotation: {x: 2.597055e-18, y: -0.7279953, z: -2.597055e-18, w: 0.68558216}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 514.84, y: 101.982994, z: 2425.55}
+    objectRotation: {x: -0, y: -0.16314602, z: -0, w: 0.98660195}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 828.786, y: 43.1066, z: 2349.79}
+    objectRotation: {x: -5.2746088e-17, y: 0.9915018, z: 5.2746088e-17, w: -0.13009283}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 159.177, y: 29.051298, z: 2607.85}
+    objectRotation: {x: 1.3263691e-19, y: -0.708189, z: -1.3263691e-19, w: 0.7060229}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 551.288, y: 55.2311, z: 2079.09}
+    objectRotation: {x: -0, y: -0.18770798, z: -0, w: 0.9822249}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 406.863, y: 82.746, z: 2152.31}
+    objectRotation: {x: 1.4952755e-17, y: -0.81858397, z: -1.4952755e-17, w: 0.5743869}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 280.82, y: 56.4268, z: 2790.8599}
+    objectRotation: {x: 7.946617e-18, y: -0.7690122, z: -7.946617e-18, w: 0.6392341}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 612.72, y: 24.1256, z: 2261.55}
+    objectRotation: {x: -0, y: -0.16524605, z: -0, w: 0.98625237}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 876.906, y: 91.1272, z: 2580.95}
+    objectRotation: {x: -0, y: -0.40760803, z: -0, w: 0.913157}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 783.296, y: 82.5781, z: 2651.5798}
+    objectRotation: {x: -3.2582677e-17, y: 0.92120147, z: 3.2582677e-17, w: -0.38908604}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 771.721, y: 82.99279, z: 2657.8}
+    objectRotation: {x: -3.334894e-17, y: 0.92488253, z: 3.334894e-17, w: -0.38025296}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 15.342804, y: 41.356995, z: 2672.3}
+    objectRotation: {x: -0, y: -0.3915211, z: -0, w: 0.9201691}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 114.031006, y: 63.4923, z: 2780.81}
+    objectRotation: {x: -0, y: -0.52275693, z: -0, w: 0.8524818}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 438.055, y: 71.29839, z: 2214.01}
+    objectRotation: {x: -0, y: -0.31912795, z: -0, w: 0.94771165}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 265.817, y: 52.0945, z: 2396.69}
+    objectRotation: {x: 1.4449072e-18, y: -0.7188069, z: -1.4449072e-18, w: 0.6952098}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 519.81, y: 101.46399, z: 2471.05}
+    objectRotation: {x: -0, y: -0.14871001, z: -0, w: 0.9888809}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 682.516, y: 91.9628, z: 2654.1199}
+    objectRotation: {x: -5.754928e-17, y: 0.99829096, z: 5.754928e-17, w: -0.05843987}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 262.98, y: 50.187195, z: 2824.3398}
+    objectRotation: {x: -0, y: -0.466652, z: -0, w: 0.884441}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 584.263, y: 52.503895, z: 2448.39}
+    objectRotation: {x: -0, y: -0.40713298, z: -0, w: 0.91336894}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 143.38501, y: 31.1879, z: 2396.57}
+    objectRotation: {x: -0, y: -0.5686848, z: -0, w: 0.8225555}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 570.564, y: 67.5751, z: 2500.98}
+    objectRotation: {x: -0, y: -0.6158004, z: -0, w: 0.78790224}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 242.176, y: 27.5373, z: 2263.5}
+    objectRotation: {x: -0, y: -0.07163648, z: -0, w: 0.9974308}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 674.456, y: 99.9352, z: 2709.8198}
+    objectRotation: {x: -0, y: -0.316571, z: -0, w: 0.9485688}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 971.345, y: 65.2973, z: 2681.48}
+    objectRotation: {x: -0, y: -0.5690412, z: -0, w: 0.822309}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 386.978, y: 70.5109, z: 2304}
+    objectRotation: {x: -0, y: -0.3901093, z: -0, w: 0.92076856}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 203.668, y: 39.6587, z: 2664.3499}
+    objectRotation: {x: -0, y: -0.6036731, z: -0, w: 0.79723203}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 354.452, y: 105.454994, z: 2487.87}
+    objectRotation: {x: -0, y: -0.6711883, z: -0, w: 0.741287}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 606.96, y: 53.7617, z: 2129.92}
+    objectRotation: {x: -5.502804e-17, y: 0.9953191, z: 5.502804e-17, w: -0.09664301}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 811.675, y: 32.5136, z: 2314.3298}
+    objectRotation: {x: 1.5861893e-17, y: -0.82466537, z: -1.5861893e-17, w: 0.56562096}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 101.53699, y: 38.4584, z: 2884.73}
+    objectRotation: {x: 1.3157674e-18, y: -0.7177692, z: -1.3157674e-18, w: 0.6962811}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 620.717, y: 126.545, z: 2602.1}
+    objectRotation: {x: -4.9076073e-17, y: 0.9833258, z: 4.9076073e-17, w: -0.18185268}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 103.29599, y: 74.2438, z: 2674.98}
+    objectRotation: {x: 7.492696e-18, y: -0.7656374, z: -7.492696e-18, w: 0.6432724}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 627.178, y: 117.11599, z: 2639.8198}
+    objectRotation: {x: -3.1814862e-17, y: 0.9174431, z: 3.1814862e-17, w: -0.397867}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 632.10394, y: 31.0658, z: 2369.67}
+    objectRotation: {x: -0, y: -0.66407865, z: -0, w: 0.7476627}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 759.131, y: 61.2491, z: 2403.94}
+    objectRotation: {x: -0, y: -0.38006616, z: -0, w: 0.92495936}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 755.285, y: 71.6799, z: 2471.94}
+    objectRotation: {x: -2.2647398e-17, y: 0.8674261, z: 2.2647398e-17, w: -0.497566}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 838.9329, y: 91.9675, z: 2613.72}
+    objectRotation: {x: -5.7655766e-17, y: 0.99838585, z: 5.7655766e-17, w: -0.056795854}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 465.55798, y: 106.988, z: 2397.5798}
+    objectRotation: {x: -4.7931103e-17, y: 0.9802981, z: 4.7931103e-17, w: -0.19752377}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 244.90399, y: 27.6067, z: 2295.8298}
+    objectRotation: {x: -0, y: -0.21875905, z: -0, w: 0.97577894}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 621.305, y: 40.5034, z: 2008.48}
+    objectRotation: {x: -3.5422547e-17, y: 0.93448824, z: 3.5422547e-17, w: -0.35599408}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 128.10901, y: 38.7281, z: 2837.94}
+    objectRotation: {x: -0, y: -0.42966118, z: -0, w: 0.90299016}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 246.537, y: 40.3978, z: 2390.46}
+    objectRotation: {x: 1.732391e-17, y: -0.8342728, z: -1.732391e-17, w: 0.55135185}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 956.815, y: 90.65379, z: 2461.46}
+    objectRotation: {x: -0, y: -0.08395244, z: -0, w: 0.9964698}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 281.276, y: 66.6216, z: 2445.26}
+    objectRotation: {x: -0, y: -0.5037882, z: -0, w: 0.8638273}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 921.997, y: 66.203, z: 2858.9}
+    objectRotation: {x: 5.2916435e-18, y: -0.7489949, z: -5.2916435e-18, w: 0.6625758}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 419.922, y: 77.4301, z: 2089}
+    objectRotation: {x: 1.0924407e-17, y: -0.790662, z: -1.0924407e-17, w: 0.6122529}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 473.758, y: 68.9504, z: 2369.96}
+    objectRotation: {x: -0, y: -0.615587, z: -0, w: 0.78806895}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 780.118, y: 72.214, z: 2440.36}
+    objectRotation: {x: -3.5886936e-17, y: 0.93656695, z: 3.5886936e-17, w: -0.35048884}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 321.901, y: 58.3508, z: 2301.17}
+    objectRotation: {x: -2.8842908e-17, y: 0.90225124, z: 2.8842908e-17, w: -0.43121085}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 662.046, y: 34.5824, z: 2326.21}
+    objectRotation: {x: -3.7011263e-17, y: 0.94148755, z: 3.7011263e-17, w: -0.33704776}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 440.458, y: 69.6009, z: 2221.41}
+    objectRotation: {x: -0, y: -0.6164293, z: -0, w: 0.78741026}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 942.151, y: 100.244, z: 2488.8198}
+    objectRotation: {x: -0, y: -0.0684172, z: -0, w: 0.9976568}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 436.341, y: 115.87599, z: 2785.38}
+    objectRotation: {x: 1.06980336e-17, y: -0.7890461, z: -1.06980336e-17, w: 0.614334}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 635.322, y: 108.451, z: 2745.8599}
+    objectRotation: {x: -0, y: -0.5866538, z: -0, w: 0.8098378}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 500.787, y: 45.749798, z: 2814.3398}
+    objectRotation: {x: 0.012265109, y: 0.6224074, z: 0.012265109, w: 0.7825012}
+  - objectName: poElmdead_hi
+    objectPosition: {x: 224.82501, y: 36.7498, z: 2875.3599}
+    objectRotation: {x: 0.01745241, y: -0.0003033521, z: 0.01745241, w: 0.9996953}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 970.564, y: 75.7943, z: 2411.52}
+    objectRotation: {x: -4.173493e-17, y: 0.96035683, z: 4.173493e-17, w: -0.27877367}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 385.964, y: 67.5925, z: 2222.32}
+    objectRotation: {x: -0, y: -0.62576216, z: -0, w: 0.7800139}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 301.14398, y: 27.448097, z: 2133.14}
+    objectRotation: {x: -0, y: -0.030847903, z: -0, w: 0.9995241}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 166.823, y: 32.9532, z: 2403.8298}
+    objectRotation: {x: -6.0082674e-17, y: 0.99982697, z: 6.0082674e-17, w: -0.018602446}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 314.422, y: 76.60399, z: 2384.75}
+    objectRotation: {x: -5.0921103e-17, y: 0.9877363, z: 5.0921103e-17, w: -0.15613154}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 353.35498, y: 85.737595, z: 2364.49}
+    objectRotation: {x: -5.581382e-17, y: 0.996391, z: 5.581382e-17, w: -0.08488212}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 964.42596, y: 98.02059, z: 2524.9}
+    objectRotation: {x: -0, y: -0.08822518, z: -0, w: 0.9961006}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 843.194, y: 65.7512, z: 2439.27}
+    objectRotation: {x: -0, y: -0.6986494, z: -0, w: 0.71546423}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 760.6259, y: 25.0785, z: 2153.81}
+    objectRotation: {x: -0, y: -0.43527406, z: -0, w: 0.900298}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 320.309, y: 38.0084, z: 2270.66}
+    objectRotation: {x: -4.2863378e-17, y: 0.9644129, z: 4.2863378e-17, w: -0.26440087}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 288.423, y: 34.0676, z: 2309.68}
+    objectRotation: {x: 6.8231817e-18, y: -0.7606239, z: -6.8231817e-18, w: 0.64919287}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 859.399, y: 96.8222, z: 2658.21}
+    objectRotation: {x: -2.4204431e-17, y: 0.8765674, z: 2.4204431e-17, w: -0.48127908}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 723.857, y: 26.3979, z: 2255.04}
+    objectRotation: {x: 9.270389e-18, y: -0.77874166, z: -9.270389e-18, w: 0.6273447}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 725.18, y: 88.6581, z: 2699.06}
+    objectRotation: {x: -5.0064772e-17, y: 0.98576266, z: 5.0064772e-17, w: -0.16814284}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 732.3519, y: 83.4442, z: 2659.8699}
+    objectRotation: {x: -0, y: -0.20397596, z: -0, w: 0.9789759}
+  - objectName: posm_veg_tree4_vbig
+    objectPosition: {x: 936.517, y: 108.795, z: 2508.27}
+    objectRotation: {x: -2.8100566e-17, y: 0.89829993, z: 2.8100566e-17, w: -0.43938288}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 537.803, y: 32.4558, z: 2247.57}
+    objectRotation: {x: -5.2410756e-17, y: 0.99085605, z: 5.2410756e-17, w: -0.13492349}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 651.45496, y: 18.0483, z: 2173.46}
+    objectRotation: {x: -0, y: -0.395249, z: -0, w: 0.91857404}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 475.026, y: 88.06729, z: 2125.28}
+    objectRotation: {x: -4.6010102e-17, y: 0.97474086, z: 4.6010102e-17, w: -0.22333886}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 242.12201, y: 42.0304, z: 2411.69}
+    objectRotation: {x: 7.6383165e-18, y: -0.7667222, z: -7.6383165e-18, w: 0.64197904}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 315.505, y: 81.9015, z: 2421.55}
+    objectRotation: {x: -0, y: -0.3732591, z: -0, w: 0.92772716}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 624.167, y: 31.1812, z: 2087.57}
+    objectRotation: {x: -4.4316006e-17, y: 0.969364, z: 4.4316006e-17, w: -0.24562868}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 911.5029, y: 68.4784, z: 2347.8298}
+    objectRotation: {x: -0, y: -0.6203, z: -0, w: 0.78436464}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 447.822, y: 71.6656, z: 2210.6}
+    objectRotation: {x: -0, y: -0.27586207, z: -0, w: 0.96119726}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 414.458, y: 69.4461, z: 2226.71}
+    objectRotation: {x: -0, y: -0.4567832, z: -0, w: 0.88957804}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 895.14996, y: 110.564, z: 2755.5999}
+    objectRotation: {x: -2.675745e-17, y: 0.89099514, z: 2.675745e-17, w: -0.45401284}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 375.63498, y: 27.4653, z: 2007.38}
+    objectRotation: {x: -4.0651298e-17, y: 0.95629376, z: 4.0651298e-17, w: -0.29240766}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 125.504, y: 32.4126, z: 2521.61}
+    objectRotation: {x: -0, y: -0.53685904, z: -0, w: 0.843672}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 1.2527161, y: 39.5606, z: 2676.2}
+    objectRotation: {x: -0, y: -0.064561486, z: -0, w: 0.9979137}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 320.458, y: 26.2708, z: 2063.31}
+    objectRotation: {x: -3.795888e-17, y: 0.9455097, z: 3.795888e-17, w: -0.32559407}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 578.727, y: 30.206398, z: 2214.06}
+    objectRotation: {x: 1.7719913e-17, y: -0.8368383, z: -1.7719913e-17, w: 0.5474501}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 902.8129, y: 64.1422, z: 2881.26}
+    objectRotation: {x: -0, y: -0.103651986, z: -0, w: 0.99461365}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 831.053, y: 72.1137, z: 2784.8499}
+    objectRotation: {x: -2.8899285e-17, y: 0.9025488, z: 2.8899285e-17, w: -0.43058765}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 579.6, y: 113.363, z: 2789.96}
+    objectRotation: {x: 1.1205947e-17, y: -0.79266477, z: -1.1205947e-17, w: 0.60965776}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 621.753, y: 26.4215, z: 2294.39}
+    objectRotation: {x: 1.709412e-17, y: -0.8327769, z: -1.709412e-17, w: 0.5536087}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 580.846, y: 27.3789, z: 2326.91}
+    objectRotation: {x: -0, y: -0.023550093, z: -0, w: 0.99972266}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 765.543, y: 74.911, z: 2485.02}
+    objectRotation: {x: 8.860514e-18, y: -0.7757471, z: -8.860514e-18, w: 0.6310439}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 438.79095, y: 46.0493, z: 2827.69}
+    objectRotation: {x: -2.3178451e-17, y: 0.8705727, z: 2.3178451e-17, w: -0.49203986}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 385.65897, y: 97.2748, z: 2789.15}
+    objectRotation: {x: 1.7484843e-17, y: -0.8353173, z: -1.7484843e-17, w: 0.54976815}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 685.136, y: 60.8757, z: 2577.5798}
+    objectRotation: {x: -5.1636892e-17, y: 0.9892859, z: 5.1636892e-17, w: -0.14599146}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 620.709, y: 24.1399, z: 2262.04}
+    objectRotation: {x: -0, y: -0.6041351, z: -0, w: 0.7968819}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 304.371, y: 71.2503, z: 2384.88}
+    objectRotation: {x: -4.5909487e-17, y: 0.9744338, z: 4.5909487e-17, w: -0.22467493}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 876.89996, y: 50.091297, z: 2336.01}
+    objectRotation: {x: 1.6868463e-17, y: -0.83130276, z: -1.6868463e-17, w: 0.55581987}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 213.58298, y: 38.564995, z: 2705.6199}
+    objectRotation: {x: -4.133209e-17, y: 0.9588654, z: 4.133209e-17, w: -0.28386113}
+  - objectName: potree_hipoly14
+    objectPosition: {x: 184.509, y: 34.6369, z: 2421.68}
+    objectRotation: {x: -0, y: -0.54962045, z: -0, w: 0.83541447}
+  - objectName: posbcw_seabed01
+    objectPosition: {x: 41.518402, y: -43.450497, z: 2220.6}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posbcw_seabed01
+    objectPosition: {x: 41.518402, y: -43.450497, z: 2220.6}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbcw_seabed02
+    objectPosition: {x: 58.335938, y: -34.046875, z: 2096.3906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbcw_seabed03
+    objectPosition: {x: 12.1015625, y: -45.570312, z: 2471.5078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbcw_seabed04
+    objectPosition: {x: 50.875, y: -46.3125, z: 2828.7969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbcw_seabed05
+    objectPosition: {x: 475.76562, y: -42.796875, z: 2897.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbcw_seabed06
+    objectPosition: {x: 910.78125, y: -34.632812, z: 2898.4844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}

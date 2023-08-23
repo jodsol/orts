@@ -1,0 +1,2625 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89e02d74dc8a9249bf564f5becb7cee, type: 3}
+  m_Name: MapX2500Y-2500
+  m_EditorClassIdentifier: 
+  mapObjects:
+  - objectName: con_lighth
+    objectPosition: {x: 2090.836, y: 23.8125, z: -2314.0625}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: nw_bit_01
+    objectPosition: {x: 2046.2031, y: 87.625, z: -2822.2578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: nw_bit_06
+    objectPosition: {x: 2142.0703, y: 82.78906, z: -2593.1328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2026.1016, y: 45.921875, z: -2461.4844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2090.1562, y: 54.976562, z: -2505.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2060.75, y: 111.234375, z: -2593.0625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 2106.1094, y: 53.851562, z: -2526.4375}
+    objectRotation: {x: -0, y: 0.6527598, z: -0, w: 0.75756496}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 2098.4297, y: 120.5, z: -2587.5625}
+    objectRotation: {x: -0, y: -0.48480973, z: -0, w: 0.87461966}
+  - objectName: posm_redwoodgrp
+    objectPosition: {x: 2042.5625, y: 92.85156, z: -2563.2422}
+    objectRotation: {x: -0, y: -0.19936797, z: -0, w: 0.9799247}
+  - objectName: posm_veg_tree6
+    objectPosition: {x: 2003.1172, y: 32.820312, z: -2387.625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7_big
+    objectPosition: {x: 2035.5781, y: 39.203125, z: -2436.8906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_veg_tree7vbig
+    objectPosition: {x: 2050.1953, y: 40.367188, z: -2433.586}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posprucetree_hi
+    objectPosition: {x: 2025.1641, y: 36.765625, z: -2412.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2004.5156, y: 37.671875, z: -2472.7656}
+    objectRotation: {x: -0, y: -0.31316382, z: -0, w: 0.94969916}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2060.9062, y: 48.78125, z: -2491.1172}
+    objectRotation: {x: -0, y: -0.31316382, z: -0, w: 0.94969916}
+  - objectName: trunk07
+    objectPosition: {x: 2013.7812, y: 34.898438, z: -2446.2188}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk07
+    objectPosition: {x: 2029.8281, y: 79.640625, z: -2527.211}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk07
+    objectPosition: {x: 2015.4844, y: 75.24219, z: -2521.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk07
+    objectPosition: {x: 2076.3828, y: 159.45312, z: -2676.3516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trunk07
+    objectPosition: {x: 2027.5078, y: 143.89844, z: -2695.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbseabed_CN01
+    objectPosition: {x: 2014.75, y: -21.789062, z: -2307.7734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbseabed_SFN01
+    objectPosition: {x: 2749.1406, y: -120.39844, z: -2064.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbseabed_SFN03
+    objectPosition: {x: 2116.3125, y: -44.25, z: -2317.1172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbseabed_SFN03bb
+    objectPosition: {x: 2280.5078, y: -48.773438, z: -2318.25}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: advert01_sfn
+    objectPosition: {x: 2493.8594, y: 14.875, z: -2363.4297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Barrierm_L0
+    objectPosition: {x: 2408.7812, y: 4.65625, z: -2351.1406}
+    objectRotation: {x: 9.638098e-18, y: -0.7814145, z: -9.638098e-18, w: 0.6240124}
+  - objectName: Barrierm_L0
+    objectPosition: {x: 2406.4922, y: 4.65625, z: -2351.6562}
+    objectRotation: {x: 9.638098e-18, y: -0.7814145, z: -9.638098e-18, w: 0.6240124}
+  - objectName: Barrierm_L0
+    objectPosition: {x: 2404.211, y: 4.65625, z: -2352.1797}
+    objectRotation: {x: 9.638098e-18, y: -0.7814145, z: -9.638098e-18, w: 0.6240124}
+  - objectName: Barrierm_L0
+    objectPosition: {x: 2401.9219, y: 4.65625, z: -2352.6953}
+    objectRotation: {x: 9.638098e-18, y: -0.7814145, z: -9.638098e-18, w: 0.6240124}
+  - objectName: Barrierm_L0
+    objectPosition: {x: 2399.6406, y: 4.65625, z: -2353.2188}
+    objectRotation: {x: 9.638098e-18, y: -0.7814145, z: -9.638098e-18, w: 0.6240124}
+  - objectName: Barrierm_L0
+    objectPosition: {x: 2397.3516, y: 4.65625, z: -2353.7344}
+    objectRotation: {x: 9.638098e-18, y: -0.7814145, z: -9.638098e-18, w: 0.6240124}
+  - objectName: Barrierm_L0
+    objectPosition: {x: 2395.0703, y: 4.65625, z: -2354.25}
+    objectRotation: {x: 9.638098e-18, y: -0.7814145, z: -9.638098e-18, w: 0.6240124}
+  - objectName: Barrierm_L0
+    objectPosition: {x: 2392.7812, y: 4.65625, z: -2354.7734}
+    objectRotation: {x: 9.638098e-18, y: -0.7814145, z: -9.638098e-18, w: 0.6240124}
+  - objectName: beach_sfn01
+    objectPosition: {x: 2299.9219, y: -16.445312, z: -2522.0078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: bigsfnlite02
+    objectPosition: {x: 2870.9766, y: 275.6797, z: -2694.0625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: bigsfnlite05
+    objectPosition: {x: 2883.7812, y: 262.20312, z: -2560.2422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: bigsfnlite08
+    objectPosition: {x: 2892.4922, y: 195.85938, z: -2399.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: bigsfnlite10
+    objectPosition: {x: 2855.2812, y: 170.125, z: -2234.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: bigsfnlite12
+    objectPosition: {x: 2818.7266, y: 239.67188, z: -2808.1328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: bigsfnlite14
+    objectPosition: {x: 2588.6172, y: 183.82031, z: -2824.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: bigsfnlite16
+    objectPosition: {x: 2357.1719, y: 182.9375, z: -2821.625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2461.1016, y: 16.296875, z: -2507.9688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2459.7031, y: 16.296875, z: -2508.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2461.1016, y: 16.296875, z: -2509.3828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2460.1406, y: 16.296875, z: -2509.7422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2247.6328, y: 4.3828125, z: -2364.8594}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2246.7734, y: 4.3828125, z: -2364.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2246.8125, y: 4.3828125, z: -2365.7578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2254.086, y: 4.3828125, z: -2371.0312}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2252.539, y: 4.3828125, z: -2371.0234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2489.211, y: 17.398438, z: -2540.2422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2489.125, y: 17.398438, z: -2539.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2488.461, y: 17.398438, z: -2539.7969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: BlackBag1
+    objectPosition: {x: 2488.3906, y: 17.398438, z: -2540.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: boatoffice2_sfn
+    objectPosition: {x: 2188.711, y: 4.90625, z: -2413.3516}
+    objectRotation: {x: -8.0003916e-17, y: 0.92387956, z: 8.0003916e-17, w: 0.38268346}
+  - objectName: boatoffice_sfn
+    objectPosition: {x: 2187.1172, y: 6.53125, z: -2414.3203}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: cables
+    objectPosition: {x: 2421.0469, y: 19.789062, z: -2343.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: carpark01_sfs_cm
+    objectPosition: {x: 2519.625, y: 3.9296875, z: -2356.0234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: carpark_sfn01
+    objectPosition: {x: 2463.664, y: 4.3671875, z: -2234.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: carpark_sfn02
+    objectPosition: {x: 2614.086, y: 6.140625, z: -2259.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: chapel_SFN
+    objectPosition: {x: 2475.4375, y: 21.570312, z: -2409.914}
+    objectRotation: {x: -0, y: -0.25881907, z: -0, w: 0.9659259}
+  - objectName: CJ_PHONE_KIOSK2
+    objectPosition: {x: 2550.3672, y: 5.3203125, z: -2320.4766}
+    objectRotation: {x: -6.115607e-17, y: 0.9999992, z: 6.115607e-17, w: -0.0012448586}
+  - objectName: CJ_PHONE_KIOSK2
+    objectPosition: {x: 2553.0547, y: 5.3203125, z: -2320.4844}
+    objectRotation: {x: -8.659554e-17, y: 0.7079865, z: 8.659554e-17, w: 0.706226}
+  - objectName: CJ_PHONE_KIOSK2
+    objectPosition: {x: 2451.4062, y: 5.3203125, z: -2321.0234}
+    objectRotation: {x: -6.115607e-17, y: 0.9999992, z: 6.115607e-17, w: -0.0012448586}
+  - objectName: CJ_POSTBOX_L0
+    objectPosition: {x: 2607.5547, y: 7.9765625, z: -2341.2734}
+    objectRotation: {x: -0, y: 0.7058355, z: -0, w: 0.70837575}
+  - objectName: CJ_POSTBOX_L0
+    objectPosition: {x: 2477.3984, y: 4.6015625, z: -2274.1875}
+    objectRotation: {x: -0, y: -0.37831846, z: -0, w: 0.9256755}
+  - objectName: CJ_POSTBOX_L0
+    objectPosition: {x: 2499.6953, y: 16.304688, z: -2434.4766}
+    objectRotation: {x: -0, y: -0.15423605, z: -0, w: 0.98803407}
+  - objectName: CJ_POSTBOX_L0
+    objectPosition: {x: 2352.9375, y: 5.1171875, z: -2372.5547}
+    objectRotation: {x: -0, y: -0.45991665, z: -0, w: 0.8879621}
+  - objectName: CJ_SKIP_Rubbish
+    objectPosition: {x: 2462.1484, y: 16.992188, z: -2512.7422}
+    objectRotation: {x: 3.8980378e-18, y: -0.7382199, z: -3.8980378e-18, w: 0.6745601}
+  - objectName: CJ_SKIP_Rubbish
+    objectPosition: {x: 2401.625, y: 5.125, z: -2357.5312}
+    objectRotation: {x: -0, y: -0.58821195, z: -0, w: 0.8087069}
+  - objectName: cock_sfn02
+    objectPosition: {x: 2545.3906, y: 3.90625, z: -2250.5}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cock_sfn06
+    objectPosition: {x: 2322.6016, y: 4.40625, z: -2331.414}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cock_sfn07
+    objectPosition: {x: 2445.6719, y: 3.9296875, z: -2287.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cock_sfn08
+    objectPosition: {x: 2227.3516, y: 4.1875, z: -2315.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cock_sfn09
+    objectPosition: {x: 2247.4922, y: 4.0390625, z: -2357.8672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: cock_sfn14
+    objectPosition: {x: 2581.3594, y: 5.75, z: -2285.125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: copbits_sfn
+    objectPosition: {x: 2227.539, y: 5.71875, z: -2326.875}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: cstguard_SFN01
+    objectPosition: {x: 2235.5547, y: 15.8046875, z: -2361.7734}
+    objectRotation: {x: -0, y: 0.40220383, z: -0, w: 0.9155502}
+  - objectName: dump1_L0
+    objectPosition: {x: 2531.9062, y: 4.7578125, z: -2295.0312}
+    objectRotation: {x: -0, y: 0.000000001564538, z: -0, w: 1}
+  - objectName: dump1_L0
+    objectPosition: {x: 2526.9453, y: 4.7578125, z: -2295.0312}
+    objectRotation: {x: -0, y: 0.000000001564538, z: -0, w: 1}
+  - objectName: dump1_L0
+    objectPosition: {x: 2527.2422, y: 4.7578125, z: -2353.125}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: dump1_L0
+    objectPosition: {x: 2520.7188, y: 4.7578125, z: -2353.125}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: dump1_L0
+    objectPosition: {x: 2524.0625, y: 4.7578125, z: -2353.125}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: dump1_L0
+    objectPosition: {x: 2480.8828, y: 4.7578125, z: -2295.0312}
+    objectRotation: {x: -0, y: 0.000000001564538, z: -0, w: 1}
+  - objectName: dump1_L0
+    objectPosition: {x: 2503.0703, y: 4.7578125, z: -2364.2188}
+    objectRotation: {x: -0, y: 0.7071067, z: -0, w: 0.7071068}
+  - objectName: dump1_L0
+    objectPosition: {x: 2503.0469, y: 4.7578125, z: -2368.0469}
+    objectRotation: {x: -0, y: 0.7071067, z: -0, w: 0.7071068}
+  - objectName: dump1_L0
+    objectPosition: {x: 2253.539, y: 4.7578125, z: -2372.5469}
+    objectRotation: {x: -0, y: 0.38861835, z: -0, w: 0.9213988}
+  - objectName: DYN_BOX_PILE
+    objectPosition: {x: 2245.711, y: 4.5, z: -2363.3047}
+    objectRotation: {x: -3.2879576e-17, y: 0.92263603, z: 3.2879576e-17, w: -0.3856718}
+  - objectName: DYN_BOX_PILE
+    objectPosition: {x: 2254.7969, y: 4.5, z: -2385.461}
+    objectRotation: {x: -0, y: -0.5984385, z: -0, w: 0.80116874}
+  - objectName: DYN_BOX_PILE_3
+    objectPosition: {x: 2539.4375, y: 4.390625, z: -2294.711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: DYN_BOX_PILE_3
+    objectPosition: {x: 2500.8203, y: 4.4609375, z: -2273.9688}
+    objectRotation: {x: -8.658282e-17, y: 0.7191521, z: 8.658282e-17, w: 0.6948527}
+  - objectName: DYN_BOX_PILE_3
+    objectPosition: {x: 2503.3125, y: 4.453125, z: -2341.3672}
+    objectRotation: {x: -0, y: 0.61469203, z: -0, w: 0.7887672}
+  - objectName: DYN_BOX_PILE_3
+    objectPosition: {x: 2476.289, y: 4.390625, z: -2294.711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: DYN_BOX_PILE_3
+    objectPosition: {x: 2506.6953, y: 4.390625, z: -2369.664}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: DYN_BOX_PILE_3
+    objectPosition: {x: 2244.2344, y: 4.4453125, z: -2361.2031}
+    objectRotation: {x: -0, y: 0.34899363, z: -0, w: 0.9371251}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: 2606.086, y: 7.9609375, z: -2344.3672}
+    objectRotation: {x: 0.00812884, y: 0.7082951, z: 0.008100434, w: 0.7058232}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: 2606.0625, y: 8.0859375, z: -2349.8125}
+    objectRotation: {x: 0.00812884, y: 0.7082951, z: 0.008100434, w: 0.7058232}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: 2606.0469, y: 8.2109375, z: -2355.2422}
+    objectRotation: {x: 0.00812884, y: 0.7082951, z: 0.008100434, w: 0.7058232}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: 2447.4766, y: 4.53125, z: -2342.4375}
+    objectRotation: {x: -0, y: -0.09720338, z: -0, w: 0.9952646}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: 2442.1172, y: 4.53125, z: -2343.4922}
+    objectRotation: {x: -0, y: -0.09720338, z: -0, w: 0.9952646}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: 2436.7656, y: 4.53125, z: -2344.5469}
+    objectRotation: {x: -0, y: -0.09720338, z: -0, w: 0.9952646}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: 2417.9453, y: 4.515625, z: -2348.5078}
+    objectRotation: {x: -0, y: -0.11860687, z: -0, w: 0.9929413}
+  - objectName: DYN_F_WOOD_2
+    objectPosition: {x: 2412.6484, y: 4.515625, z: -2349.7969}
+    objectRotation: {x: -0, y: -0.11860687, z: -0, w: 0.9929413}
+  - objectName: DYN_LIFE_P
+    objectPosition: {x: 2219.2969, y: 4.625, z: -2362.461}
+    objectRotation: {x: -0, y: 0.40758166, z: -0, w: 0.9131688}
+  - objectName: DYN_LIFE_P
+    objectPosition: {x: 2275.5156, y: 4.625, z: -2419.5547}
+    objectRotation: {x: -0, y: 0.3591475, z: -0, w: 0.9332808}
+  - objectName: garage_sfn01
+    objectPosition: {x: 2442.4375, y: 14.140625, z: -2450.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: gen_roofbit3
+    objectPosition: {x: 2535.586, y: 13.6796875, z: -2300.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: gen_roofbit3
+    objectPosition: {x: 2544.5547, y: 13.2421875, z: -2348.0156}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: gen_roofbit3
+    objectPosition: {x: 2519.9453, y: 13.6796875, z: -2300.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: gen_roofbit3
+    objectPosition: {x: 2496.75, y: 15.875, z: -2303.2578}
+    objectRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
+  - objectName: gen_roofbit3
+    objectPosition: {x: 2480.0078, y: 18.859375, z: -2285.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: GGbridgeend_SFN
+    objectPosition: {x: 2681.7266, y: 49.546875, z: -2164.4297}
+    objectRotation: {x: -0, y: 0.0025850646, z: -0, w: 0.99999666}
+  - objectName: ground01_SFN_CM
+    objectPosition: {x: 2479.5703, y: 3.984375, z: -2317.7734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hedge02_SFN_CM
+    objectPosition: {x: 2587.4297, y: 6.3515625, z: -2301.1016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hedge03SFN_CM
+    objectPosition: {x: 2532.3672, y: 4.390625, z: -2247.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hedge04_SFN_CM
+    objectPosition: {x: 2414.3281, y: 10.890625, z: -2410.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hedge09_SFN_CM
+    objectPosition: {x: 2455.4766, y: 14.265625, z: -2416.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hrborbuild_SFN01
+    objectPosition: {x: 2445.1719, y: 9.3359375, z: -2311.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hrborbuild_SFN02
+    objectPosition: {x: 2444.6562, y: 8.9453125, z: -2275.9844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hrborbuild_SFN03
+    objectPosition: {x: 2291.6094, y: 9.09375, z: -2311.5312}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hrbrmstr_SFN01
+    objectPosition: {x: 2251.6484, y: 10.5, z: -2380.0938}
+    objectRotation: {x: -0, y: -0.36315295, z: -0, w: 0.93172956}
+  - objectName: hway_SFN01
+    objectPosition: {x: 2717.7812, y: 61.507812, z: -2249.2578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hway_SFN02
+    objectPosition: {x: 2750.6406, y: 79.96875, z: -2393.8438}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hway_SFN03
+    objectPosition: {x: 2657.789, y: 69, z: -2535.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hway_SFN04
+    objectPosition: {x: 2674.1797, y: 83.046875, z: -2576.9922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hway_SFN05
+    objectPosition: {x: 2479.1797, y: 61.757812, z: -2641.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: hway_SFN06
+    objectPosition: {x: 2329.75, y: 55.625, z: -2654.5703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2619.5312, y: 7.2421875, z: -2281.1484}
+    objectRotation: {x: -0, y: 0.043619335, z: -0, w: 0.99904823}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2586.0938, y: 3.96875, z: -2242.8125}
+    objectRotation: {x: -8.585477e-17, y: 0.79335344, z: 8.585477e-17, w: 0.6087613}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2539.5469, y: 3.96875, z: -2220.7344}
+    objectRotation: {x: -0, y: -0.5, z: -0, w: 0.8660254}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2609.4453, y: 7.3359375, z: -2324.0156}
+    objectRotation: {x: -3.313872e-17, y: 0.9238796, z: 3.313872e-17, w: -0.38268322}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2619.5547, y: 8.9140625, z: -2381.0703}
+    objectRotation: {x: -0, y: -0.000000045619416, z: -0, w: 1}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2599.9219, y: 13.859375, z: -2429.3281}
+    objectRotation: {x: 1.5037189e-17, y: -0.8191522, z: -1.5037189e-17, w: 0.5735763}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2480.5781, y: 3.96875, z: -2220.336}
+    objectRotation: {x: -0, y: -0.67559034, z: -0, w: 0.7372772}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2446.0312, y: 3.96875, z: -2220.1797}
+    objectRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2430.3438, y: 3.96875, z: -2282.0781}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2483.3203, y: 17.015625, z: -2504.7422}
+    objectRotation: {x: -7.8482274e-17, y: 0.9396926, z: 7.8482274e-17, w: 0.34202015}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2432.0547, y: 12.7265625, z: -2497.9531}
+    objectRotation: {x: -2.9617443e-17, y: 0.9063078, z: 2.9617443e-17, w: -0.42261824}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2371.4688, y: 3.96875, z: -2216.3672}
+    objectRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 0.0000000754979}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2336.336, y: 3.96875, z: -2290.8203}
+    objectRotation: {x: -0, y: -0.70710665, z: -0, w: 0.7071069}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2343.664, y: 3.96875, z: -2330.711}
+    objectRotation: {x: -0, y: -0.70710665, z: -0, w: 0.7071069}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2308.2031, y: 3.96875, z: -2294.125}
+    objectRotation: {x: -0, y: 0.08715566, z: -0, w: 0.9961947}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2293.5625, y: 3.96875, z: -2225.586}
+    objectRotation: {x: 3.7772537e-18, y: -0.7372774, z: -3.7772537e-18, w: 0.67559016}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2207.7266, y: 3.96875, z: -2293.8906}
+    objectRotation: {x: -3.998542e-17, y: 0.95371705, z: 3.998542e-17, w: -0.3007056}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2260.5078, y: 4.1015625, z: -2398.3672}
+    objectRotation: {x: -8.00039e-17, y: 0.92387956, z: 8.00039e-17, w: 0.3826833}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2182.4922, y: 3.84375, z: -2419.3438}
+    objectRotation: {x: -8.0003916e-17, y: 0.92387956, z: 8.0003916e-17, w: 0.38268346}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2286.2266, y: 3.9375, z: -2425.289}
+    objectRotation: {x: -8.00039e-17, y: 0.92387956, z: 8.00039e-17, w: 0.3826833}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2392.7734, y: 9.1953125, z: -2478.2188}
+    objectRotation: {x: -7.499401e-17, y: 0.96592575, z: 7.499401e-17, w: 0.2588193}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2339.7969, y: 3.96875, z: -2470.9219}
+    objectRotation: {x: -7.499401e-17, y: 0.96592575, z: 7.499401e-17, w: 0.2588193}
+  - objectName: lampost_coast_L0
+    objectPosition: {x: 2233.8828, y: 3.90625, z: -2470.6094}
+    objectRotation: {x: -8.00039e-17, y: 0.92387956, z: 8.00039e-17, w: 0.3826833}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2740.2266, y: 61.734375, z: -2257.9844}
+    objectRotation: {x: -7.5241096e-17, y: 0.96442556, z: 7.5241096e-17, w: 0.26435477}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2703.6406, y: 58.023438, z: -2194.2812}
+    objectRotation: {x: -7.007185e-17, y: 0.9876436, z: 7.007185e-17, w: 0.15671659}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2668.4062, y: 58.195312, z: -2205.8984}
+    objectRotation: {x: -0, y: -0.123149745, z: -0, w: 0.9923881}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2698.0781, y: 59.617188, z: -2275.1953}
+    objectRotation: {x: -0, y: -0.26911685, z: -0, w: 0.9631075}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2564.3047, y: 7.375, z: -2296.625}
+    objectRotation: {x: -7.303399e-17, y: 0.976296, z: 7.303399e-17, w: 0.21643965}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2540.414, y: 7.4375, z: -2285.711}
+    objectRotation: {x: -0, y: -0.53729963, z: -0, w: 0.8433914}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2724.1562, y: 74.36719, z: -2342.125}
+    objectRotation: {x: -0, y: 0.60876155, z: -0, w: 0.79335326}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2779.5625, y: 92.30469, z: -2425.5156}
+    objectRotation: {x: -5.388197e-17, y: 0.99353, z: 5.388197e-17, w: -0.11357065}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2776.3906, y: 97.83594, z: -2478.3828}
+    objectRotation: {x: -5.7605467e-17, y: 0.9983413, z: 5.7605467e-17, w: -0.057572655}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2733.5547, y: 77.40625, z: -2424.8516}
+    objectRotation: {x: -0, y: 0.02947735, z: -0, w: 0.9995655}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2723.8828, y: 79.39844, z: -2483.5625}
+    objectRotation: {x: -0, y: 0.21643957, z: -0, w: 0.976296}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2684.9297, y: 63.242188, z: -2394.3594}
+    objectRotation: {x: -0, y: 0.1305262, z: -0, w: 0.9914449}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2670.164, y: 48.484375, z: -2443.414}
+    objectRotation: {x: -0, y: 0.21643957, z: -0, w: 0.976296}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2649.1875, y: 34.898438, z: -2485.2344}
+    objectRotation: {x: -0, y: 0.34202033, z: -0, w: 0.93969256}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2607.211, y: 28.773438, z: -2512.7578}
+    objectRotation: {x: -0, y: -0.49999985, z: -0, w: 0.8660255}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2568.2266, y: 9.3125, z: -2362.4922}
+    objectRotation: {x: -5.2716078e-17, y: 0.9914449, z: 5.2716078e-17, w: -0.130526}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2578.4375, y: 22.59375, z: -2473.3203}
+    objectRotation: {x: -8.25877e-17, y: 0.8870109, z: 8.25877e-17, w: 0.4617486}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2544.8281, y: 17.390625, z: -2403.086}
+    objectRotation: {x: 3.7772537e-18, y: -0.7372774, z: -3.7772537e-18, w: 0.67559016}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2773.2969, y: 98.60156, z: -2532.6016}
+    objectRotation: {x: -5.7010333e-17, y: 0.9977716, z: 5.7010333e-17, w: -0.06672234}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2691.1719, y: 79.55469, z: -2542.6562}
+    objectRotation: {x: -0, y: 0.41183335, z: -0, w: 0.91125923}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2761.4375, y: 96.171875, z: -2587.9688}
+    objectRotation: {x: -4.7152025e-17, y: 0.9781152, z: 4.7152025e-17, w: -0.20806417}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2735.2344, y: 92.328125, z: -2634.0312}
+    objectRotation: {x: -3.725434e-17, y: 0.9425303, z: 3.725434e-17, w: -0.33412075}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2690.5234, y: 88.25, z: -2666.789}
+    objectRotation: {x: 1.679638e-17, y: -0.8308308, z: -1.679638e-17, w: 0.5565251}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2642.4375, y: 75.46094, z: -2585.5469}
+    objectRotation: {x: -0, y: 0.5132852, z: -0, w: 0.8582181}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2632.5781, y: 81.78125, z: -2678.711}
+    objectRotation: {x: 3.0805716e-18, y: -0.731814, z: -3.0805716e-18, w: 0.6815045}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2566.7969, y: 65.375, z: -2602.6562}
+    objectRotation: {x: -0, y: 0.66781974, z: -0, w: 0.7443231}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2576.664, y: 75.11719, z: -2678.9922}
+    objectRotation: {x: -0, y: -0.6932478, z: -0, w: 0.7206993}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2508.375, y: 7.375, z: -2260.5547}
+    objectRotation: {x: -8.364493e-17, y: 0.86602557, z: 8.364493e-17, w: 0.49999976}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2510.5469, y: 7.375, z: -2335.7578}
+    objectRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2473.2656, y: 7.3828125, z: -2267.2188}
+    objectRotation: {x: -2.9617443e-17, y: 0.9063078, z: 2.9617443e-17, w: -0.42261824}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2461.6172, y: 7.453125, z: -2297.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2473.0078, y: 7.375, z: -2325.0625}
+    objectRotation: {x: -8.454295e-17, y: 0.8433914, z: 8.454295e-17, w: 0.5372997}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2423.0469, y: 7.375, z: -2332.1719}
+    objectRotation: {x: -0, y: 0.64278764, z: -0, w: 0.76604444}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2513.0625, y: 19.132812, z: -2424.211}
+    objectRotation: {x: -5.850323e-17, y: 0.9990483, z: 5.850323e-17, w: -0.043618023}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2490.8984, y: 16.484375, z: -2387.2578}
+    objectRotation: {x: -7.303398e-17, y: 0.97629607, z: 7.303398e-17, w: 0.21643929}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2532.4766, y: 20.625, z: -2461.9297}
+    objectRotation: {x: -0, y: -0.49999985, z: -0, w: 0.8660255}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2467.789, y: 11.078125, z: -2367.4219}
+    objectRotation: {x: -0, y: -0.21643952, z: -0, w: 0.976296}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2452.211, y: 17.171875, z: -2439.1797}
+    objectRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2245.1172, y: 7.3046875, z: -2298.7578}
+    objectRotation: {x: -0, y: -0.0000000051948863, z: -0, w: 1}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2279.375, y: 3.953125, z: -2327.1484}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2376, y: 7.375, z: -2351.8281}
+    objectRotation: {x: 3.7772537e-18, y: -0.7372774, z: -3.7772537e-18, w: 0.67559016}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2301.0234, y: 8.3671875, z: -2377.2344}
+    objectRotation: {x: -0, y: -0.4617487, z: -0, w: 0.8870108}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2412.2422, y: 13.2890625, z: -2428.5781}
+    objectRotation: {x: -8.626609e-17, y: 0.7660446, z: 8.626609e-17, w: 0.6427875}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2337.2422, y: 8.3203125, z: -2389.164}
+    objectRotation: {x: -6.3844897e-17, y: 0.9990483, z: 6.3844897e-17, w: 0.043618023}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2366.4922, y: 8.4140625, z: -2423.1328}
+    objectRotation: {x: -0, y: -0.5, z: -0, w: 0.8660254}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2476.4375, y: 57.570312, z: -2616.625}
+    objectRotation: {x: -0, y: 0.6861317, z: -0, w: 0.7274773}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2515.5078, y: 68.65625, z: -2676.789}
+    objectRotation: {x: -0, y: -0.704014, z: -0, w: 0.7101861}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2455.25, y: 65.078125, z: -2677.8047}
+    objectRotation: {x: 1.7817137e-18, y: -0.7215059, z: -1.7817137e-18, w: 0.6924083}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2394.1328, y: 56.125, z: -2623.0547}
+    objectRotation: {x: -0, y: 0.69812006, z: -0, w: 0.7159807}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2391.3828, y: 62.265625, z: -2679.0078}
+    objectRotation: {x: -0, y: -0.7070114, z: -0, w: 0.70720214}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2308.7344, y: 59.375, z: -2683.6484}
+    objectRotation: {x: 2.4984045e-18, y: -0.72721344, z: -2.4984045e-18, w: 0.6864114}
+  - objectName: lamppost1_L0
+    objectPosition: {x: 2307.711, y: 57.242188, z: -2629.0625}
+    objectRotation: {x: -0, y: 0.6801876, z: -0, w: 0.73303807}
+  - objectName: land2_sfN01
+    objectPosition: {x: 2832.1016, y: 66.67969, z: -2197.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN02
+    objectPosition: {x: 2907.9375, y: -12.2890625, z: -2195.711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN03
+    objectPosition: {x: 2943.1953, y: 26.8125, z: -2408.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN04
+    objectPosition: {x: 2931.7734, y: 38.445312, z: -2605.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN05
+    objectPosition: {x: 2865.6016, y: 27.6875, z: -2895.7031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN06
+    objectPosition: {x: 2933.0703, y: 27.8125, z: -2763.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN07
+    objectPosition: {x: 2468.9922, y: -34.75, z: -2917.0234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN08
+    objectPosition: {x: 2273.7812, y: -14.9765625, z: -2909.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN09
+    objectPosition: {x: 2739.4766, y: 65.74219, z: -2393.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN09a
+    objectPosition: {x: 2638.7734, y: 12.078125, z: -2372.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN10
+    objectPosition: {x: 2720.789, y: 27.554688, z: -2226.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN11
+    objectPosition: {x: 2863.2266, y: 174.8125, z: -2404.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN12
+    objectPosition: {x: 2838.2422, y: 190.25781, z: -2592.8672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN13
+    objectPosition: {x: 2687.5078, y: 85, z: -2582.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN14
+    objectPosition: {x: 2469.9062, y: 58.898438, z: -2645.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN15
+    objectPosition: {x: 2680.4453, y: 157.83594, z: -2719.0469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN16
+    objectPosition: {x: 2468.9922, y: 135.30469, z: -2792.1875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN17
+    objectPosition: {x: 2840.164, y: 241.78906, z: -2733.3906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN18
+    objectPosition: {x: 2300.961, y: 39.460938, z: -2622.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN19
+    objectPosition: {x: 2267.3516, y: 132.51562, z: -2789.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land2_sfN20
+    objectPosition: {x: 2659.9922, y: 10.9375, z: -2899.664}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_SFN06
+    objectPosition: {x: 2806.6016, y: 217.14062, z: -2830.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_SFN13
+    objectPosition: {x: 2648.5703, y: 49.265625, z: -2524.5234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_SFN15
+    objectPosition: {x: 2191.664, y: 61.945312, z: -2644.1172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_SFN17
+    objectPosition: {x: 2478.2656, y: 18.007812, z: -2526.8672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_SFN17a
+    objectPosition: {x: 2478.2656, y: 18.007812, z: -2526.8672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_sfn18
+    objectPosition: {x: 2593.4531, y: 29.882812, z: -2449.9219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_sfn19
+    objectPosition: {x: 2432.9688, y: 9.828125, z: -2382.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_sfn19B
+    objectPosition: {x: 2381.1797, y: 5.734375, z: -2380.8125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_sfn20
+    objectPosition: {x: 2581.8594, y: 8.921875, z: -2383.0703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_sfn21
+    objectPosition: {x: 2511.836, y: 16.953125, z: -2473.6406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_sfn22
+    objectPosition: {x: 2347.9844, y: 8.3515625, z: -2416.711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: land_sfn23
+    objectPosition: {x: 2518.7422, y: 13.6875, z: -2389.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lighhouse_SFN
+    objectPosition: {x: 2381.3828, y: 11.875, z: -2216}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: LODck01_SFN
+    objectPosition: {x: 2440.3125, y: 10.984375, z: -2492.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: LODck02_SFN
+    objectPosition: {x: 2308.7969, y: 5.5078125, z: -2421.3984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: LODpel_SFN
+    objectPosition: {x: 2475.4375, y: 21.570312, z: -2409.914}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: moresfnshit20
+    objectPosition: {x: 2477.4375, y: 18.421875, z: -2488.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: moresfnshit22
+    objectPosition: {x: 2447.4453, y: 16.070312, z: -2488.2734}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: moresfnshit28
+    objectPosition: {x: 2461.8672, y: 17.578125, z: -2487.336}
+    objectRotation: {x: -0, y: -0.044610713, z: -0, w: 0.9990044}
+  - objectName: moresfnshit29
+    objectPosition: {x: 2423.586, y: 13.734375, z: -2488.2734}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: moresfnshit30
+    objectPosition: {x: 2448.0938, y: 15.890625, z: -2512.5156}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: moresfnshit31
+    objectPosition: {x: 2477.6875, y: 18.507812, z: -2512.461}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: nt_aircon1_01
+    objectPosition: {x: 2548.9922, y: 11.1484375, z: -2352.336}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: nt_aircon1_01
+    objectPosition: {x: 2539.6172, y: 11.1484375, z: -2352.336}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: nt_aircon1_01
+    objectPosition: {x: 2498.2266, y: 7.6796875, z: -2287.4531}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: nt_aircon1_01
+    objectPosition: {x: 2517.8438, y: 12.0234375, z: -2291.1172}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: nt_aircon1_01
+    objectPosition: {x: 2504.7188, y: 12.0234375, z: -2291.1172}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: nt_aircon1dbl
+    objectPosition: {x: 2444.8203, y: 10.1484375, z: -2251.9922}
+    objectRotation: {x: -0, y: -0.7050391, z: -0, w: 0.70916843}
+  - objectName: nt_aircon1dbl
+    objectPosition: {x: 2226.0625, y: 6.3984375, z: -2360.8281}
+    objectRotation: {x: -7.927243e-17, y: 0.9318989, z: 7.927243e-17, w: 0.3627181}
+  - objectName: nt_cablebox1_01
+    objectPosition: {x: 2509.3281, y: 13.6171875, z: -2322.2031}
+    objectRotation: {x: -0, y: 0.7071067, z: -0, w: 0.7071068}
+  - objectName: nt_cablebox1_01
+    objectPosition: {x: 2444.9766, y: 12.71875, z: -2252.664}
+    objectRotation: {x: -0, y: -0.70710665, z: -0, w: 0.7071069}
+  - objectName: nt_vent1_01
+    objectPosition: {x: 2476.211, y: 7.46875, z: -2307.914}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: nt_vent1_01
+    objectPosition: {x: 2476.211, y: 7.46875, z: -2309.5156}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: objdefault
+    objectPosition: {x: 2744.7344, y: 68.890625, z: -2318.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: objdefault
+    objectPosition: {x: 2563.586, y: 3.78125, z: -2278.9844}
+    objectRotation: {x: -0, y: -0.529135, z: -0, w: 0.84853774}
+  - objectName: objdefault
+    objectPosition: {x: 2757.0938, y: 84.875, z: -2394.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: objdefault
+    objectPosition: {x: 2753.5703, y: 93.9375, z: -2467.8594}
+    objectRotation: {x: -8.622933e-17, y: 0.7690834, z: 8.622933e-17, w: 0.6391485}
+  - objectName: objdefault
+    objectPosition: {x: 2505.9766, y: 14.53125, z: -2386.5234}
+    objectRotation: {x: -0, y: -0.529135, z: -0, w: 0.84853774}
+  - objectName: objdefault
+    objectPosition: {x: 2531.6797, y: 16.21875, z: -2426.7656}
+    objectRotation: {x: -0, y: -0.529135, z: -0, w: 0.84853774}
+  - objectName: objdefault
+    objectPosition: {x: 2434.8672, y: 8.09375, z: -2384.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: parkbench1_L0
+    objectPosition: {x: 2598.8203, y: 7.7421875, z: -2275.0312}
+    objectRotation: {x: -0, y: -0.7071067, z: -0, w: 0.7071068}
+  - objectName: parkbench1_L0
+    objectPosition: {x: 2603.6094, y: 7.7421875, z: -2275.0312}
+    objectRotation: {x: -0, y: -0.7071067, z: -0, w: 0.7071068}
+  - objectName: parkbench1_L0
+    objectPosition: {x: 2406.9531, y: 4.359375, z: -2324.6172}
+    objectRotation: {x: 1.0196952e-17, y: -0.78545177, z: -1.0196952e-17, w: 0.6189229}
+  - objectName: parkbench1_L0
+    objectPosition: {x: 2388.2578, y: 4.3671875, z: -2328.5469}
+    objectRotation: {x: 9.301858e-18, y: -0.7789709, z: -9.301858e-18, w: 0.62706006}
+  - objectName: parkbench1_L0
+    objectPosition: {x: 2370.4766, y: 4.3671875, z: -2331.3984}
+    objectRotation: {x: 6.2306246e-18, y: -0.756151, z: -6.2306246e-18, w: 0.6543972}
+  - objectName: parkbench1_L0
+    objectPosition: {x: 2350.5078, y: 4.3671875, z: -2331.836}
+    objectRotation: {x: 6.3873693e-19, y: -0.7123032, z: -6.3873693e-19, w: 0.7018719}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2604.1328, y: 5.6640625, z: -2244.7031}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2594.7266, y: 7.3984375, z: -2254.211}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2601.5625, y: 7.421875, z: -2285.25}
+    objectRotation: {x: -0.0016939495, y: 0.0420952, z: -0.04017269, w: 0.99830425}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2628.4219, y: 8.5625, z: -2301.789}
+    objectRotation: {x: -0.028389232, y: 0.7054804, z: -0.028473962, w: 0.70758796}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2602.2656, y: 8.109375, z: -2293.4219}
+    objectRotation: {x: -0.0016939495, y: 0.0420952, z: -0.04017269, w: 0.99830425}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2578.961, y: 5.7109375, z: -2304.5938}
+    objectRotation: {x: -0.0016939495, y: 0.0420952, z: -0.04017269, w: 0.99830425}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2550.1016, y: 4.390625, z: -2236.8125}
+    objectRotation: {x: 0.014532034, y: 0.30865633, z: 0.044728015, w: 0.9500103}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2557.1562, y: 4.7578125, z: -2240.7031}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2546.9766, y: 5.0546875, z: -2243.8828}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2546.8672, y: 5.09375, z: -2269.8125}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2636.2031, y: 8.5625, z: -2328.711}
+    objectRotation: {x: -0.016938422, y: 0.4209254, z: -0.03646646, w: 0.9062037}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2533.2578, y: 4, z: -2256.2031}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2511.1172, y: 5.09375, z: -2231.3984}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2519.6328, y: 5.09375, z: -2256.5703}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2503.7734, y: 5.09375, z: -2246.3281}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2499.2734, y: 5.09375, z: -2234.5469}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2429.125, y: 5.6640625, z: -2219.0234}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2421.9766, y: 5.6640625, z: -2219.2812}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2426.125, y: 5.6640625, z: -2220.7812}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2432.1484, y: 5.6640625, z: -2222.1406}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2479.6875, y: 16.53125, z: -2401.4766}
+    objectRotation: {x: 0.009927658, y: 0.21086073, z: 0.045969743, w: 0.97638416}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2484.7969, y: 16.53125, z: -2411.4375}
+    objectRotation: {x: 0.03320521, y: 0.7052689, z: 0.033304483, w: 0.70737827}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2475.1406, y: 16.398438, z: -2446.0625}
+    objectRotation: {x: 0.0039735604, y: -0.21569103, z: -0.017986188, w: 0.97628796}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2461.8594, y: 16.953125, z: -2407.8203}
+    objectRotation: {x: -0.0043978235, y: -0.42789257, z: 0.009288806, w: 0.9037712}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2426.7031, y: 13.515625, z: -2417.9219}
+    objectRotation: {x: 0.006988317, y: -0.67389303, z: 0.039632667, w: 0.73773205}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2468.039, y: 16.570312, z: -2450.6875}
+    objectRotation: {x: 0.008710402, y: -0.6410722, z: 0.039290097, w: 0.7664247}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2455.9297, y: 16.085938, z: -2464.586}
+    objectRotation: {x: -0.005252907, y: -0.86454356, z: 0.039899733, w: 0.50094396}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2445.0234, y: 14.421875, z: -2460.2734}
+    objectRotation: {x: -0.005252907, y: -0.86454356, z: 0.039899733, w: 0.50094396}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2412.2188, y: 12.4375, z: -2409.164}
+    objectRotation: {x: 0.006988317, y: -0.67389303, z: 0.039632667, w: 0.73773205}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2409.836, y: 11.796875, z: -2420.2812}
+    objectRotation: {x: 0.006988317, y: -0.67389303, z: 0.039632667, w: 0.73773205}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2383.1016, y: 9.0625, z: -2410.336}
+    objectRotation: {x: 0.006988317, y: -0.67389303, z: 0.039632667, w: 0.73773205}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2334.0547, y: 7.09375, z: -2411.1562}
+    objectRotation: {x: 0.01376427, y: -0.53554916, z: 0.03781703, w: 0.8435446}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2331.086, y: 7.296875, z: -2414.9922}
+    objectRotation: {x: 0.03192774, y: 0.0015586872, z: 0.024499023, w: 0.9991887}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2355.375, y: 7.8984375, z: -2429.2188}
+    objectRotation: {x: 0.01376427, y: -0.53554916, z: 0.03781703, w: 0.8435446}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2412.5703, y: 13.2890625, z: -2447.5078}
+    objectRotation: {x: -0.005252907, y: -0.86454356, z: 0.039899733, w: 0.50094396}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2401.6328, y: 12.3984375, z: -2466.5078}
+    objectRotation: {x: 0.018582625, y: -0.4208628, z: 0.035696898, w: 0.9062312}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2376.3984, y: 9.6328125, z: -2438.4453}
+    objectRotation: {x: 0.005288985, y: -0.70479035, z: 0.039895006, w: 0.70827323}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2392.6562, y: 10.40625, z: -2444.6172}
+    objectRotation: {x: 0.005288985, y: -0.70479035, z: 0.039895006, w: 0.70827323}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2390.9688, y: 10.3359375, z: -2479.625}
+    objectRotation: {x: -0.038872752, y: 0.97584134, z: 0.010415907, w: 0.21474214}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2362.9766, y: 8.703125, z: -2440.1562}
+    objectRotation: {x: -0.005252907, y: -0.86454356, z: 0.039899733, w: 0.50094396}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2361.0625, y: 8.84375, z: -2446.1797}
+    objectRotation: {x: 0.005288985, y: -0.70479035, z: 0.039895006, w: 0.70827323}
+  - objectName: ponew_bushsm
+    objectPosition: {x: 2358.4766, y: 7.890625, z: -2458.7422}
+    objectRotation: {x: -0.09251449, y: -0.16420741, z: 0.18443069, w: 0.96460474}
+  - objectName: ponew_bushtest
+    objectPosition: {x: 2500.1797, y: 21.585938, z: -2487.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: ponew_bushtest
+    objectPosition: {x: 2313.7031, y: 9.3984375, z: -2422.2969}
+    objectRotation: {x: -0, y: 0.38268346, z: -0, w: 0.9238795}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2340.56, y: 175.391, z: -2808.54}
+    objectRotation: {x: -2.675966e-17, y: 0.89100736, z: 2.675966e-17, w: -0.45398897}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2352.7, y: 171.102, z: -2797.71}
+    objectRotation: {x: 0.02394831, y: 0.51462024, z: 0.02394831, w: 0.8567491}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2398.5078, y: 180.39062, z: -2811.9531}
+    objectRotation: {x: -2.6039823e-17, y: 0.88701093, z: 2.6039823e-17, w: -0.4617484}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2591.96, y: 138.18, z: -2767.44}
+    objectRotation: {x: -0.0025661397, y: -0.8386472, z: -0.0025661392, w: 0.5446631}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2648.6406, y: 69.390625, z: -2869.6953}
+    objectRotation: {x: -0, y: 0.64986473, z: -0, w: 0.7600499}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2826.05, y: 240.17198, z: -2799.66}
+    objectRotation: {x: -0, y: 0.095845744, z: -0, w: 0.9953962}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2771.8599, y: 220.281, z: -2811.3}
+    objectRotation: {x: -0.0000003901161, y: -0.8386693, z: -0.00000039011618, w: 0.544641}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2694.51, y: 184.828, z: -2770.66}
+    objectRotation: {x: -0, y: 0.3338068, z: -0, w: 0.9426415}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2792.25, y: 233.09375, z: -2795.875}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2650.69, y: 178.367, z: -2789.16}
+    objectRotation: {x: 0.0000008077946, y: 0.94264084, z: 0.0000008077949, w: -0.33380884}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2794.211, y: 112.05469, z: -2574.789}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2873.0698, y: 268.523, z: -2630.81}
+    objectRotation: {x: 0.0000016083603, y: 0.9702958, z: 0.000001608359, w: 0.24192166}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2852.5898, y: 250.81999, z: -2687.78}
+    objectRotation: {x: -0, y: -0.27564004, z: -0, w: 0.9612609}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2789.06, y: 107.56199, z: -2538.67}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2734.29, y: 92.46099, z: -2580.89}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2814.3594, y: 111.46094, z: -2475.461}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2801.65, y: 99.883, z: -2420.78}
+    objectRotation: {x: -0, y: -0.35836992, z: -0, w: 0.9335797}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2823.8599, y: 119.40599, z: -2245.26}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191524, z: 8.5280025e-17, w: 0.57357603}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2840.9922, y: 120.96094, z: -2274.25}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2828.31, y: 94.79689, z: -2309.93}
+    objectRotation: {x: 0.0000015370317, y: 0.98480785, z: 0.0000015370291, w: 0.17364763}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2858.78, y: 134.312, z: -2303.8298}
+    objectRotation: {x: 0.0000016489897, y: 0.95881987, z: 0.0000016489897, w: 0.284015}
+  - objectName: posm_fir_tall
+    objectPosition: {x: 2160.63, y: 163.195, z: -2696.06}
+    objectRotation: {x: -0, y: -0.5735763, z: -0, w: 0.8191522}
+  - objectName: potree_hipoly09b
+    objectPosition: {x: 2325.3125, y: 3.1640625, z: -2350.0078}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2594.7266, y: 14.8671875, z: -2258.9297}
+    objectRotation: {x: -3.99854e-17, y: 0.95371693, z: 3.99854e-17, w: -0.30070582}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2595.164, y: 14.96875, z: -2275.0781}
+    objectRotation: {x: -8.0003896e-17, y: 0.9238796, z: 8.0003896e-17, w: 0.38268322}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2604.6406, y: 14.234375, z: -2284.2734}
+    objectRotation: {x: -3.3138695e-17, y: 0.9238795, z: 3.3138695e-17, w: -0.38268355}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2625.8125, y: 15.109375, z: -2300.8047}
+    objectRotation: {x: -4.551862e-17, y: 0.97322595, z: 4.551862e-17, w: -0.22985044}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2605.3438, y: 14.671875, z: -2317.7344}
+    objectRotation: {x: -8.0003916e-17, y: 0.92387944, z: 8.0003916e-17, w: 0.38268366}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2568.1016, y: 11.9453125, z: -2245.1797}
+    objectRotation: {x: -0, y: -0.087155744, z: -0, w: 0.9961947}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2572.2812, y: 11.9765625, z: -2293.7422}
+    objectRotation: {x: -8.0003896e-17, y: 0.9238796, z: 8.0003896e-17, w: 0.38268322}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2547.2188, y: 11.6796875, z: -2234.586}
+    objectRotation: {x: -7.432285e-17, y: 0.96977216, z: 7.432285e-17, w: 0.24401215}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2626.789, y: 15.0859375, z: -2327.8984}
+    objectRotation: {x: -0, y: -0.043619476, z: -0, w: 0.99904823}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2602.0625, y: 16.054688, z: -2378.875}
+    objectRotation: {x: -0, y: -0.622517, z: -0, w: 0.7826063}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2620.5, y: 21.5625, z: -2430.0625}
+    objectRotation: {x: -8.0003896e-17, y: 0.9238796, z: 8.0003896e-17, w: 0.38268322}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2606.5312, y: 21.773438, z: -2444.0312}
+    objectRotation: {x: -8.0003896e-17, y: 0.9238796, z: 8.0003896e-17, w: 0.38268322}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2578.0078, y: 15.140625, z: -2344.3047}
+    objectRotation: {x: -0, y: 0.64278764, z: -0, w: 0.76604444}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2573.6562, y: 16.414062, z: -2370.2031}
+    objectRotation: {x: -0, y: -0.000000059604645, z: -0, w: 1}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2579.6406, y: 21.195312, z: -2409.8828}
+    objectRotation: {x: -0, y: -0.48990998, z: -0, w: 0.871773}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2572.3438, y: 22.84375, z: -2436.8594}
+    objectRotation: {x: -0, y: -0.01695815, z: -0, w: 0.99985623}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2563.0156, y: 21.195312, z: -2396.4922}
+    objectRotation: {x: -0, y: 0.25905097, z: -0, w: 0.9658637}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2549.3281, y: 23.859375, z: -2420.3203}
+    objectRotation: {x: -0, y: 0.019763753, z: -0, w: 0.9998047}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2619.25, y: 34.367188, z: -2528.1953}
+    objectRotation: {x: -7.681124e-17, y: 0.95371705, z: 7.681124e-17, w: 0.3007056}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2538.1562, y: 27.953125, z: -2521.5781}
+    objectRotation: {x: -7.681124e-17, y: 0.95371705, z: 7.681124e-17, w: 0.3007056}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2532.0781, y: 11.9453125, z: -2263.1484}
+    objectRotation: {x: -3.99854e-17, y: 0.95371693, z: 3.99854e-17, w: -0.30070582}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2513.7812, y: 11.9453125, z: -2250.336}
+    objectRotation: {x: 1.3515065e-18, y: -0.71805656, z: -1.3515065e-18, w: 0.6959848}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2499.336, y: 11.9453125, z: -2224.4531}
+    objectRotation: {x: -3.99854e-17, y: 0.95371693, z: 3.99854e-17, w: -0.30070582}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2498.8906, y: 11.9453125, z: -2245.9531}
+    objectRotation: {x: -3.99854e-17, y: 0.95371693, z: 3.99854e-17, w: -0.30070582}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2453.2969, y: 12.0234375, z: -2344.7188}
+    objectRotation: {x: -0, y: 0.052131556, z: -0, w: 0.99864024}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2416.25, y: 11.640625, z: -2351.5}
+    objectRotation: {x: -0, y: 0.052131556, z: -0, w: 0.99864024}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2530.5469, y: 22.164062, z: -2387.1719}
+    objectRotation: {x: 1.13030045e-17, y: -0.79335344, z: -1.13030045e-17, w: 0.6087613}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2498.0781, y: 23.101562, z: -2437.875}
+    objectRotation: {x: -0, y: 0.40565816, z: -0, w: 0.9140249}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2503.9922, y: 24.164062, z: -2451.914}
+    objectRotation: {x: -7.681124e-17, y: 0.95371705, z: 7.681124e-17, w: 0.3007056}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2511.0469, y: 25.648438, z: -2510.0312}
+    objectRotation: {x: -7.681124e-17, y: 0.95371705, z: 7.681124e-17, w: 0.3007056}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2463.0156, y: 17.289062, z: -2380.6172}
+    objectRotation: {x: -0, y: 0.64278764, z: -0, w: 0.76604444}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2450.125, y: 11.75, z: -2367.914}
+    objectRotation: {x: -8.6513186e-17, y: 0.7372774, z: 8.6513186e-17, w: 0.67559016}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2454.9531, y: 21.921875, z: -2404.6562}
+    objectRotation: {x: -7.681124e-17, y: 0.95371705, z: 7.681124e-17, w: 0.3007056}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2414.3594, y: 18.414062, z: -2402.9688}
+    objectRotation: {x: 1.8116096e-17, y: -0.8393892, z: -1.8116096e-17, w: 0.54353094}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2415.289, y: 19.234375, z: -2418.5312}
+    objectRotation: {x: -7.681124e-17, y: 0.95371705, z: 7.681124e-17, w: 0.3007056}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2447.8438, y: 21.390625, z: -2463.3516}
+    objectRotation: {x: -7.681124e-17, y: 0.95371705, z: 7.681124e-17, w: 0.3007056}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2424.7344, y: 20.273438, z: -2469.4062}
+    objectRotation: {x: -6.807407e-17, y: 0.99291605, z: 6.807407e-17, w: 0.11881797}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2346.4766, y: 11.7890625, z: -2343.7969}
+    objectRotation: {x: -0, y: 0.4226182, z: -0, w: 0.9063078}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2360.0469, y: 12.1328125, z: -2372.2266}
+    objectRotation: {x: 1.13030045e-17, y: -0.79335344, z: -1.13030045e-17, w: 0.6087613}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2281.1094, y: 12.6953125, z: -2380.2266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2300.9219, y: 12.6328125, z: -2394.6172}
+    objectRotation: {x: -2.2412594e-17, y: 0.86602545, z: 2.2412594e-17, w: -0.49999997}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2311.7656, y: 12.5625, z: -2410.2422}
+    objectRotation: {x: -0, y: 0.46174854, z: -0, w: 0.8870109}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2404.75, y: 18.890625, z: -2445.9531}
+    objectRotation: {x: -0, y: -0.5973916, z: -0, w: 0.8019497}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2401.2031, y: 18.890625, z: -2459.336}
+    objectRotation: {x: -3.3436073e-17, y: 0.92529666, z: 3.3436073e-17, w: -0.37924415}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2358.211, y: 15.046875, z: -2450.5156}
+    objectRotation: {x: -0, y: 0.46174854, z: -0, w: 0.8870109}
+  - objectName: poveg_bevtree3
+    objectPosition: {x: 2429.836, y: 21.445312, z: -2523.1328}
+    objectRotation: {x: -7.681124e-17, y: 0.95371705, z: 7.681124e-17, w: 0.3007056}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2854.9922, y: 161.70312, z: -2160.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2832.0156, y: 171.09375, z: -2175.1406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2835.8828, y: 171.375, z: -2182.0234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2837.8906, y: 171.5, z: -2190.3828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2844.6797, y: 169.10156, z: -2202.3594}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2791.2656, y: 99.78125, z: -2179.1719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2791.086, y: 99.5, z: -2180.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2767.3281, y: 75.03125, z: -2189.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2754.086, y: 67.484375, z: -2201.3906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2817.836, y: 120.78125, z: -2214.7578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2858.8516, y: 165.625, z: -2222.2266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2811.8281, y: 110.02344, z: -2235.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2819.3594, y: 117.05469, z: -2235.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2853.0938, y: 160.40625, z: -2236.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2857.086, y: 160.78125, z: -2238.9766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2816.5469, y: 112.34375, z: -2240.0625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2824.3203, y: 120.08594, z: -2238.336}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2814.5781, y: 110.02344, z: -2241.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2763.789, y: 70.5, z: -2220.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2769.039, y: 71.35156, z: -2232.4844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2783.8516, y: 77.046875, z: -2240.789}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2751.5234, y: 64.359375, z: -2236.1406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2743.8281, y: 61.671875, z: -2236.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2868.4297, y: 160.46094, z: -2250.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2839.0156, y: 127.015625, z: -2252.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2874.7969, y: 158.84375, z: -2260.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2832.586, y: 113.671875, z: -2270.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2831.1328, y: 111.5, z: -2273.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2886.75, y: 157.375, z: -2289.3828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2847.5, y: 120.875, z: -2296.086}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2844.2266, y: 115.4375, z: -2306.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2831.9844, y: 109.96875, z: -2283.375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2825.3203, y: 90.41406, z: -2299.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2813.7266, y: 85.71875, z: -2280.2734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2788.3516, y: 77.46875, z: -2250.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2784.1875, y: 75.234375, z: -2251.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2811.25, y: 86.015625, z: -2264.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2788.4062, y: 74.265625, z: -2267.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2809.8672, y: 84.28125, z: -2271.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2785.3672, y: 72.84375, z: -2287.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2780.8516, y: 71.27344, z: -2308.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2778.8047, y: 70.33594, z: -2308.211}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2761.586, y: 66.64844, z: -2247.9766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2766.8203, y: 67.11719, z: -2261.5156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2716.8438, y: 54.234375, z: -2258.5234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2672.3828, y: 53.03125, z: -2242.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2896.164, y: 150.61719, z: -2325.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2845.5312, y: 110.55469, z: -2329.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2838.6406, y: 98.625, z: -2335.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2891.125, y: 184.10156, z: -2382.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2857.461, y: 157.16406, z: -2416.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2849.3125, y: 133.11719, z: -2413}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2856.2422, y: 151.91406, z: -2413.086}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2842.7344, y: 117.5, z: -2398.5703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2842.1172, y: 117.00781, z: -2401.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2836.8438, y: 108.71094, z: -2407.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2839.3594, y: 118.609375, z: -2426.3125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2853.6484, y: 150.4375, z: -2428.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2857.6016, y: 164.84375, z: -2436.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2895.1172, y: 205.40625, z: -2443.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2831.8984, y: 115.63281, z: -2457.9844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2886.4297, y: 214.54688, z: -2467.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2883.6406, y: 230.375, z: -2487.289}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2879.539, y: 243.96875, z: -2510.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2823.7188, y: 116.94531, z: -2505.586}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2815.5938, y: 108.59375, z: -2475.5}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2815.9453, y: 112.390625, z: -2511.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2889.3594, y: 251.14844, z: -2519.164}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2879.8047, y: 248.97656, z: -2520.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2817.0938, y: 115.64844, z: -2534.7188}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2887.1562, y: 253.92188, z: -2535.3984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2805.1562, y: 107.625, z: -2542.0547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2879.4062, y: 257.875, z: -2567.1484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2876.961, y: 263.4922, z: -2599.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2809.4844, y: 113.140625, z: -2559.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2812.3281, y: 116.53906, z: -2568.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2755.8281, y: 98.171875, z: -2648.9062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2870.5781, y: 268.45312, z: -2649.5}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2759.4297, y: 105.40625, z: -2662.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2757.8047, y: 105.15625, z: -2664.4062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2751.2031, y: 104.828125, z: -2673.336}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2837.0938, y: 229.5, z: -2687.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2743.625, y: 100.38281, z: -2669.3906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2720.2266, y: 97.49219, z: -2684.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2723.8828, y: 98.71875, z: -2684.6484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2720.914, y: 98.92969, z: -2688.2734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2733.2969, y: 103.39844, z: -2690.6484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2691.3516, y: 92.265625, z: -2690.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2689.2266, y: 92.35156, z: -2692.1875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2733.3281, y: 104.27344, z: -2693.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2741.7188, y: 107.38281, z: -2693.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2736.5234, y: 105.64844, z: -2694.8906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2845.0234, y: 233.29688, z: -2697.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2698.5703, y: 95.17969, z: -2695.0625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2854.8516, y: 247.03906, z: -2710.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2732.0078, y: 107.83594, z: -2706.7188}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2718.625, y: 105.5, z: -2710.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2700.5078, y: 100.47656, z: -2710.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2869.039, y: 267.83594, z: -2720.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2849.7969, y: 238, z: -2722.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2859.7344, y: 251.28906, z: -2741.4375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2855.211, y: 243.86719, z: -2745.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2808.2344, y: 227.49219, z: -2743.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2714.4375, y: 105.42969, z: -2714.1406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2702.5469, y: 102.15625, z: -2714}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2693.8828, y: 101.46094, z: -2719.211}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2901.2266, y: 211.07812, z: -2759.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2879.2422, y: 227.60156, z: -2759.9922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2876.2656, y: 223.79688, z: -2764.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2808.0625, y: 227.08594, z: -2764.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2843.039, y: 238.10156, z: -2773.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2800.3828, y: 230.65625, z: -2799.414}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2719.8828, y: 201.32031, z: -2801.5625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2725.1172, y: 203.79688, z: -2801.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2725.5234, y: 205.65625, z: -2803.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2724.8203, y: 207.17969, z: -2805.836}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2712.836, y: 197.89844, z: -2801.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2699.711, y: 203.10938, z: -2813.2734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2692.7422, y: 195.52344, z: -2808.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2684.4531, y: 198.10938, z: -2814.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2669.2578, y: 91.8125, z: -2706.6016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2661.7188, y: 90.17969, z: -2706.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2663.5234, y: 90.625, z: -2706.8906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2651.9375, y: 87.99219, z: -2706.6016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2667.25, y: 92.71875, z: -2711.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2666.6094, y: 94.171875, z: -2717.6016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2672.9219, y: 97.02344, z: -2723.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2654.5547, y: 88.71094, z: -2707.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2667.1094, y: 96.28125, z: -2725.1016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2662.2422, y: 95.64844, z: -2726.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2655.6094, y: 95.22656, z: -2730.6016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2634.7266, y: 94.00781, z: -2734.7031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2628.1719, y: 94.07031, z: -2737.4297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2615.8203, y: 86.796875, z: -2717.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2616.6172, y: 87.34375, z: -2718.836}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2611.6953, y: 87.55469, z: -2721.2578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2599.1016, y: 85.77344, z: -2718.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2597.3828, y: 84.109375, z: -2712.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2596.086, y: 85.34375, z: -2717.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2594.8672, y: 84.28906, z: -2713.3516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2616.6484, y: 90.22656, z: -2729.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2608.3516, y: 88.84375, z: -2727.0312}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2615.914, y: 92.30469, z: -2736.4453}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2604.0938, y: 92.15625, z: -2740.4766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2592.3125, y: 85.40625, z: -2717.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2581.6094, y: 86.24219, z: -2720.789}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2594.1719, y: 87.078125, z: -2723.1719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2579.8672, y: 87.14844, z: -2723.8828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2585.6797, y: 89.92969, z: -2733.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2576.3672, y: 83.109375, z: -2711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2646.6328, y: 125.203125, z: -2752.4766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2641.2812, y: 126.46094, z: -2754.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2646.5938, y: 129.78906, z: -2756.6406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2647.2734, y: 128.375, z: -2755.2266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2642.4219, y: 126.8125, z: -2754.7734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2668.086, y: 142.03125, z: -2758.6094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2656.7812, y: 138.28125, z: -2759.9062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2663.2188, y: 144.25, z: -2761.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2629.336, y: 127.00781, z: -2757.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2647.9766, y: 142.36719, z: -2765.3594}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2665.4688, y: 157.55469, z: -2769.289}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2660.5312, y: 152.875, z: -2767.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2637.1094, y: 147.03906, z: -2771.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2641.9688, y: 149.82031, z: -2772.0312}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2622.336, y: 132.39062, z: -2763.8281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2624.2188, y: 134.27344, z: -2765.164}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2619.3047, y: 140.99219, z: -2772.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2616.6484, y: 134.27344, z: -2766.664}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2611.336, y: 140.77344, z: -2773.625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2651.5547, y: 157.45312, z: -2773.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2639.8203, y: 152.89844, z: -2774.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2662.8047, y: 168.26562, z: -2776.9375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2655.9453, y: 161.55469, z: -2774.9219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2663.1562, y: 191.875, z: -2814.2422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2672.5156, y: 195.5, z: -2817.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2669.4375, y: 197.25781, z: -2821.1953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2635.9062, y: 190.24219, z: -2825.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2571.1094, y: 118.59375, z: -2752.336}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2576.6172, y: 121.109375, z: -2755.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2601.8828, y: 121.55469, z: -2757.7188}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2584.8828, y: 125.5, z: -2760.8984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2593.8594, y: 125.28125, z: -2761.1094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2588.8672, y: 128.82031, z: -2764.3672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2573.8594, y: 128.60938, z: -2763.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2593.3594, y: 136.07031, z: -2770.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2608.164, y: 140.21875, z: -2773.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2583.6172, y: 139.00781, z: -2773.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2589.1953, y: 138.82031, z: -2773.3594}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2583.2188, y: 139.50781, z: -2774.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2589.75, y: 145.67969, z: -2779.375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2584.7734, y: 141.58594, z: -2775.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2554.4297, y: 120.953125, z: -2753.5938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2557.3438, y: 144.72656, z: -2779.3281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2557.4062, y: 156.3125, z: -2804.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2553.5938, y: 159.4375, z: -2812.0703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2557.5312, y: 84.359375, z: -2898.6094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2542.9844, y: 115.921875, z: -2747.0781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2547.4297, y: 139.08594, z: -2772.8906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2542.4453, y: 136.13281, z: -2769.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2541.6016, y: 150.0625, z: -2792.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2542.414, y: 145.60156, z: -2782.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2539.875, y: 119.38281, z: -2750.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2517.6719, y: 117.49219, z: -2745.789}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2488.8516, y: 117.30469, z: -2740.7734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2490.539, y: 123.46094, z: -2748.4062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2532.961, y: 120.703125, z: -2751.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2474.5469, y: 133.42969, z: -2752.8203}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2450.711, y: 116.89844, z: -2741.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2369.6406, y: 112.52344, z: -2744.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2369.3203, y: 108.984375, z: -2741.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2414.5547, y: 118.78125, z: -2746.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2414.539, y: 122.625, z: -2749.711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2368.9375, y: 120.1875, z: -2750.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2412.5312, y: 125.359375, z: -2751.0703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2448.875, y: 137.99219, z: -2753.9453}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2461.8594, y: 146.25, z: -2762.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2435.8984, y: 142.63281, z: -2759.0625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2418.9844, y: 129.14062, z: -2753.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2514.8203, y: 135.5, z: -2765.5234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2456.414, y: 151.32812, z: -2765.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2528.9766, y: 135.96094, z: -2767.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2430.0469, y: 157.49219, z: -2768.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2418.8984, y: 155.39844, z: -2768.9844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2429.8516, y: 160.625, z: -2773.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2437.3984, y: 163.76562, z: -2778.5}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2433.1406, y: 163.58594, z: -2778.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2436.25, y: 169.35156, z: -2791.4688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2430.039, y: 168.20312, z: -2789.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2423.6953, y: 174.32812, z: -2804.625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2449.5078, y: 41, z: -2878.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2433.6719, y: 39.046875, z: -2882.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2422.5, y: 39.578125, z: -2878.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2477.1172, y: 40.59375, z: -2884.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2471.0469, y: 41.242188, z: -2889.5625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2450.7266, y: 38.960938, z: -2887.6406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2415.0625, y: 141.74219, z: -2760.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2412.836, y: 148.9375, z: -2765.7031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2413.0312, y: 154.83594, z: -2770.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2416.9297, y: 156.17188, z: -2770.836}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2403.9062, y: 154.99219, z: -2773.2422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2394.6562, y: 157.25781, z: -2779.8125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2376.836, y: 131.19531, z: -2760.1953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2386.3906, y: 135.14062, z: -2760.875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2386.2969, y: 146.65625, z: -2768.3984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2384.0469, y: 155.67969, z: -2780.8125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2374.914, y: 135.46094, z: -2761.9922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2372.7266, y: 144.11719, z: -2768.9219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2367.5078, y: 147.14844, z: -2772.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2362, y: 127.39844, z: -2757.4531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2390.6406, y: 166.11719, z: -2795.0625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2407.0078, y: 169.25781, z: -2795.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2410.4766, y: 38.257812, z: -2879.5625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2390.6328, y: 38.257812, z: -2874.3516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2378.0547, y: 170.58594, z: -2806.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2381.4766, y: 172.25781, z: -2807.7031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2378.0547, y: 39.351562, z: -2864.7656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2361.8516, y: 164.34375, z: -2800.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2254.8438, y: 103.390625, z: -2736.2031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2252, y: 105.63281, z: -2738.125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2289.4531, y: 114.32031, z: -2756.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2284.4297, y: 113.796875, z: -2756.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2279.7266, y: 114.234375, z: -2757.4453}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2269.6562, y: 120.91406, z: -2761.3906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2267.6094, y: 117.60156, z: -2756.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2323.289, y: 128.44531, z: -2765.8984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2254.5547, y: 126.8125, z: -2763.8047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2233.2578, y: 139.26562, z: -2762.8438}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2346.289, y: 139.20312, z: -2769.7969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2262.1719, y: 133.78125, z: -2774.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2219.5078, y: 145.99219, z: -2743.836}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2176.7422, y: 158.57031, z: -2722.8281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2216.9375, y: 147.26562, z: -2750.836}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2185.3516, y: 159.52344, z: -2754.1172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2225.5234, y: 146.28906, z: -2759.5469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2186.8828, y: 159.52344, z: -2764.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2159.7812, y: 149.46875, z: -2666.1328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2162.2969, y: 152.09375, z: -2678.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2155.25, y: 145.80469, z: -2645.2266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2149.9375, y: 152.0625, z: -2668.1484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2149.9375, y: 152.0625, z: -2675.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2164.3594, y: 154.21875, z: -2687.2344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2148.164, y: 152.0625, z: -2684.5625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2170.2422, y: 158.57031, z: -2718.7422}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2175.625, y: 158.57031, z: -2731.6719}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2330.5703, y: 143.86719, z: -2778.1406}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2307.4922, y: 153.77344, z: -2795.3125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2323.1406, y: 162.00781, z: -2801.0234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2308.5, y: 165.96875, z: -2808.9297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2311.7188, y: 172.41406, z: -2818.6953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2301.086, y: 167.25, z: -2812.2031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2279.711, y: 154.85156, z: -2803.664}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2286.211, y: 164.34375, z: -2812.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2284.961, y: 171.40625, z: -2821.086}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2278.7188, y: 157.8125, z: -2838.4844}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2277.7188, y: 145.35938, z: -2846.9531}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2326.1953, y: 50.601562, z: -2880.2266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2319.6328, y: 52.929688, z: -2879.8281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2298.7422, y: 59.492188, z: -2881.4766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2274.8203, y: 150.57812, z: -2797.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2272.6484, y: 168.375, z: -2820.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2271.1094, y: 163.02344, z: -2812.2266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2271.0938, y: 167.89062, z: -2820.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2262.25, y: 136.24219, z: -2777.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2261.625, y: 140.53125, z: -2781.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2259.7578, y: 143.47656, z: -2787.1953}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2258.7734, y: 145.76562, z: -2791.625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2204.1406, y: 160.67188, z: -2798.1172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2220.4688, y: 163.33594, z: -2818.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2190.836, y: 62.78125, z: -2880.5547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2190.0625, y: 47.367188, z: -2900.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: poVEG_tallgrass11
+    objectPosition: {x: 2178.8125, y: 46.484375, z: -2901.7344}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: preshoos01_SFN03
+    objectPosition: {x: 2633.0938, y: 13.828125, z: -2342.0547}
+    objectRotation: {x: -0, y: 0.0000000037252903, z: -0, w: 1}
+  - objectName: preshoos03_SFN01
+    objectPosition: {x: 2632.3438, y: 16.554688, z: -2392.4844}
+    objectRotation: {x: -0, y: 0.043619383, z: -0, w: 0.99904823}
+  - objectName: preshoos03_SFN02
+    objectPosition: {x: 2633.1953, y: 14.3671875, z: -2365.9219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: preshoos03_SFN03
+    objectPosition: {x: 2628.3984, y: 19.398438, z: -2417.4688}
+    objectRotation: {x: -0, y: 0.087155744, z: -0, w: 0.9961947}
+  - objectName: preshoos03_SFN04
+    objectPosition: {x: 2418.3281, y: 18.40625, z: -2454.8438}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: preshoos03_SFN05
+    objectPosition: {x: 2430.6797, y: 18.40625, z: -2407.336}
+    objectRotation: {x: -0, y: -0.00000008742278, z: -0, w: 1}
+  - objectName: preshoos03_SFN06
+    objectPosition: {x: 2343.164, y: 12.6796875, z: -2431.6406}
+    objectRotation: {x: -4.0607047e-17, y: 0.9561244, z: 4.0607047e-17, w: -0.29296097}
+  - objectName: preshoos03_SFN07
+    objectPosition: {x: 2389.414, y: 14.1875, z: -2404.5078}
+    objectRotation: {x: -0, y: 0.2282657, z: -0, w: 0.9735989}
+  - objectName: preshoosbig01_SFN01
+    objectPosition: {x: 2588.4766, y: 11.21875, z: -2303.5156}
+    objectRotation: {x: -0, y: -0.039948937, z: -0, w: 0.9992017}
+  - objectName: preshoosbig02_SFN
+    objectPosition: {x: 2592.4922, y: 14.09375, z: -2360.7812}
+    objectRotation: {x: -0, y: 0.00000008742278, z: -0, w: 1}
+  - objectName: preshoosbig02_SFN01
+    objectPosition: {x: 2380.3828, y: 14.3828125, z: -2451.8672}
+    objectRotation: {x: -0, y: -0.55739504, z: -0, w: 0.8302474}
+  - objectName: preshoosbig02_SFN02
+    objectPosition: {x: 2477.2578, y: 21.539062, z: -2455.961}
+    objectRotation: {x: -0.0000000865232, y: -0.09153211, z: -0.000000007953037, w: 0.9958021}
+  - objectName: preshoosml02_SFN
+    objectPosition: {x: 2631.039, y: 11.1171875, z: -2314.3125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: preshoosml02_SFN01
+    objectPosition: {x: 2631.289, y: 11.125, z: -2287.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road01sfn
+    objectPosition: {x: 2688.625, y: 51.257812, z: -2421.9219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road02sfn
+    objectPosition: {x: 2580.875, y: 23.625, z: -2471.7734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road03sfn
+    objectPosition: {x: 2524.9297, y: 9.78125, z: -2342.8828}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road04sfn
+    objectPosition: {x: 2482.1719, y: 9.75, z: -2334.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road05sfn
+    objectPosition: {x: 2399.4688, y: 10.1171875, z: -2404.75}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road06sfn
+    objectPosition: {x: 2391.1172, y: 4.375, z: -2354.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road07sfn
+    objectPosition: {x: 2584.5625, y: 8.8515625, z: -2359.7188}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: road08sfn
+    objectPosition: {x: 2276.539, y: 4.2265625, z: -2330.1484}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbedsfn1_SFN
+    objectPosition: {x: 2963.4453, y: -71.63281, z: -2273.4922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbedsfn2_SFN
+    objectPosition: {x: 2963.461, y: -76.08594, z: -2759.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbedsfn3_SFN
+    objectPosition: {x: 2741.8984, y: -64.484375, z: -2913.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sbedsfn4_SFN
+    objectPosition: {x: 2346.1484, y: -64.484375, z: -2913.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_clothesSHOP_cm1
+    objectPosition: {x: 2514.9062, y: 8.484375, z: -2357.0469}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_cm_grNd02
+    objectPosition: {x: 2510.3203, y: 3.953125, z: -2295.9766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_CM_GRNDSHOP
+    objectPosition: {x: 2548.8672, y: 3.9765625, z: -2308.3906}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_coast01
+    objectPosition: {x: 2413.2344, y: -19.070312, z: -2249.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_coast03
+    objectPosition: {x: 2284.3516, y: -19.09375, z: -2460.6016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_coast04
+    objectPosition: {x: 2218.2734, y: -19.09375, z: -2359.9062}
+    objectRotation: {x: -0, y: -0.3769152, z: -0, w: 0.9262478}
+  - objectName: sfn_coast05
+    objectPosition: {x: 2545.8203, y: -19.117188, z: -2225.8516}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_coast06
+    objectPosition: {x: 2329.5547, y: -19.070312, z: -2284.5781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_crashbar01
+    objectPosition: {x: 2729.2031, y: 64.55469, z: -2310.5781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_crashbar02
+    objectPosition: {x: 2753.3672, y: 83.40625, z: -2435.7578}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_crashbar03
+    objectPosition: {x: 2670.5078, y: 81.69531, z: -2598.6016}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_crashbar04
+    objectPosition: {x: 2514.7656, y: 67.015625, z: -2678.6875}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_crashbar05
+    objectPosition: {x: 2370.461, y: 55.90625, z: -2641.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_crashbar06
+    objectPosition: {x: 2699.0156, y: 55.8125, z: -2224.5156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_crashbar07
+    objectPosition: {x: 2632.461, y: 45.414062, z: -2430.7812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_DOORWAY02
+    objectPosition: {x: 2501.3594, y: 3.984375, z: -2319.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_fence_cm2
+    objectPosition: {x: 2390.1797, y: 8.8125, z: -2406.3516}
+    objectRotation: {x: -0, y: 0.21962932, z: -0, w: 0.97558343}
+  - objectName: sfn_hedge05_cm
+    objectPosition: {x: 2314.1484, y: 5.9609375, z: -2408.3047}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_hedge_cm_010
+    objectPosition: {x: 2466.2578, y: 10.203125, z: -2371.7969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_newland_cm01
+    objectPosition: {x: 2527.8438, y: 3.90625, z: -2244.2969}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_newland_cm02
+    objectPosition: {x: 2528.2969, y: 3.9609375, z: -2242.961}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_newland_cm03
+    objectPosition: {x: 2553.1875, y: 4.015625, z: -2255.1797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_PIER_grassbit
+    objectPosition: {x: 2428.211, y: 4.234375, z: -2220.1172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_pres_hedge9
+    objectPosition: {x: 2630.8203, y: 10.8828125, z: -2390.5625}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_PRESHEDGE1
+    objectPosition: {x: 2476.8672, y: 15.6015625, z: -2454.711}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_SHOPBITS01
+    objectPosition: {x: 2529.5469, y: 3.984375, z: -2319.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_STAIRS_bit
+    objectPosition: {x: 2592.3438, y: 3.984375, z: -2246.0703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_town01
+    objectPosition: {x: 2488.086, y: 11.1875, z: -2280.2812}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_town02
+    objectPosition: {x: 2512.2344, y: 10.453125, z: -2309.039}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sfn_town03
+    objectPosition: {x: 2512.125, y: 9.2578125, z: -2282.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_wall_cm01
+    objectPosition: {x: 2481, y: 16.34375, z: -2497.6797}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_wall_cm02
+    objectPosition: {x: 2390.4922, y: 9.328125, z: -2450.6094}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFN_WALL_cm2
+    objectPosition: {x: 2382.1094, y: 8.484375, z: -2380.9688}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFNfence_CM01
+    objectPosition: {x: 2341.7578, y: 7.1015625, z: -2430.0312}
+    objectRotation: {x: -4.001116e-17, y: 0.9538178, z: 4.001116e-17, w: -0.300386}
+  - objectName: SFNfence_pres_5
+    objectPosition: {x: 2632.3828, y: 8.2578125, z: -2342.3672}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFNhdge_presi_cm10
+    objectPosition: {x: 2587.3984, y: 9.7109375, z: -2372.4766}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFNhedge_PRES02
+    objectPosition: {x: 2393.4688, y: 10.359375, z: -2454.664}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFNLand_villaCM1
+    objectPosition: {x: 2437.5625, y: 3.9609375, z: -2359.0938}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFNpres_hdge_10
+    objectPosition: {x: 2630.1328, y: 7.90625, z: -2301.0234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: SFNvilla001_CM
+    objectPosition: {x: 2452.875, y: 4.6640625, z: -2357.4531}
+    objectRotation: {x: -0, y: -0.09892846, z: -0, w: 0.99509454}
+  - objectName: shopstairsSFN1
+    objectPosition: {x: 2484.9062, y: 6.7265625, z: -2356.7734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2362.7188, y: 71.72656, z: -2702.789}
+    objectRotation: {x: -0.04314707, y: 0.8831301, z: 0.0828847, w: -0.459728}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2499.3828, y: 78.3125, z: -2702.7812}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2630.2656, y: 85.0625, z: -2693.7266}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2759.19, y: 95.843796, z: -2629.17}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2798.8438, y: 105.53906, z: -2499.7969}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2812.8047, y: 100.21875, z: -2408.0703}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2787.95, y: 74.6641, z: -2310.06}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2735.914, y: 62.476562, z: -2215.7812}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2752.7656, y: 69.38281, z: -2226.4844}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2770.1719, y: 74.80469, z: -2227.7734}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2760.03, y: 68.2109, z: -2245.49}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2788.9453, y: 78.69531, z: -2249.7031}
+    objectRotation: {x: -2.6039823e-17, y: 0.88701093, z: 2.6039823e-17, w: -0.4617484}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2801.4062, y: 82.17969, z: -2255.3203}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2801.4062, y: 82.734375, z: -2245.0547}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2803.6484, y: 82.49219, z: -2301.4922}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2806.5547, y: 84.17969, z: -2325.2422}
+    objectRotation: {x: -2.6039823e-17, y: 0.88701093, z: 2.6039823e-17, w: -0.4617484}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2808.0625, y: 86.30469, z: -2335.8984}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2812.9297, y: 85.52344, z: -2311.8594}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2819.8047, y: 104.14844, z: -2420.4062}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2826.0938, y: 103.40625, z: -2408.9922}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2827.4688, y: 109.11719, z: -2436.6406}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2820.4062, y: 100.88281, z: -2400.211}
+    objectRotation: {x: -2.6039823e-17, y: 0.88701093, z: 2.6039823e-17, w: -0.4617484}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2805.711, y: 107.78906, z: -2509.8984}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2810.75, y: 109.40625, z: -2495.2656}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2836.0078, y: 132.8125, z: -2510.9922}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2772.8125, y: 102.27344, z: -2621.164}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2789.2344, y: 106.109375, z: -2608.2422}
+    objectRotation: {x: -2.6039823e-17, y: 0.88701093, z: 2.6039823e-17, w: -0.4617484}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2782.461, y: 108.58594, z: -2640.7031}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2801.5469, y: 115.796875, z: -2642.375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2662.3125, y: 90, z: -2699.5}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2635.7656, y: 95.11719, z: -2729.0078}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2691.8281, y: 93.58594, z: -2687.2734}
+    objectRotation: {x: -2.6039823e-17, y: 0.88701093, z: 2.6039823e-17, w: -0.4617484}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2703.461, y: 97.4375, z: -2691.086}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2692.6094, y: 96.89844, z: -2698.9688}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2683.7344, y: 93.71875, z: -2694.3438}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2512.8906, y: 80.984375, z: -2708.1172}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2524.8438, y: 85.421875, z: -2718.9297}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2506.3047, y: 85.609375, z: -2717.9375}
+    objectRotation: {x: -2.6039823e-17, y: 0.88701093, z: 2.6039823e-17, w: -0.4617484}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2377.6094, y: 73.796875, z: -2705.039}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2395.164, y: 71.17969, z: -2702.375}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2368.5938, y: 77.67969, z: -2716.8516}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2319.9844, y: 70.35156, z: -2709.125}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2308.3516, y: 70.52344, z: -2709.125}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2429.2422, y: 79.58594, z: -2714.6562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2442.6016, y: 78.75, z: -2709.461}
+    objectRotation: {x: -0, y: -0.5735765, z: -0, w: 0.819152}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2573.0469, y: 85.0625, z: -2707.5781}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2732.2031, y: 98.00781, z: -2663.9844}
+    objectRotation: {x: -8.5280025e-17, y: 0.8191521, z: 8.5280025e-17, w: 0.57357633}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2788.96, y: 103.86699, z: -2553.86}
+    objectRotation: {x: -0, y: -0.5735763, z: -0, w: 0.8191522}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2798.48, y: 100.32, z: -2458.45}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2795.13, y: 82.9141, z: -2368.26}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2372.41, y: 3.34375, z: -2480.77}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2382.52, y: 6.8906198, z: -2488.09}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2500.3125, y: 17.78125, z: -2478.375}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2520.74, y: 17.7812, z: -2491.92}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2522.4688, y: 17.78125, z: -2473.9297}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2543.711, y: 17.78125, z: -2497.9062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2391.8594, y: 13.921875, z: -2531.7812}
+    objectRotation: {x: -0, y: -0.25881907, z: -0, w: 0.9659259}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2409.5781, y: 12.203125, z: -2524.7188}
+    objectRotation: {x: -3.99854e-17, y: 0.95371693, z: 3.99854e-17, w: -0.30070582}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2566.164, y: 20.492188, z: -2513.0234}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2565.8438, y: 19.578125, z: -2541.8281}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2596.1797, y: 22.804688, z: -2526.4219}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2527.6484, y: 18.53125, z: -2546.4062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2665.1875, y: 22.617188, z: -2318.3516}
+    objectRotation: {x: -7.4993994e-17, y: 0.9659258, z: 7.4993994e-17, w: 0.25881907}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2668.2188, y: 22.617188, z: -2304.3125}
+    objectRotation: {x: -3.313872e-17, y: 0.9238796, z: 3.313872e-17, w: -0.38268322}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2674.5234, y: 22.617188, z: -2329.1094}
+    objectRotation: {x: -5.566263e-17, y: 0.9961948, z: 5.566263e-17, w: -0.08715497}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2651.1016, y: 8.3125, z: -2342.5156}
+    objectRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2649.8594, y: 8.3125, z: -2359.1953}
+    objectRotation: {x: -7.303398e-17, y: 0.97629607, z: 7.303398e-17, w: 0.21643929}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2644.3672, y: 12.125, z: -2405.4453}
+    objectRotation: {x: -7.303398e-17, y: 0.97629607, z: 7.303398e-17, w: 0.21643929}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2591.375, y: 10.0078125, z: -2390.25}
+    objectRotation: {x: -7.303398e-17, y: 0.97629607, z: 7.303398e-17, w: 0.21643929}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2591.375, y: 12.578125, z: -2414.7031}
+    objectRotation: {x: -0, y: 0.518898, z: -0, w: 0.85483617}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2591.09, y: 17.4844, z: -2466.44}
+    objectRotation: {x: -0, y: 0.22495106, z: -0, w: 0.97437006}
+  - objectName: sm_fir_copse1
+    objectPosition: {x: 2557.2188, y: 18, z: -2444.2266}
+    objectRotation: {x: 0.029062018, y: -0.51672435, z: -0.017553974, w: 0.85547835}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2568.1797, y: 4.125, z: -2307.0938}
+    objectRotation: {x: -0.00000007455213, y: -0.70820624, z: 0.00000003933548, w: 0.70600563}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2609.0078, y: 6.96875, z: -2338.539}
+    objectRotation: {x: -0.000000079993455, y: 0.019344231, z: -0.000000026579649, w: 0.9998129}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2517.2188, y: 3.984375, z: -2263.5234}
+    objectRotation: {x: -0.000000081747494, y: -0.5208648, z: 0.00000002056152, w: 0.8536392}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2531.3438, y: 4.203125, z: -2336.8516}
+    objectRotation: {x: -0.00000008079393, y: -0.012281567, z: -0.000000024036801, w: 0.9999246}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2458.4453, y: 4.0859375, z: -2247.5469}
+    objectRotation: {x: -0.00000007455213, y: -0.70820624, z: 0.00000003933548, w: 0.70600563}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2460.3984, y: 3.21875, z: -2339.7578}
+    objectRotation: {x: -0.00000008125629, y: -0.032179452, z: -0.000000022424093, w: 0.9994821}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2501.289, y: 15.7265625, z: -2431.1484}
+    objectRotation: {x: -0.000000083338016, y: -0.15015519, z: -0.000000012657131, w: 0.9886624}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2473.336, y: 11.125, z: -2381.7188}
+    objectRotation: {x: -0.00000006632314, y: -0.251088, z: -0.000000052025673, w: 0.9679643}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2431.2812, y: 11.8984375, z: -2439.8125}
+    objectRotation: {x: -0.00000008429297, y: -0.004127028, z: -3.4788103e-10, w: 0.9999915}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2388.0078, y: 3.21875, z: -2350.9922}
+    objectRotation: {x: -0.00000008125629, y: -0.032179452, z: -0.000000022424093, w: 0.9994821}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2256.625, y: 3.9609375, z: -2346.8047}
+    objectRotation: {x: -0.00000008017548, y: 0.30874568, z: 0.000000026025315, w: 0.95114464}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2304.5, y: 4.765625, z: -2381.5469}
+    objectRotation: {x: -0.00000008017548, y: 0.30874568, z: 0.000000026025315, w: 0.95114464}
+  - objectName: telgrphpole02_L0
+    objectPosition: {x: 2353.4375, y: 6.1640625, z: -2414.836}
+    objectRotation: {x: -0.00000008017548, y: 0.30874568, z: 0.000000026025315, w: 0.95114464}
+  - objectName: tempobj_SFN04
+    objectPosition: {x: 2530.3516, y: 7.96875, z: -2346.2031}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: track01_SFN
+    objectPosition: {x: 2440.3125, y: 10.984375, z: -2492.6328}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: track02_SFN
+    objectPosition: {x: 2308.7969, y: 5.5078125, z: -2421.3984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2560.8672, y: 7.0703125, z: -2316.8984}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2774.9062, y: 78.39844, z: -2360.2656}
+    objectRotation: {x: -6.66507e-17, y: 0.99568444, z: 6.66507e-17, w: 0.09280406}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2729.2969, y: 74.25781, z: -2343.2578}
+    objectRotation: {x: -0, y: -0.09280484, z: -0, w: 0.9956843}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2729.2188, y: 74.171875, z: -2365.7734}
+    objectRotation: {x: 8.03648e-18, y: -0.769678, z: -8.03648e-18, w: 0.6384323}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2579.0547, y: 7.53125, z: -2328.6172}
+    objectRotation: {x: -0, y: 0.70710665, z: -0, w: 0.7071069}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2566.0156, y: 7.546875, z: -2346.414}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2548.9766, y: 7.1640625, z: -2333.5938}
+    objectRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2474.0547, y: 7.1640625, z: -2326.164}
+    objectRotation: {x: -0, y: 0.70710665, z: -0, w: 0.7071069}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2461.164, y: 7.1640625, z: -2323.539}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2470.875, y: 7.1640625, z: -2339.125}
+    objectRotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.0000000754979}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2458.3516, y: 7.1640625, z: -2335.6797}
+    objectRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2509.461, y: 18.984375, z: -2414.039}
+    objectRotation: {x: -0, y: 0.49351877, z: -0, w: 0.8697351}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2511.9531, y: 18.984375, z: -2425.9844}
+    objectRotation: {x: -7.531524e-17, y: 0.9639662, z: 7.531524e-17, w: 0.26602498}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2498.8672, y: 18.9375, z: -2428.9453}
+    objectRotation: {x: -2.3036623e-17, y: 0.86973524, z: 2.3036623e-17, w: -0.49351862}
+  - objectName: trafficlight1_L0
+    objectPosition: {x: 2496.375, y: 18.9375, z: -2416.9922}
+    objectRotation: {x: -0, y: -0.2660251, z: -0, w: 0.96396613}
+  - objectName: trunk07
+    objectPosition: {x: 2626.4062, y: 111.94531, z: -2765.0156}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: Villa_SFN_CHRIS_01
+    objectPosition: {x: 2553.289, y: 6.640625, z: -2261.9375}
+    objectRotation: {x: -0, y: 0.2193855, z: -0, w: 0.9756383}
+  - objectName: Villa_SFN_CHRIS_02
+    objectPosition: {x: 2527.711, y: 6.2734375, z: -2238.211}
+    objectRotation: {x: -0, y: 0.21564603, z: -0, w: 0.9764716}
+  - objectName: Villa_SFN_CHRIS_04
+    objectPosition: {x: 2437.5938, y: 6.8359375, z: -2360.3984}
+    objectRotation: {x: -0, y: -0.09865411, z: -0, w: 0.99512184}
+  - objectName: ggbrig_04_sfw
+    objectPosition: {x: 2681.4922, y: 86.71875, z: -2042.1562}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost2_L0
+    objectPosition: {x: 2681.586, y: 60.789062, z: -2111.6172}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
+  - objectName: lamppost2_L0
+    objectPosition: {x: 2681.586, y: 62.09375, z: -2048.9062}
+    objectRotation: {x: -0, y: -0, z: -0, w: 1}
